@@ -80,6 +80,102 @@ def parse_m3u(path):
     return entries
 
 
+# Radios indé publiant leur grille : nom normalisé -> (type, identifiant)
+SCHEDULES = {
+    "netilradio": ("airtime", "netilradio"), "kioskradio": ("airtime", "kioskradiobxl"),
+    "cashmereradio": ("airtime", "cashmereradio"), "radio80000": ("airtime", "radio80k"),
+    "radioraheem": ("airtime", "radioraheem"), "dublab": ("airtime", "dublab"),
+    "refugeworldwide": ("refuge", ""), "kexp": ("kexp", ""),
+}
+UTC = ZoneInfo("UTC")
+
+# Descriptifs des radios indé (EPG quand la radio ne publie pas sa grille)
+DESCRIPTIONS = {
+    "rinsefrance": "Paris – club et électronique, scène parisienne. La plus proche de NTS en France.",
+    "lylradio": "Lyon / Paris – ultra éclectique, de l'expérimental au rap.",
+    "pinataradio": "Marseille – électronique et musiques méditerranéennes, ambiance solaire.",
+    "radiogrenouille": "Marseille – radio associative historique, culturelle et défricheuse.",
+    "rinsefm": "Londres – ex-radio pirate, berceau du garage, du grime et du dubstep.",
+    "worldwidefm": "Londres – la radio de Gilles Peterson : jazz, soul, musiques du monde.",
+    "netilradio": "Londres – petite radio indé de Hackney, très éclectique.",
+    "noodsradio": "Bristol – émissions pointues et décalées, bass music.",
+    "kioskradio": "Bruxelles – émet depuis un kiosque dans un parc : électronique, disco, musiques du monde.",
+    "refugeworldwide": "Berlin – radio communautaire et engagée, club et expérimental.",
+    "cashmereradio": "Berlin – expérimental, ambient, art sonore.",
+    "radio80000": "Munich – disco, house, jazz, ambiance chaleureuse.",
+    "operatorradio": "Rotterdam – électronique et scène locale.",
+    "intergalacticfm": "La Haye – électro, italo, techno à l'ancienne, très culte.",
+    "radioraheem": "Milan – électronique, jazz, scène italienne.",
+    "thelotradio": "New York – depuis un conteneur à Brooklyn : house, techno, disco (flux vidéo).",
+    "dublab": "Los Angeles – pionnière des webradios : beats, ambient, expérimental.",
+    "kexp": "Seattle – rock indé et alternatif, célèbre pour ses sessions live.",
+    "orokoradio": "Accra – radio indé tournée vers les musiques africaines et de la diaspora.",
+}
+
+
+def fetch_json(url):
+    r = subprocess.run(["curl", "-sfL", "-m", "15", "-A", UA, url], capture_output=True, text=True)
+    try:
+        return json.loads(r.stdout)
+    except ValueError:
+        return None
+
+
+def strip_html(s):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", s or "")).strip()
+
+
+def external_schedule(name, today):
+    """-> liste de (début, fin, titre, description) ou [] si indisponible."""
+    kind, ident = SCHEDULES.get(norm(name), (None, None))
+    slots = []
+    if kind == "airtime":
+        data = fetch_json(f"https://{ident}.airtime.pro/api/week-info?timezone=UTC") or {}
+        for day in data.values():
+            for s in day if isinstance(day, list) else []:
+                try:
+                    a = datetime.fromisoformat(s["starts"]).replace(tzinfo=UTC)
+                    b = datetime.fromisoformat(s["ends"]).replace(tzinfo=UTC)
+                except (KeyError, ValueError):
+                    continue
+                slots.append((a, b, strip_html(s.get("name")), strip_html(s.get("description"))[:500]))
+    elif kind == "refuge":
+        data = fetch_json("https://refugeworldwide.com/api/schedule") or {}
+        for s in data.get("nextUp") or []:
+            try:
+                slots.append((datetime.fromisoformat(s["date"].replace("Z", "+00:00")),
+                              datetime.fromisoformat(s["dateEnd"].replace("Z", "+00:00")), s["title"], ""))
+            except (KeyError, ValueError, AttributeError):
+                continue
+    elif kind == "kexp":
+        la = ZoneInfo("America/Los_Angeles")
+        data = fetch_json("https://api.kexp.org/v2/timeslots/?limit=500") or {}
+        ts = [s for s in data.get("results") or [] if not s.get("end_date")]
+        day0 = datetime.now(la).replace(hour=0, minute=0, second=0, microsecond=0)
+        for d in range(-1, EPG_DAYS):
+            day = day0 + timedelta(days=d)
+            for s in ts:
+                if s.get("weekday") != day.isoweekday():
+                    continue
+                h1, m1, _ = map(int, s["start_time"].split(":"))
+                h2, m2, _ = map(int, s["end_time"].split(":"))
+                a = day.replace(hour=h1, minute=m1)
+                b = day.replace(hour=h2, minute=m2)
+                if b <= a:
+                    b += timedelta(days=1)
+                hosts = ", ".join(s.get("host_names") or [])
+                slots.append((a, b, s.get("program_name") or "KEXP", f"Avec {hosts}" if hosts else ""))
+    slots = sorted({(a, b, ti, de) for a, b, ti, de in slots if b > a and ti}, key=lambda x: x[0])
+    # supprime les chevauchements éventuels
+    out, last = [], None
+    for a, b, ti, de in slots:
+        if last and a < last:
+            continue
+        out.append((a, b, ti, de))
+        last = b
+    return out
+
+
 def xmltv_time(dt):
     return dt.astimezone(PARIS).strftime("%Y%m%d%H%M%S %z")
 
@@ -165,12 +261,19 @@ def main(fr_json, nts_json, live_json, folder):
                           (d.get("media") or {}).get("picture_medium", ""), "Musique")
                 n_real += 1
             continue
+        ext = external_schedule(e["name"], today) if norm(e["name"]) in SCHEDULES else []
+        if ext:
+            for a, b, ti, de in ext:
+                programme(e["id"], a, b, ti, de or DESCRIPTIONS.get(norm(e["name"]), ""), e["logo"], "Musique")
+                n_real += 1
+            continue
         if e["name"] in mixtapes:
             m = mixtapes[e["name"]]
             title, desc, cat = name, f"{m.get('subtitle', '')} {m.get('description', '')}".strip(), "Musique"
         else:
             tags = ((e["st"] or {}).get("tags") or e["group"]).replace(",", ", ")
-            title, desc, cat = f"{name} – En direct", tags, e["group"] or "Radio"
+            desc = DESCRIPTIONS.get(norm(e["name"]), tags)
+            title, cat = f"{name} – En direct", e["group"] or "Radio"
         for d in range(EPG_DAYS):
             start = today + timedelta(days=d)
             programme(e["id"], start, start + timedelta(days=1), title, desc, e["logo"], cat)

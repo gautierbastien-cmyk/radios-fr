@@ -96,7 +96,7 @@ def main(fr_json, nts_json, out_dir, source=None):
 
     # c. Radios principales : test + remplacement
     main_entries = [e for e in parse_m3u(source or out / "radios-fr-short.m3u")
-                    if e["group"] != "NTS" and not (norm(e["name"]) == "rmc" or RMC_PATTERN.search(e["url"]))]
+                    if e["group"] not in ("NTS", "Radios indé") and not (norm(e["name"]) == "rmc" or RMC_PATTERN.search(e["url"]))]
     status = check_all([e["url"] for e in main_entries])
     unfixed = []
     for e in main_entries:
@@ -110,9 +110,18 @@ def main(fr_json, nts_json, out_dir, source=None):
         else:
             unfixed.append(e["name"])
 
+    # d. Radios indé (fichier éditable, affichées juste après NTS) : flux morts ignorés
+    inde_path = Path(source).parent / "radios-inde.source.m3u" if source else out / "radios-inde.source.m3u"
+    inde = parse_m3u(inde_path) if inde_path.exists() else []
+    inde_status = check_all([e["url"] for e in inde])
+    inde_dead = [e["name"] for e in inde if not inde_status[e["url"]]]
+    inde = [e for e in inde if inde_status[e["url"]]]
+
     head = extinf(rmc["name"], rmc["url"], rmc["group"], rmc["logo"])
     head += "".join(extinf(n["name"], n["url"], "NTS") for n in nts)
-    head_urls = {rmc["url"]} | {n["url"] for n in nts}
+    head += "".join(extinf(e["name"], e["url"], e["group"] or "Radios indé", e["logo"]) for e in inde)
+    head_urls = {rmc["url"]} | {n["url"] for n in nts} | {e["url"] for e in inde}
+    inde_names = {norm(e["name"]) for e in inde}
 
     # radios-fr-short.m3u
     body = "".join(extinf(e["name"], e["url"], e["group"], e["logo"]) for e in main_entries)
@@ -122,7 +131,7 @@ def main(fr_json, nts_json, out_dir, source=None):
     seen, body, n_rb = set(head_urls), [], 0
     for s in stations:
         url = s["url_resolved"].strip()
-        if url in seen or RMC_PATTERN.search(url):
+        if url in seen or RMC_PATTERN.search(url) or norm(s["name"]) in inde_names:
             continue
         seen.add(url)
         tag = (s.get("tags") or "").split(",")[0].strip()
@@ -131,8 +140,9 @@ def main(fr_json, nts_json, out_dir, source=None):
     (out / "radios-fr-full.m3u").write_text("#EXTM3U\n" + head + "".join(body))
 
     print(json.dumps({
-        "radios_fr": 1 + len(nts) + len(main_entries),
-        "radios_fr_complet": 1 + len(nts) + n_rb,
+        "radios_fr": 1 + len(nts) + len(inde) + len(main_entries),
+        "radios_fr_complet": 1 + len(nts) + len(inde) + n_rb,
+        "inde": len(inde), "inde_dead": inde_dead,
         "nts": len(nts), "nts_dead": [n["name"] for n in nts_dead],
         "fixes": fixes, "unfixed": unfixed,
     }, ensure_ascii=False, indent=2))

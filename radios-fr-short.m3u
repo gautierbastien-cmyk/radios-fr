@@ -38,6 +38,44 @@ https://stream-mixtape-geo.ntslive.net/mixtape36
 https://stream-mixtape-geo.ntslive.net/mixtape34
 #EXTINF:-1 tvg-id="ntsfieldrecordings.fr" tvg-name="NTS – Field Recordings" tvg-logo="https://media.ntslive.co.uk/resize/400x400/807d8db6-049d-4eeb-8515-57c02b251e73_1622592000.png" group-title="NTS",NTS – Field Recordings
 https://stream-mixtape-geo.ntslive.net/mixtape23
+#EXTINF:-1 tvg-id="rinsefrance.fr" tvg-name="Rinse France" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rinse.fm&size=256" group-title="Radios indé",Rinse France
+https://radio10.pro-fhi.net/radio/9041/stream
+#EXTINF:-1 tvg-id="lylradio.fr" tvg-name="LYL Radio" tvg-logo="https://lyl.live/favicon.ico" group-title="Radios indé",LYL Radio
+https://icecast.lyl.live/live
+#EXTINF:-1 tvg-id="pinataradio.fr" tvg-name="Piñata Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinataradio.com&size=256" group-title="Radios indé",Piñata Radio
+https://listen.radioking.com/radio/96031/stream/134656
+#EXTINF:-1 tvg-id="radiogrenouille.fr" tvg-name="Radio Grenouille" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radiogrenouille.com&size=256" group-title="Radios indé",Radio Grenouille
+https://live.radiogrenouille.com:8443/live
+#EXTINF:-1 tvg-id="rinsefm.fr" tvg-name="Rinse FM" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.rinse.fm&size=256" group-title="Radios indé",Rinse FM
+https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+#EXTINF:-1 tvg-id="worldwidefm.fr" tvg-name="Worldwide FM" tvg-logo="https://ui-avatars.com/api/?name=Worldwide+FM&size=256&background=random&bold=true" group-title="Radios indé",Worldwide FM
+https://worldwide-fm.radiocult.fm/stream
+#EXTINF:-1 tvg-id="netilradio.fr" tvg-name="Netil Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://netilradio.com&size=256" group-title="Radios indé",Netil Radio
+https://netilradio.out.airtime.pro/netilradio_a
+#EXTINF:-1 tvg-id="noodsradio.fr" tvg-name="Noods Radio" tvg-logo="https://noodsradio.com/_nuxt/noods-logo.CgUioM5-.svg" group-title="Radios indé",Noods Radio
+https://noods-radio.radiocult.fm/stream
+#EXTINF:-1 tvg-id="kioskradio.fr" tvg-name="Kiosk Radio" tvg-logo="https://kioskradio.com/favicon.png" group-title="Radios indé",Kiosk Radio
+https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+#EXTINF:-1 tvg-id="refugeworldwide.fr" tvg-name="Refuge Worldwide" tvg-logo="https://refugeworldwide.com/apple-touch-icon.png" group-title="Radios indé",Refuge Worldwide
+https://streaming.radio.co/s3699c5e49/listen
+#EXTINF:-1 tvg-id="cashmereradio.fr" tvg-name="Cashmere Radio" tvg-logo="https://backstage.cashmereradio.com/wp-content/themes/cashmereradio/icons/android-icon-192x192.png" group-title="Radios indé",Cashmere Radio
+https://cashmereradio.out.airtime.pro/cashmereradio_b
+#EXTINF:-1 tvg-id="radio80000.fr" tvg-name="Radio 80000" tvg-logo="https://www.radio80k.de/app/uploads/2022/10/cropped-favicon-8000-192x192.gif" group-title="Radios indé",Radio 80000
+https://radio80k.out.airtime.pro/radio80k_a
+#EXTINF:-1 tvg-id="operatorradio.fr" tvg-name="Operator Radio" tvg-logo="https://operator-radio.com/favicon.ico" group-title="Radios indé",Operator Radio
+https://origin.streamnerd.nl/operator/operator/icecast.audio
+#EXTINF:-1 tvg-id="intergalacticfm.fr" tvg-name="Intergalactic FM" tvg-logo="https://www.intergalactic.fm/themes/custom/ifm/favicon.ico" group-title="Radios indé",Intergalactic FM
+https://radio.intergalactic.fm/1
+#EXTINF:-1 tvg-id="radioraheem.fr" tvg-name="Radio Raheem" tvg-logo="https://www.radioraheem.it/wp-content/themes/gds-vue/meta/favicon.ico" group-title="Radios indé",Radio Raheem
+https://radioraheem.out.airtime.pro/radioraheem_a
+#EXTINF:-1 tvg-id="thelotradio.fr" tvg-name="The Lot Radio" tvg-logo="https://cdn.prod.website-files.com/5f4bdfc87623ea5cc5d24cf3/606da84551eef3d5fa8c0cb9_icon.png" group-title="Radios indé",The Lot Radio
+https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
+#EXTINF:-1 tvg-id="dublab.fr" tvg-name="dublab" tvg-logo="https://ui-avatars.com/api/?name=dublab&size=256&background=random&bold=true" group-title="Radios indé",dublab
+https://dublab.out.airtime.pro/dublab_a
+#EXTINF:-1 tvg-id="kexp.fr" tvg-name="KEXP" tvg-logo="http://www.kexp.org/static/assets/img/favicon-32x32.png" group-title="Radios indé",KEXP
+https://kexp.streamguys1.com/kexp160.aac
+#EXTINF:-1 tvg-id="orokoradio.fr" tvg-name="Oroko Radio" tvg-logo="https://oroko.live/favicon.ico" group-title="Radios indé",Oroko Radio
+https://oroko-radio.radiocult.fm/stream
 #EXTINF:-1 tvg-id="franceinter.fr" tvg-name="France Inter" tvg-logo="https://www.lesentreprisesdupaysage.fr/content/uploads/2022/03/france_inter_logo_2021-svg-1024x1024.png" group-title="Radio France",France Inter
 https://icecast.radiofrance.fr/franceinter-midfi.mp3
 #EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="franceinfo" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="Radio France",franceinfo
