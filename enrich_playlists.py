@@ -4,6 +4,7 @@
 Usage : python3 enrich_playlists.py <fr.json> <nts.json> <nts_live.json> <dossier>
 Écrit epg.xml et réécrit radios-fr-short.m3u / radios-fr-full.m3u avec url-tvg="__EPG_URL__".
 """
+import html
 import json
 import re
 import subprocess
@@ -79,6 +80,11 @@ def parse_m3u(path):
                             "group": g.group(1) if g else "", "logo": lg.group(1) if lg else ""})
     return entries
 
+
+# Logos refaits à la main (hébergés dans logos/ du dépôt), prioritaires : nom normalisé -> fichier
+REPO_RAW = "https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main"
+LOGO_OVERRIDES = {"radionova": "logos/radio-nova.png", "nova": "logos/radio-nova.png",
+                  "radionovalanuit": "logos/radio-nova.png"}
 
 # Radios indé publiant leur grille : nom normalisé -> (type, identifiant)
 SCHEDULES = {
@@ -208,6 +214,9 @@ def main(fr_json, nts_json, live_json, folder):
         else:
             cands = [e["logo"], (st or {}).get("favicon", "")] + [s["favicon"] for s in same]
             cands.append(site_icon(homepage))
+            if norm(e["name"]) in LOGO_OVERRIDES:
+                cands.insert(0, f"{REPO_RAW}/{LOGO_OVERRIDES[norm(e['name'])]}")
+        cands = [html.unescape(c) for c in cands if c]  # ex. « &#038; » dans certaines adresses
         e["cands"] = [c for c in dict.fromkeys(png_logo(c) for c in cands) if c]
         e["st"] = st
 

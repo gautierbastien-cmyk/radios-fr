@@ -63,7 +63,7 @@ http://icecast.skyrock.net/s/natio_mp3_128k
 http://stream.rfm.fr/rfm.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="🎼 Musique",Oui FM
 https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75" group-title="🎼 Musique",Radio Nova
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/radio-nova.png" group-title="🎼 Musique",Radio Nova
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radiomeuh.com/android-icon-192x192.png" group-title="🎼 Musique",Radio Meuh
 https://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
