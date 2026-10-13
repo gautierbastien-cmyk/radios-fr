@@ -103,6 +103,20 @@ def genre(station):
     return "🎲 Autres"
 
 
+TECH = (r"no ?pub|sans pub|hi-?fi|metadata|avec metadata|bose|lofi|\d{2,3} ?kb(ps|its?)?|mp3|aac\+?|ogg|flac|hls"
+        r"|\bhd\b|\bhq\b|\blq\b|\bsd\b|stream|webradio|officiel(le)?|\^ _ \^")
+
+
+def dedup_key(name):
+    """Nom normalisé pour repérer les doublons (mentions techniques ignorées)."""
+    n = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode().lower()
+    n = re.sub(r"[\(\[]([^\)\]]*)[\)\]]",
+               lambda m: " " if re.fullmatch(rf"[\s+.,/:-]*(({TECH})[\s+.,/:-]*)*", m.group(1)) else f" {m.group(1)} ", n)
+    n = re.sub(rf"\b({TECH})\b", " ", n)
+    n = re.sub(r"\b\d{2,3}[.,]\d\b", " ", n)  # fréquences FM
+    return re.sub(r"[^a-z0-9+]", "", n)
+
+
 def find_replacement(name, stations, exclude):
     key = norm(name)
     exact = [s for s in stations if norm(s["name"]) == key]
@@ -171,11 +185,14 @@ def main(fr_json, nts_json, out_dir, source=None):
 
     # radios-fr-full.m3u
     seen, body, n_rb = set(head_urls), [], 0
+    seen_keys = {dedup_key(n["name"]) for n in nts} | {dedup_key(e["name"]) for e in inde} | {"rmc"}
     for s in stations:
         url = s["url_resolved"].strip()
-        if url in seen or RMC_PATTERN.search(url) or norm(s["name"]) in inde_names:
+        key = dedup_key(s["name"])
+        if url in seen or key in seen_keys or RMC_PATTERN.search(url) or norm(s["name"]) in inde_names:
             continue
         seen.add(url)
+        seen_keys.add(key)  # stations triées par popularité : on garde la plus écoutée
         body.append((genre(s), extinf(s["name"], url, genre(s), s.get("favicon", ""))))
         n_rb += 1
     # regroupe par famille (ordre de GENRES, « Autres » en dernier), popularité conservée dans chaque famille

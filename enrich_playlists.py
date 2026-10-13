@@ -220,6 +220,7 @@ def main(fr_json, nts_json, live_json, folder):
             if norm(e["name"]) in LOGO_OVERRIDES:
                 cands.insert(0, f"{REPO_RAW}/{LOGO_OVERRIDES[norm(e['name'])]}")
         cands = [html.unescape(c) for c in cands if c]  # ex. « &#038; » dans certaines adresses
+        cands = [c for c in cands if not re.search(r"google\.com/images/branding|googlelogo", c)]
         e["cands"] = [c for c in dict.fromkeys(png_logo(c) for c in cands) if c]
         e["st"] = st
 
