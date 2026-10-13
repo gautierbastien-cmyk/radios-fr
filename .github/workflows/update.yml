@@ -1,0 +1,30 @@
+name: Régénérer les playlists
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"  # toutes les 6 h (grille NTS ≈ 18 h d'avance)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Générer
+        run: ./update.sh "https://raw.githubusercontent.com/${{ github.repository }}/main/epg.xml"
+      - name: Publier
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add radios-fr.m3u radios-fr-complet.m3u epg.xml
+          git diff --cached --quiet && exit 0
+          git commit -m "Mise à jour $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
