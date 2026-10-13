@@ -203,7 +203,7 @@ def main(fr_json, nts_json, live_json, folder):
         homepage = (st or {}).get("homepage") or next((s["homepage"] for s in same if s.get("homepage")), "")
         if e["name"] in mixtapes:
             cands = [mixtapes[e["name"]]["media"].get("picture_medium", ""), NTS_LOGO]
-        elif e["group"] == "NTS":
+        elif "NTS" in e["group"]:
             cands = [NTS_LOGO]
         else:
             cands = [e["logo"], (st or {}).get("favicon", "")] + [s["favicon"] for s in same]

@@ -12,6 +12,8 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 UA = "radios-fr-m3u/1.0"
+NTS_GROUP = "🌐 NTS"
+INDE_GROUP = "📡 Radios indé"
 RMC_URL = "https://audio.bfmtv.com/rmcradio_128.mp3"
 RMC_PATTERN = re.compile(r"rmcradio|hls-rmc\.nextradiotv", re.I)
 
@@ -61,6 +63,46 @@ def parse_m3u(path):
     return entries
 
 
+# Grandes familles pour la playlist complète : (genre, mots-clés cherchés dans tags + nom), par priorité
+GENRES = [
+    ("✝️ Religieux", r"christ|chretien|catholi|religi|gospel|islam|coran|quran|eglise|rcf|evangel|louange|bible|juda|torah"),
+    ("📰 Info & Talk", r"\bnews\b|talk|\binfos?\b|information|actualit|trafic|traffic|meteo|politi|debat|sport|franceinfo"
+                      r"|\bculture\b|podcast|france inter|\binter\b|\brfi\b|bfm|\brtl\b(?! ?2)|europe 1|sud radio|\brmc\b"
+                      r"|autoroute|107[.,]7|krimi|polar|histoire|europe ?1|sante|senior"),
+    ("🎶 Éclectique", r"\bfip\b|\bnova\b|eclecti|\bmeuh\b|\blyl\b|freeform|underground|experimental"),
+    ("🎻 Classique", r"classi(cal|que)(?! rock| hits)|opera|baroque|symphon|piano|musique de chambre|violon|france musique"),
+    ("🎷 Jazz, Soul & Funk", r"jazz|soul|funk|blues|groove|swing|motown|crooner"),
+    ("🎤 Rap & R&B", r"\brap\b|hip.?hop|\br.?n.?b\b|r&b|urban|trap|drill|\bmouv|generations"),
+    ("🎧 Électro & Dance", r"electro|electronic|dance|house|techno|tekno|trance|\bedm\b|hotmix|club|disco|dnb|drum|dubstep"
+                           r"|hardstyle|minimal|\bfg\b"),
+    ("🎸 Rock & Metal", r"rock|metal|punk|alternati|\bindie\b|grunge|hard ?core|oui ?fm"),
+    ("🌍 Musiques du monde", r"world|monde|reggae|latin|afri|zouk|kompa|dub\b|outre.?mer|antill|caraib|oriental|maghreb"
+                             r"|arab|rai\b|salsa|brazil|bresil|creole|celt|bretagne|breizh|portug|ital|espa|turk|indian"
+                             r"|bollywood|kabyl|flamenco|guyane|reunion|martinique|guadeloupe|tahiti|corse|occitan"
+                             r"|basque|tieng|viet|chin|polsk|armen|folk|gandharva"),
+    ("😌 Chill & Lounge", r"lounge|chill|ambient|relax|zen|meditat|sleep|nature|smooth|easy listening|cafe|piano bar"),
+    ("🕺 Années 60-90", r"\b[6-9]0'?s\b|annees|oldies|nostalgi|retro|classic hits|golden|vintage|souvenir|tubes d.hier"
+                       r"|memory"),
+    ("🇫🇷 Chanson française", r"chanson|variete|\bfrench\b|francais|francophon"),
+    ("🎉 Hits & Pop", r"\bpop\b|hits|top ?40|tubes|\bnrj\b|cherie|fun radio|skyrock|virgin|europe 2|rfm|\bmix\b|charts"
+                     r"|kids|enfant|petit|poptastic|humour|rire|girl|attitude|sans pub|gay|\bhit\b|emotion|puissance|intensite"),
+    ("📍 Radios locales", r"local|regional|ici |france bleu|\bfm\b|associati|campus|\b\d{2,3}[.,]\d\b|\b\d{2,3} ?fm\b"
+                          r"|\bradio (saint|st|pays|val|vallee|mont|cote|haute|bas|grand)\b|cantal|ardenne|sud\b|\b\d{2}\b"
+                          r"|lyon|lille|paris|marseille|bordeaux|toulouse|nantes|rennes|nice|grenoble|chambery|montmartre"
+                          r"|comtois|alsace|normand|savoie|provence|lorrain|picard|vendee|bourgogne|auvergne|limousin"
+                          r"|bretagne|aquitaine|champagne|gironde|metropol|1ere|troyes|dijon|metz|nancy|reims|tours|caen|rouen"),
+]
+
+
+def genre(station):
+    text = unicodedata.normalize("NFKD", f'{station.get("tags", "")} {station.get("name", "")}')
+    text = text.encode("ascii", "ignore").decode().lower().replace(",", " ")
+    for name, pattern in GENRES:
+        if re.search(pattern, text):
+            return name
+    return "🎲 Autres"
+
+
 def find_replacement(name, stations, exclude):
     key = norm(name)
     exact = [s for s in stations if norm(s["name"]) == key]
@@ -78,7 +120,7 @@ def main(fr_json, nts_json, out_dir, source=None):
     fixes = []
 
     # a. RMC
-    rmc = {"name": "RMC", "url": RMC_URL, "group": "Info", "logo": ""}
+    rmc = {"name": "RMC", "url": RMC_URL, "group": "📻 RMC", "logo": ""}
     if not alive(RMC_URL):
         alt = next((s for s in stations if RMC_PATTERN.search(s["url_resolved"])
                     and alive(s["url_resolved"])), None)
@@ -96,7 +138,7 @@ def main(fr_json, nts_json, out_dir, source=None):
 
     # c. Radios principales : test + remplacement
     main_entries = [e for e in parse_m3u(source or out / "radios-fr-short.m3u")
-                    if e["group"] not in ("NTS", "Radios indé") and not (norm(e["name"]) == "rmc" or RMC_PATTERN.search(e["url"]))]
+                    if e["group"] not in (NTS_GROUP, INDE_GROUP) and not (norm(e["name"]) == "rmc" or RMC_PATTERN.search(e["url"]))]
     status = check_all([e["url"] for e in main_entries])
     unfixed = []
     for e in main_entries:
@@ -118,8 +160,8 @@ def main(fr_json, nts_json, out_dir, source=None):
     inde = [e for e in inde if inde_status[e["url"]]]
 
     head = extinf(rmc["name"], rmc["url"], rmc["group"], rmc["logo"])
-    head += "".join(extinf(n["name"], n["url"], "NTS") for n in nts)
-    head += "".join(extinf(e["name"], e["url"], e["group"] or "Radios indé", e["logo"]) for e in inde)
+    head += "".join(extinf(n["name"], n["url"], NTS_GROUP) for n in nts)
+    head += "".join(extinf(e["name"], e["url"], e["group"] or INDE_GROUP, e["logo"]) for e in inde)
     head_urls = {rmc["url"]} | {n["url"] for n in nts} | {e["url"] for e in inde}
     inde_names = {norm(e["name"]) for e in inde}
 
@@ -134,10 +176,14 @@ def main(fr_json, nts_json, out_dir, source=None):
         if url in seen or RMC_PATTERN.search(url) or norm(s["name"]) in inde_names:
             continue
         seen.add(url)
-        tag = (s.get("tags") or "").split(",")[0].strip()
-        body.append(extinf(s["name"], url, tag, s.get("favicon", "")))
+        body.append((genre(s), extinf(s["name"], url, genre(s), s.get("favicon", ""))))
         n_rb += 1
-    (out / "radios-fr-full.m3u").write_text("#EXTM3U\n" + head + "".join(body))
+    # regroupe par famille (ordre de GENRES, « Autres » en dernier), popularité conservée dans chaque famille
+    display = [g for g, _ in GENRES if g != "✝️ Religieux"]
+    display.insert(display.index("📍 Radios locales"), "✝️ Religieux")
+    rank = {g: i for i, g in enumerate(display)}
+    body.sort(key=lambda b: rank.get(b[0], len(GENRES)))
+    (out / "radios-fr-full.m3u").write_text("#EXTM3U\n" + head + "".join(b for _, b in body))
 
     print(json.dumps({
         "radios_fr": 1 + len(nts) + len(inde) + len(main_entries),

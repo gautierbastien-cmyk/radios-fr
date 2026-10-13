@@ -1,75 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lesentreprisesdupaysage.fr/content/uploads/2022/03/france_inter_logo_2021-svg-1024x1024.png" group-title="Radio France",France Inter
+#EXTINF:-1 tvg-logo="https://www.lesentreprisesdupaysage.fr/content/uploads/2022/03/france_inter_logo_2021-svg-1024x1024.png" group-title="📻 Radio France",France Inter
 https://icecast.radiofrance.fr/franceinter-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="Radio France",franceinfo
+#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="📻 Radio France",franceinfo
 https://icecast.radiofrance.fr/franceinfo-midfi.mp3
-#EXTINF:-1 tvg-logo="https://radioplayer.myradioendirect.fr/public/uploads/radio_img/france-culture/fb_cover.jpg" group-title="Radio France",France Culture
+#EXTINF:-1 tvg-logo="https://radioplayer.myradioendirect.fr/public/uploads/radio_img/france-culture/fb_cover.jpg" group-title="📻 Radio France",France Culture
 https://icecast.radiofrance.fr/franceculture-midfi.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/France_Musique_logo_2021.svg/500px-France_Musique_logo_2021.svg.png" group-title="Radio France",France Musique
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/France_Musique_logo_2021.svg/500px-France_Musique_logo_2021.svg.png" group-title="📻 Radio France",France Musique
 https://icecast.radiofrance.fr/francemusique-midfi.mp3
-#EXTINF:-1 tvg-logo="https://charte.radiofrance.fr/images/mouv/mouv-avatar.png" group-title="Radio France",Mouv'
+#EXTINF:-1 tvg-logo="https://charte.radiofrance.fr/images/mouv/mouv-avatar.png" group-title="📻 Radio France",Mouv'
 https://icecast.radiofrance.fr/mouv-midfi.mp3
-#EXTINF:-1 tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.francebleu.fr&size=256" group-title="Radio France",ici Gironde
+#EXTINF:-1 tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.francebleu.fr&size=256" group-title="📻 Radio France",ici Gironde
 https://icecast.radiofrance.fr/fbgironde-midfi.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/500px-FIP_logo_2021.svg.png" group-title="FIP",FIP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/500px-FIP_logo_2021.svg.png" group-title="🎵 FIP",FIP
 https://icecast.radiofrance.fr/fip-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="FIP",FIP Rock
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="🎵 FIP",FIP Rock
 https://icecast.radiofrance.fr/fiprock-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s262533/images/logod.png?t=636966437720000000" group-title="FIP",FIP Jazz
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s262533/images/logod.png?t=636966437720000000" group-title="🎵 FIP",FIP Jazz
 https://icecast.radiofrance.fr/fipjazz-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/pikapi/images/95cf76c3-26bc-404e-be1c-b81666188c3f/2048" group-title="FIP",FIP Groove
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/pikapi/images/95cf76c3-26bc-404e-be1c-b81666188c3f/2048" group-title="🎵 FIP",FIP Groove
 https://icecast.radiofrance.fr/fipgroove-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s262538/images/logod.png?t=636966437370000000" group-title="FIP",FIP Monde
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s262538/images/logod.png?t=636966437370000000" group-title="🎵 FIP",FIP Monde
 https://icecast.radiofrance.fr/fipworld-midfi.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/500px-FIP_logo_2021.svg.png" group-title="FIP",FIP Nouveautés
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/500px-FIP_logo_2021.svg.png" group-title="🎵 FIP",FIP Nouveautés
 https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/pikapi/images/a242c7c5-bf1e-468b-9cb9-2154550f8be7/2048" group-title="FIP",FIP Reggae
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/pikapi/images/a242c7c5-bf1e-468b-9cb9-2154550f8be7/2048" group-title="🎵 FIP",FIP Reggae
 https://icecast.radiofrance.fr/fipreggae-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s293089/images/logod.png?t=636966438620000000" group-title="FIP",FIP Electro
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s293089/images/logod.png?t=636966438620000000" group-title="🎵 FIP",FIP Electro
 https://icecast.radiofrance.fr/fipelectro-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/s3/cruiser-production/2022/07/160994f8-296b-4cd8-97a0-34c9111cdd9d/400x400_fip-metal-20222x_2.webp" group-title="FIP",FIP Metal
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/s3/cruiser-production/2022/07/160994f8-296b-4cd8-97a0-34c9111cdd9d/400x400_fip-metal-20222x_2.webp" group-title="🎵 FIP",FIP Metal
 https://icecast.radiofrance.fr/fipmetal-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg" group-title="FIP",FIP Pop
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg" group-title="🎵 FIP",FIP Pop
 https://icecast.radiofrance.fr/fippop-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" group-title="FIP",FIP Hip-Hop
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" group-title="🎵 FIP",FIP Hip-Hop
 https://icecast.radiofrance.fr/fiphiphop-midfi.mp3
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="Info",RTL
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="📰 Info",RTL
 https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
-#EXTINF:-1 tvg-logo="https://db.radioline.fr/pictures/radio_fa64fea9b6ccd92e058ced3fa41f58f5/logo200.jpg" group-title="Info",Europe 1
+#EXTINF:-1 tvg-logo="https://db.radioline.fr/pictures/radio_fa64fea9b6ccd92e058ced3fa41f58f5/logo200.jpg" group-title="📰 Info",Europe 1
 https://stream.europe1.fr/europe1.mp3
-#EXTINF:-1 tvg-logo="http://www.rfi.fr/apple-touch-icon.png" group-title="Info",RFI Monde
+#EXTINF:-1 tvg-logo="http://www.rfi.fr/apple-touch-icon.png" group-title="📰 Info",RFI Monde
 https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
-#EXTINF:-1 tvg-logo="https://www.bfmtv.com/android-icon-192x192.png" group-title="Info",BFM Business
+#EXTINF:-1 tvg-logo="https://www.bfmtv.com/android-icon-192x192.png" group-title="📰 Info",BFM Business
 https://audio.bfmtv.com/bfmbusiness_128.mp3
-#EXTINF:-1 tvg-logo="https://www.sudradio.fr/wp-content/uploads/2019/06/cropped-favicon-180x180.png" group-title="Info",Sud Radio
+#EXTINF:-1 tvg-logo="https://www.sudradio.fr/wp-content/uploads/2019/06/cropped-favicon-180x180.png" group-title="📰 Info",Sud Radio
 https://start-sud.ice.infomaniak.ch/start-sud-high.mp3
-#EXTINF:-1 tvg-logo="https://www.rtl2.fr/favicon.ico" group-title="Musique",RTL2
+#EXTINF:-1 tvg-logo="https://www.rtl2.fr/favicon.ico" group-title="🎼 Musique",RTL2
 http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png" group-title="Musique",Fun Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png" group-title="🎼 Musique",Fun Radio
 http://icecast.funradio.fr/fun-1-44-128
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Europe_2_noir_2024.png" group-title="Musique",Europe 2
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Europe_2_noir_2024.png" group-title="🎼 Musique",Europe 2
 http://europe2.lmn.fm/europe2.mp3
-#EXTINF:-1 tvg-logo="https://img.nrj.fr/8loJFyDgG_Gm_fgnk1fhkYIewhI=/medias%2F2021%2F06%2Flogo-nrj_60db2627d4729.svg" group-title="Musique",NRJ
+#EXTINF:-1 tvg-logo="https://img.nrj.fr/8loJFyDgG_Gm_fgnk1fhkYIewhI=/medias%2F2021%2F06%2Flogo-nrj_60db2627d4729.svg" group-title="🎼 Musique",NRJ
 https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3
-#EXTINF:-1 tvg-logo="https://img.nrj.fr/L3zosrZkW7lmgFtxF9yG8USZq6c=/medias%2F2022%2F02%2F62150f1f4ce26_62150f240ef6d.svg" group-title="Musique",Nostalgie
+#EXTINF:-1 tvg-logo="https://img.nrj.fr/L3zosrZkW7lmgFtxF9yG8USZq6c=/medias%2F2022%2F02%2F62150f1f4ce26_62150f240ef6d.svg" group-title="🎼 Musique",Nostalgie
 https://streaming.nrjaudio.fm/ouwgwqsk6j4d
-#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6812.1503485369.png" group-title="Musique",Chérie FM
+#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6812.1503485369.png" group-title="🎼 Musique",Chérie FM
 https://cdnradio.streamakaci.com/cheriefm1.mp3
-#EXTINF:-1 tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="Musique",SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="Musique",Rire & Chansons
+#EXTINF:-1 tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🎼 Musique",Rire & Chansons
 https://streaming.nrjaudio.fm/oumof78fnozc
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw" group-title="Musique",Skyrock
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw" group-title="🎼 Musique",Skyrock
 http://icecast.skyrock.net/s/natio_mp3_128k
-#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="Musique",RFM
+#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="🎼 Musique",RFM
 http://stream.rfm.fr/rfm.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="Musique",Oui FM
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="🎼 Musique",Oui FM
 https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75" group-title="Musique",Radio Nova
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75" group-title="🎼 Musique",Radio Nova
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radiomeuh.com/android-icon-192x192.png" group-title="Musique",Radio Meuh
+#EXTINF:-1 tvg-logo="https://www.radiomeuh.com/android-icon-192x192.png" group-title="🎼 Musique",Radio Meuh
 https://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
-#EXTINF:-1 tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.tsfjazz.com&size=256" group-title="Jazz",SIZE,URL&url=http://www.tsfjazz.com&size=256" group-title="Jazz",TSF Jazz
+#EXTINF:-1 tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.tsfjazz.com&size=256" group-title="🎷 Jazz",TSF Jazz
 https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
-#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="Jazz",Jazz Radio
+#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="🎷 Jazz",Jazz Radio
 https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
-#EXTINF:-1 tvg-logo="http://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.radioclassique.fr%2f" group-title="Classique",Radio Classique
+#EXTINF:-1 tvg-logo="http://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.radioclassique.fr%2f" group-title="🎻 Classique",Radio Classique
 https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
