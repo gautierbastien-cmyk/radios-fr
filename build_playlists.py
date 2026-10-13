@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Génère radios-fr.m3u (vérifié) et radios-fr-complet.m3u (Radio Browser), avec RMC puis NTS en tête.
+"""Génère radios-fr-short.m3u (vérifié) et radios-fr-full.m3u (Radio Browser), avec RMC puis NTS en tête.
 
 Usage : python3 build_playlists.py <fr.json> <nts.json> <dossier_sortie> [<liste_source.m3u>]
 """
@@ -95,7 +95,7 @@ def main(fr_json, nts_json, out_dir, source=None):
     nts_dead = [n for n in nts if not nts_status[n["url"]]]
 
     # c. Radios principales : test + remplacement
-    main_entries = [e for e in parse_m3u(source or out / "radios-fr.m3u")
+    main_entries = [e for e in parse_m3u(source or out / "radios-fr-short.m3u")
                     if e["group"] != "NTS" and not (norm(e["name"]) == "rmc" or RMC_PATTERN.search(e["url"]))]
     status = check_all([e["url"] for e in main_entries])
     unfixed = []
@@ -114,11 +114,11 @@ def main(fr_json, nts_json, out_dir, source=None):
     head += "".join(extinf(n["name"], n["url"], "NTS") for n in nts)
     head_urls = {rmc["url"]} | {n["url"] for n in nts}
 
-    # radios-fr.m3u
+    # radios-fr-short.m3u
     body = "".join(extinf(e["name"], e["url"], e["group"], e["logo"]) for e in main_entries)
-    (out / "radios-fr.m3u").write_text("#EXTM3U\n" + head + body)
+    (out / "radios-fr-short.m3u").write_text("#EXTM3U\n" + head + body)
 
-    # radios-fr-complet.m3u
+    # radios-fr-full.m3u
     seen, body, n_rb = set(head_urls), [], 0
     for s in stations:
         url = s["url_resolved"].strip()
@@ -128,7 +128,7 @@ def main(fr_json, nts_json, out_dir, source=None):
         tag = (s.get("tags") or "").split(",")[0].strip()
         body.append(extinf(s["name"], url, tag, s.get("favicon", "")))
         n_rb += 1
-    (out / "radios-fr-complet.m3u").write_text("#EXTM3U\n" + head + "".join(body))
+    (out / "radios-fr-full.m3u").write_text("#EXTM3U\n" + head + "".join(body))
 
     print(json.dumps({
         "radios_fr": 1 + len(nts) + len(main_entries),

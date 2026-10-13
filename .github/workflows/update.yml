@@ -24,7 +24,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add radios-fr.m3u radios-fr-complet.m3u epg.xml
+          git add -A radios-fr-full.m3u radios-fr-short.m3u epg.xml
           git diff --cached --quiet && exit 0
           git commit -m "Mise à jour $(date -u +%Y-%m-%dT%H:%MZ)"
           git push

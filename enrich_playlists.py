@@ -2,7 +2,7 @@
 """Ajoute logos vérifiés, tvg-id et un EPG XMLTV aux playlists générées par build_playlists.py.
 
 Usage : python3 enrich_playlists.py <fr.json> <nts.json> <nts_live.json> <dossier>
-Écrit epg.xml et réécrit radios-fr.m3u / radios-fr-complet.m3u avec url-tvg="__EPG_URL__".
+Écrit epg.xml et réécrit radios-fr-short.m3u / radios-fr-full.m3u avec url-tvg="__EPG_URL__".
 """
 import json
 import re
@@ -94,7 +94,7 @@ def main(fr_json, nts_json, live_json, folder):
     for s in stations:
         by_name.setdefault(norm(s["name"]), []).append(s)
 
-    playlists = {p: parse_m3u(folder / p) for p in ("radios-fr.m3u", "radios-fr-complet.m3u")}
+    playlists = {p: parse_m3u(folder / p) for p in ("radios-fr-short.m3u", "radios-fr-full.m3u")}
     channels = {}  # url -> entrée enrichie (partagée entre les deux playlists)
     for entries in playlists.values():
         for e in entries:
@@ -179,7 +179,8 @@ def main(fr_json, nts_json, live_json, folder):
 
     # Réécriture des playlists
     for p, entries in playlists.items():
-        out = ['#EXTM3U url-tvg="__EPG_URL__" x-tvg-url="__EPG_URL__"']
+        title = "Radios FR – Full" if "full" in p else "Radios FR – Short"
+        out = ['#EXTM3U url-tvg="__EPG_URL__" x-tvg-url="__EPG_URL__"', f"#PLAYLIST:{title}"]
         for e in entries:
             c = channels[e["url"]]
             out.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{clean(c["name"])}" tvg-logo="{clean(c["logo"])}" '

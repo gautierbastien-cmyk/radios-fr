@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Régénère radios-fr.m3u, radios-fr-complet.m3u et epg.xml.
+# Régénère radios-fr-short.m3u, radios-fr-full.m3u et epg.xml.
 # Usage : ./update.sh <url_publique_de_epg.xml>
 set -euo pipefail
 cd "$(dirname "$0")"
@@ -32,4 +32,4 @@ curl -sf -m 30 -A "$UA" https://www.nts.live/api/v2/live -o "$DATA/live.json"
 # 3. Génération
 python3 -I build_playlists.py "$DATA/fr.json" "$DATA/nts.json" . radios-fr.source.m3u
 python3 -I enrich_playlists.py "$DATA/fr.json" "$DATA/nts.json" "$DATA/live.json" .
-sed -i.bak "s#__EPG_URL__#$EPG_URL#g" radios-fr.m3u radios-fr-complet.m3u && rm -f ./*.bak
+sed -i.bak "s#__EPG_URL__#$EPG_URL#g" radios-fr-short.m3u radios-fr-full.m3u && rm -f ./*.bak

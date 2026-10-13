@@ -2,8 +2,8 @@
 
 Régénérée automatiquement toutes les 6 h par GitHub Actions.
 
-- Playlist complète : `radios-fr-complet.m3u` (RMC, NTS, puis toutes les radios FR de Radio Browser)
-- Playlist courte : `radios-fr.m3u` (RMC, NTS, principales radios FR)
+- Playlist complète : `radios-fr-full.m3u` (RMC, NTS, puis toutes les radios FR de Radio Browser)
+- Playlist courte : `radios-fr-short.m3u` (RMC, NTS, principales radios FR)
 - EPG XMLTV : `epg.xml` (vrai programme pour NTS 1/2, blocs « En direct » pour les autres)
 
 Radios principales : modifier `radios-fr.source.m3u`.
