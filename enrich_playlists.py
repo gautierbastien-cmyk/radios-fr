@@ -84,7 +84,10 @@ def parse_m3u(path):
 # Logos refaits à la main (hébergés dans logos/ du dépôt), prioritaires : nom normalisé -> fichier
 REPO_RAW = "https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main"
 LOGO_OVERRIDES = {"radionova": "logos/radio-nova.png", "nova": "logos/radio-nova.png",
-                  "radionovalanuit": "logos/radio-nova.png"}
+                  "radionovalanuit": "logos/radio-nova.png", "novavintage": "logos/radio-nova.png",
+                  "radionovavintage": "logos/radio-nova.png"}
+LOGO_OVERRIDES.update({f"fip{n.replace('-', '')}": f"logos/fip-{n}.png" for n in
+                       ["rock", "jazz", "groove", "monde", "reggae", "electro", "metal", "pop", "hip-hop", "cultes"]})
 
 # Radios indé publiant leur grille : nom normalisé -> (type, identifiant)
 SCHEDULES = {
