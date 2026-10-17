@@ -10,7 +10,7 @@ https://stream-relay-geo.ntslive.net/stream2
 https://stream-mixtape-geo.ntslive.net/mixtape4
 #EXTINF:-1 tvg-id="ntsslowfocus.fr" tvg-name="NTS – Slow Focus" tvg-logo="https://media.ntslive.co.uk/resize/400x400/01f7cbe6-235f-4e33-8f2f-70152c91edf1_1542931200.jpeg" group-title="🌐 NTS",NTS – Slow Focus
 https://stream-mixtape-geo.ntslive.net/mixtape
-#EXTINF:-1 tvg-id="ntslowkey.fr" tvg-name="NTS – Low Key" tvg-logo="https://www.nts.live/apple-touch-icon.png" group-title="🌐 NTS",NTS – Low Key
+#EXTINF:-1 tvg-id="ntslowkey.fr" tvg-name="NTS – Low Key" tvg-logo="https://media.ntslive.co.uk/resize/400x400/b667c612-1ef6-4bfd-ae87-0cec0a19629d_1626307200.jpeg" group-title="🌐 NTS",NTS – Low Key
 https://stream-mixtape-geo.ntslive.net/mixtape2
 #EXTINF:-1 tvg-id="ntsmemorylane.fr" tvg-name="NTS – Memory Lane" tvg-logo="https://media.ntslive.co.uk/resize/400x400/f889399d-6277-46e2-9be9-840bbdd25cc5_1560470400.jpeg" group-title="🌐 NTS",NTS – Memory Lane
 https://stream-mixtape-geo.ntslive.net/mixtape6
@@ -40,6 +40,8 @@ https://stream-mixtape-geo.ntslive.net/mixtape34
 https://stream-mixtape-geo.ntslive.net/mixtape23
 #EXTINF:-1 tvg-id="thelotradio.fr" tvg-name="The Lot Radio" tvg-logo="https://cdn.prod.website-files.com/5f4bdfc87623ea5cc5d24cf3/606da84551eef3d5fa8c0cb9_icon.png" group-title="📡 Radios indé",The Lot Radio
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
+#EXTINF:-1 tvg-id="rinsefrance.fr" tvg-name="Rinse France" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rinse.fm&size=256" group-title="📡 Radios indé",Rinse France
+https://radio10.pro-fhi.net/radio/9041/stream
 #EXTINF:-1 tvg-id="lylradio.fr" tvg-name="LYL Radio" tvg-logo="https://lyl.live/favicon.ico" group-title="📡 Radios indé",LYL Radio
 https://icecast.lyl.live/live
 #EXTINF:-1 tvg-id="pinataradio.fr" tvg-name="Piñata Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinataradio.com&size=256" group-title="📡 Radios indé",Piñata Radio
