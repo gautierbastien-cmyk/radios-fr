@@ -36,7 +36,7 @@ https://stream-mixtape-geo.ntslive.net/mixtape24
 https://stream-mixtape-geo.ntslive.net/mixtape36
 #EXTINF:-1 tvg-id="ntsthepit.fr" tvg-name="NTS – The Pit" tvg-logo="https://media.ntslive.co.uk/resize/400x400/9c9efb53-ce34-4a5e-997b-f8251be464a1_1668038400.jpeg" group-title="🌐 NTS",NTS – The Pit
 https://stream-mixtape-geo.ntslive.net/mixtape34
-#EXTINF:-1 tvg-id="ntsfieldrecordings.fr" tvg-name="NTS – Field Recordings" tvg-logo="https://www.nts.live/apple-touch-icon.png" group-title="🌐 NTS",NTS – Field Recordings
+#EXTINF:-1 tvg-id="ntsfieldrecordings.fr" tvg-name="NTS – Field Recordings" tvg-logo="https://media.ntslive.co.uk/resize/400x400/807d8db6-049d-4eeb-8515-57c02b251e73_1622592000.png" group-title="🌐 NTS",NTS – Field Recordings
 https://stream-mixtape-geo.ntslive.net/mixtape23
 #EXTINF:-1 tvg-id="thelotradio.fr" tvg-name="The Lot Radio" tvg-logo="https://cdn.prod.website-files.com/5f4bdfc87623ea5cc5d24cf3/606da84551eef3d5fa8c0cb9_icon.png" group-title="📡 Radios indé",The Lot Radio
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
@@ -366,7 +366,7 @@ https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8?id=radiofrance
 #EXTINF:-1 tvg-id="horizonlaradiolibre1009fm.fr" tvg-name="Horizon la radio libre 100.9fm" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.horizon-fm.fr&size=256" group-title="📰 Info & Talk",Horizon la radio libre 100.9fm
 https://horizonlaradiolibre.ice.infomaniak.ch/horizonlaradiolibre-128.mp3
-#EXTINF:-1 tvg-id="radioclapasculturecitoyennete935montpellier.fr" tvg-name="Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier" tvg-logo="https://www.radioclapas.fr/wp-content/uploads/2016/03/logo-clapas-demi.png" group-title="📰 Info & Talk",Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier
+#EXTINF:-1 tvg-id="radioclapasculturecitoyennete935montpellier.fr" tvg-name="Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radioclapas.fr&size=256" group-title="📰 Info & Talk",Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier
 https://stations.radioclapas.fr/radio/8130/radio.mp3
 #EXTINF:-1 tvg-id="radio6calais.fr" tvg-name="Radio 6 Calais" tvg-logo="http://www.radio6.fr/images/apple-touch-icon.png" group-title="📰 Info & Talk",Radio 6 Calais
 http://radio6-calais.ice.infomaniak.ch/radio6-calais-128.mp3
@@ -760,7 +760,7 @@ http://croonerradio_love.ice.infomaniak.ch/croonerradio-love-midfi.mp3
 http://croonerradio_classicgold.ice.infomaniak.ch/croonerradio-classicgold-midfi.mp3
 #EXTINF:-1 tvg-id="jazzradioonlywomen.fr" tvg-name="Jazz Radio Only Women" tvg-logo="https://cdn-radiotime-logos.tunein.com/s235450g.png" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Only Women
 http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
-#EXTINF:-1 tvg-id="clapasjazz.fr" tvg-name="Clapas Jazz" tvg-logo="https://www.radioclapas.fr/player/jazz.jpg" group-title="🎷 Jazz, Soul & Funk",Clapas Jazz
+#EXTINF:-1 tvg-id="clapasjazz.fr" tvg-name="Clapas Jazz" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radioclapas.fr&size=256" group-title="🎷 Jazz, Soul & Funk",Clapas Jazz
 https://stream.radioclapas.fr/listen/clapas_jazz/radio.mp3
 #EXTINF:-1 tvg-id="jazzradiojazzcinema.fr" tvg-name="Jazz Radio Jazz & Cinema" tvg-logo="https://cdn-radiotime-logos.tunein.com/s235563g.png" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Jazz & Cinema
 http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
@@ -870,7 +870,7 @@ http://manager10.streamradio.fr:1770/stream
 http://croonerradio_italiano.ice.infomaniak.ch/croonerradio-italiano-midfi.mp3
 #EXTINF:-1 tvg-id="nostalgieblues.fr" tvg-name="Nostalgie Blues" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgieblues.jpeg" group-title="🎷 Jazz, Soul & Funk",Nostalgie Blues
 https://streaming.nrjaudio.fm/ou8ordgk7oiu?origine=fluxurlradio&aw_0_1st.station=Nostalgie-Blues
-#EXTINF:-1 tvg-id="radioeuredublues.fr" tvg-name="Radio Eure du Blues" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.euredublues.com&size=256" group-title="🎷 Jazz, Soul & Funk",Radio Eure du Blues
+#EXTINF:-1 tvg-id="radioeuredublues.fr" tvg-name="Radio Eure du Blues" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/radioeuredublues.jpg" group-title="🎷 Jazz, Soul & Funk",Radio Eure du Blues
 http://euredublues.ddns.net:8000/euredublues.ogg
 #EXTINF:-1 tvg-id="jazzradiofrjazzcinema.fr" tvg-name="Jazzradio.fr Jazz & Cinema" tvg-logo="https://www.jazzradio.fr/favicon-196.png" group-title="🎷 Jazz, Soul & Funk",Jazzradio.fr Jazz & Cinema
 https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
@@ -1424,7 +1424,7 @@ https://alouetteleclub.ice.infomaniak.ch/alouetteleclub-128.mp3
 http://allzic13.ice.infomaniak.ch/allzic13.mp3
 #EXTINF:-1 tvg-id="m40makina.fr" tvg-name="M40 Makina" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://m40radio.fr&size=256" group-title="🎧 Électro & Dance",M40 Makina
 https://live.m40radio.fr/listen/m40-makina/m40-makina-128.mp3
-#EXTINF:-1 tvg-id="rirechansonscomedyclub.fr" tvg-name="Rire & Chansons Comedy Club" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🎧 Électro & Dance",Rire & Chansons Comedy Club
+#EXTINF:-1 tvg-id="rirechansonscomedyclub.fr" tvg-name="Rire & Chansons Comedy Club" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonscomedyclub.png" group-title="🎧 Électro & Dance",Rire & Chansons Comedy Club
 https://streaming.nrjaudio.fm/ouhmszapu6pb
 #EXTINF:-1 tvg-id="radioitalopower.fr" tvg-name="Radio ITALOPOWER!" tvg-logo="https://www.radioitalopower.com/assets/img/logo-big100.png" group-title="🎧 Électro & Dance",Radio ITALOPOWER!
 https://stream.deevaradio.net:10443/italopower
@@ -1474,7 +1474,7 @@ https://streaming.nrjaudio.fm/outpzv6ubafg
 https://streaming.hotmixradio.com/hotmix-metal-en-mp3
 #EXTINF:-1 tvg-id="hotmixclassicrock.fr" tvg-name="Hotmix Classic Rock" tvg-logo="https://cdn.hotmixradio.com/hotmix-classic-rock-en-mp3.jpg" group-title="🎧 Électro & Dance",Hotmix Classic Rock
 https://streaming.hotmixradio.com/hotmix-classic-rock-en-mp3?provider=radiobrowser
-#EXTINF:-1 tvg-id="nostalgiemulhouse.fr" tvg-name="Nostalgie Mulhouse" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🎧 Électro & Dance",Nostalgie Mulhouse
+#EXTINF:-1 tvg-id="nostalgiemulhouse.fr" tvg-name="Nostalgie Mulhouse" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiemulhouse.png" group-title="🎧 Électro & Dance",Nostalgie Mulhouse
 https://streaming.nrjaudio.fm/ou8va7gk7oiu
 #EXTINF:-1 tvg-id="hotmixradiosunny.fr" tvg-name="HotmixRadio Sunny" tvg-logo="https://ui-avatars.com/api/?name=HotmixRadio+Sunny&size=256&background=random&bold=true" group-title="🎧 Électro & Dance",HotmixRadio Sunny
 http://streaming.hotmixradio.fr/hotmix-sunny-en-mp3
@@ -1662,11 +1662,11 @@ https://stream.frequencehit.com/frequencehit.mp3
 http://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3
 #EXTINF:-1 tvg-id="radioheavymetal.fr" tvg-name="Radio Heavy Metal" tvg-logo="https://station-images-prod.radio-assets.com/300/radioheavymetal.jpeg" group-title="🎸 Rock & Metal",Radio Heavy Metal
 https://manager7.streamradio.fr:1435/stream
-#EXTINF:-1 tvg-id="clapasrock.fr" tvg-name="Clapas Rock" tvg-logo="https://www.radioclapas.fr/player/rock.jpg" group-title="🎸 Rock & Metal",Clapas Rock
+#EXTINF:-1 tvg-id="clapasrock.fr" tvg-name="Clapas Rock" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radioclapas.fr&size=256" group-title="🎸 Rock & Metal",Clapas Rock
 https://stream.radioclapas.fr/listen/clapas_rock/radio.mp3
 #EXTINF:-1 tvg-id="platine45radio.fr" tvg-name="Platine 45 Radio" tvg-logo="https://ui-avatars.com/api/?name=Platine+45+Radio&size=256&background=random&bold=true" group-title="🎸 Rock & Metal",Platine 45 Radio
 https://ecmanager.pro-fhi.net:1710/;
-#EXTINF:-1 tvg-id="nostalgierock70mp3rk.fr" tvg-name="NOSTALGIE ROCK 70 mp3 - RK" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🎸 Rock & Metal",NOSTALGIE ROCK 70 mp3 - RK
+#EXTINF:-1 tvg-id="nostalgierock70mp3rk.fr" tvg-name="NOSTALGIE ROCK 70 mp3 - RK" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgierock70mp3rk.png" group-title="🎸 Rock & Metal",NOSTALGIE ROCK 70 mp3 - RK
 https://streaming.nrjaudio.fm/oug7nsrb92oc
 #EXTINF:-1 tvg-id="lagrosseradiorock.fr" tvg-name="La Grosse Radio Rock" tvg-logo="https://cdn-profiles.tunein.com/s48252/images/logog.png" group-title="🎸 Rock & Metal",La Grosse Radio Rock
 http://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
@@ -1726,9 +1726,9 @@ https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3
 https://ecmanager5.pro-fhi.net/alternativefm
 #EXTINF:-1 tvg-id="rockfolkradio.fr" tvg-name="Rock&Folk Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rocknfolk.com&size=256" group-title="🎸 Rock & Metal",Rock&Folk Radio
 https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?t=1641651522250
-#EXTINF:-1 tvg-id="ouifmrockfrancais.fr" tvg-name="OUI FM ROCK FRANCAIS" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3fkpVzB8Cc/vignette.png" group-title="🎸 Rock & Metal",OUI FM ROCK FRANCAIS
+#EXTINF:-1 tvg-id="ouifmrockfrancais.fr" tvg-name="OUI FM ROCK FRANCAIS" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.ouifm.fr&size=256" group-title="🎸 Rock & Metal",OUI FM ROCK FRANCAIS
 https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3
-#EXTINF:-1 tvg-id="nihonnooto.fr" tvg-name="Nihon no Oto" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nihon-no-oto.com&size=256" group-title="🎸 Rock & Metal",Nihon no Oto
+#EXTINF:-1 tvg-id="nihonnooto.fr" tvg-name="Nihon no Oto" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nihonnooto.png" group-title="🎸 Rock & Metal",Nihon no Oto
 http://stream1.nihon-no-oto.com/nihonogg
 #EXTINF:-1 tvg-id="radiocollection.fr" tvg-name="Radio collection" tvg-logo="https://station-images-prod.radio-assets.com/300/radiocollection.png" group-title="🎸 Rock & Metal",Radio collection
 https://listen.radioking.com/radio/251653/stream/296545
@@ -1836,7 +1836,7 @@ http://stream.ouest-track.com:9030/stream
 https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.aac
 #EXTINF:-1 tvg-id="rockstation.fr" tvg-name="Rock STation" tvg-logo="https://cdn-profiles.tunein.com/s331456/images/logog.jpg" group-title="🎸 Rock & Metal",Rock STation
 https://listen.radioking.com/radio/7551/stream/385141
-#EXTINF:-1 tvg-id="nostalgieheayrock.fr" tvg-name="Nostalgie Heay Rock" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🎸 Rock & Metal",Nostalgie Heay Rock
+#EXTINF:-1 tvg-id="nostalgieheayrock.fr" tvg-name="Nostalgie Heay Rock" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieheayrock.png" group-title="🎸 Rock & Metal",Nostalgie Heay Rock
 https://streaming.nrjaudio.fm/ou5e3qirv93h
 #EXTINF:-1 tvg-id="kizrockrock.fr" tvg-name="Kizrock Rock" tvg-logo="https://kizrock.com/wp-content/uploads/2024/07/cropped-Kizrock-5-192x192.png" group-title="🎸 Rock & Metal",Kizrock Rock
 https://go.2stream.net/kizrock
@@ -2202,13 +2202,13 @@ http://vibrationlounge.ice.infomaniak.ch/vibrationlounge.mp3
 https://iaradiolounge.ice.infomaniak.ch/iaradiolounge-128.mp3
 #EXTINF:-1 tvg-id="witfmlounge.fr" tvg-name="Wit FM Lounge" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/witfm/images/favicon.vnd.microsoft.icon" group-title="😌 Chill & Lounge",Wit FM Lounge
 http://witlounge.ice.infomaniak.ch/witlounge.mp3
-#EXTINF:-1 tvg-id="nostalgiehq.fr" tvg-name="Nostalgie HQ" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie HQ
+#EXTINF:-1 tvg-id="nostalgiehq.fr" tvg-name="Nostalgie HQ" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiehq.png" group-title="🕺 Années 60-90",Nostalgie HQ
 https://streaming.nrjaudio.fm/oua8a3w2dqao?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=
 #EXTINF:-1 tvg-id="100radio80.fr" tvg-name="100% Radio 80" tvg-logo="https://cdn-profiles.tunein.com/s279847/images/logog.png" group-title="🕺 Années 60-90",100% Radio 80
 http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3
 #EXTINF:-1 tvg-id="chantefrance80s.fr" tvg-name="Chante France 80's" tvg-logo="https://cdn-profiles.tunein.com/s287066/images/logog.png" group-title="🕺 Années 60-90",Chante France 80's
 http://stream1.chantefrance.com/cf-80
-#EXTINF:-1 tvg-id="radionostalgiefrance.fr" tvg-name="Radio Nostalgie France" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostagie.fr&size=256" group-title="🕺 Années 60-90",Radio Nostalgie France
+#EXTINF:-1 tvg-id="radionostalgiefrance.fr" tvg-name="Radio Nostalgie France" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/radionostalgiefrance.png" group-title="🕺 Années 60-90",Radio Nostalgie France
 https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm
 #EXTINF:-1 tvg-id="madein80.fr" tvg-name="Made in 80" tvg-logo="https://madein80.fr/wp-content/uploads/2020/12/Logo-Made-in-80-V2-blanc-400-ssslog.png" group-title="🕺 Années 60-90",Made in 80
 https://madein80.leswebradios.fr/
@@ -2218,15 +2218,15 @@ http://stream.chantefrance.com/cf-60
 http://stream.chantefrance.com/cf-70
 #EXTINF:-1 tvg-id="melodyvintageradio.fr" tvg-name="Melody Vintage Radio" tvg-logo="https://station-images-prod.radio-assets.com/300/melodyvintage.png" group-title="🕺 Années 60-90",Melody Vintage Radio
 https://stream.rcs.revma.com/5a05fstup42vv
-#EXTINF:-1 tvg-id="nostalgiebestof708090.fr" tvg-name="Nostalgie Best Of 70 80 90" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Best Of 70 80 90
+#EXTINF:-1 tvg-id="nostalgiebestof708090.fr" tvg-name="Nostalgie Best Of 70 80 90" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiebestof708090.png" group-title="🕺 Années 60-90",Nostalgie Best Of 70 80 90
 https://streaming.nrjaudio.fm/oumrpo8fnozc
 #EXTINF:-1 tvg-id="allzicradio80s.fr" tvg-name="Allzic Radio 80s" tvg-logo="https://www.allzicradio.com/icon-hires.png" group-title="🕺 Années 60-90",Allzic Radio 80s
 http://allzic08.ice.infomaniak.ch/allzic08.mp3
-#EXTINF:-1 tvg-id="nostalgie80lestubesn1.fr" tvg-name="Nostalgie 80 Les Tubes N°1" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie 80 Les Tubes N°1
+#EXTINF:-1 tvg-id="nostalgie80lestubesn1.fr" tvg-name="Nostalgie 80 Les Tubes N°1" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgie80lestubesn1.png" group-title="🕺 Années 60-90",Nostalgie 80 Les Tubes N°1
 https://streaming.nrjaudio.fm/ouo6im7nfibk
 #EXTINF:-1 tvg-id="mbsgoodaac96.fr" tvg-name="MBS Good (AAC 96)" tvg-logo="https://www.radiombs.fr/favicon.ico" group-title="🕺 Années 60-90",MBS Good (AAC 96)
 http://mbs.ice.infomaniak.ch/mbs-96.aac
-#EXTINF:-1 tvg-id="nostalgielesplusgramdsslow.fr" tvg-name="Nostalgie  Les Plus Gramds Slow" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie  Les Plus Gramds Slow
+#EXTINF:-1 tvg-id="nostalgielesplusgramdsslow.fr" tvg-name="Nostalgie  Les Plus Gramds Slow" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielesplusgramdsslow.png" group-title="🕺 Années 60-90",Nostalgie  Les Plus Gramds Slow
 https://streaming.nrjaudio.fm/oudjby2h9r57?origine=playernostalgie&aw_0_req.userConsentV2=CQkCxgAQkCxgAAHABBENCdFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YbpkeYwP99gj7sQxBgSJk24FyJvW7JwCx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgFqSDMaESUgTNKJ6BEiFMRI2JQCFxvm4FDeQCY4kp_9kcxmB-t7dr8yNzgAgAAAUCAIAAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQCBAoCAECAAQVhABQIAgAASBggIASBgQ5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAQIBAIAAQAAAAIACBAADABQiAQAAgOgYBAQQCBYAJEZUBpgQgAJBASyFCAAAAgAACAAAAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAEAAAAAAEABAAAAAAAAAAAAABAAAIAA.IJ2tR_G_fbWlj-TZ14bpkeYwf99gj7sQxBgSJk24FyJvW7JwC32EzJAzapqYKmRIAu3TBAQNtGIjURUABIIgVqTDMaESUgTNKJ6BEiHMRY2JQCFxvm4FDeQCZ4kp_90d5mR-t7dr-yNzgAgAgAUCAIAAgAIABAACIAAAgAAAAAQAAgiwACAAAAAAAAEAAAFAAEABAAAEAAAACAAAABAAAIAA.f_wACHwAAAAA&aw_0_1st.station=Nostalgie-Les-Plus-Grands-Slows
 #EXTINF:-1 tvg-id="1000hits90s.fr" tvg-name="1000 Hits 90s" tvg-logo="https://www.youtube.com/s/desktop/434e5274/img/logos/favicon_144x144.png" group-title="🕺 Années 60-90",1000 Hits 90s
 https://c4.auracast.net:8050/;
@@ -2254,7 +2254,7 @@ http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3
 https://frequence3.net-radio.fr/frequence3gold.flac
 #EXTINF:-1 tvg-id="europe290s.fr" tvg-name="Europe 2 90's" tvg-logo="https://cdn-profiles.tunein.com/s355406/images/logog.jpg" group-title="🕺 Années 60-90",Europe 2 90's
 http://europe2.lmn.fm/vr-wr12.mp3
-#EXTINF:-1 tvg-id="nostalgiestrasbourg.fr" tvg-name="Nostalgie Strasbourg" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Strasbourg
+#EXTINF:-1 tvg-id="nostalgiestrasbourg.fr" tvg-name="Nostalgie Strasbourg" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiestrasbourg.png" group-title="🕺 Années 60-90",Nostalgie Strasbourg
 https://streaming.nrjaudio.fm/oumr5p8fnozc
 #EXTINF:-1 tvg-id="nostalgiealacool.fr" tvg-name="Nostalgie A La Cool" tvg-logo="https://cdn-profiles.tunein.com/s333773/images/logog.jpg" group-title="🕺 Années 60-90",Nostalgie A La Cool
 https://streaming.nrjaudio.fm/ou4mxxhtd2ko
@@ -2266,17 +2266,17 @@ http://radios.topymedia.com:8052/stream/;.mp3
 https://streaming.nrjaudio.fm/ou87iagk7oiu
 #EXTINF:-1 tvg-id="forum90s.fr" tvg-name="Forum 90's" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286729g.png" group-title="🕺 Années 60-90",Forum 90's
 http://forum90s.ice.infomaniak.ch/forum90s.mp3
-#EXTINF:-1 tvg-id="nostalgiegrenoble.fr" tvg-name="Nostalgie Grenoble" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Grenoble
+#EXTINF:-1 tvg-id="nostalgiegrenoble.fr" tvg-name="Nostalgie Grenoble" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiegrenoble.png" group-title="🕺 Années 60-90",Nostalgie Grenoble
 https://streaming.nrjaudio.fm/oumr4h8fnozc
 #EXTINF:-1 tvg-id="kohina.fr" tvg-name="Kohina" tvg-logo="https://www.kohina.com/favicon/favicon-192.png" group-title="🕺 Années 60-90",Kohina
 https://kohina.duckdns.org/icecast/stream.ogg
-#EXTINF:-1 tvg-id="nostalgiesaintes.fr" tvg-name="Nostalgie Saintes" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Saintes
+#EXTINF:-1 tvg-id="nostalgiesaintes.fr" tvg-name="Nostalgie Saintes" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiesaintes.png" group-title="🕺 Années 60-90",Nostalgie Saintes
 https://streaming.nrjaudio.fm/ougowjrb92oc
 #EXTINF:-1 tvg-id="bideetmusique.fr" tvg-name="Bide et Musique" tvg-logo="https://www.bide-et-musique.com/images/logo.png" group-title="🕺 Années 60-90",Bide et Musique
 https://relay2.bide-et-musique.com:9143/
 #EXTINF:-1 tvg-id="upextra.fr" tvg-name="Up eXtra" tvg-logo="https://ui-avatars.com/api/?name=Up+eXtra&size=256&background=random&bold=true" group-title="🕺 Années 60-90",Up eXtra
 http://upextra.ovh:8054/up-extra
-#EXTINF:-1 tvg-id="nostalgieslow80.fr" tvg-name="Nostalgie Slow 80" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Slow 80
+#EXTINF:-1 tvg-id="nostalgieslow80.fr" tvg-name="Nostalgie Slow 80" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieslow80.png" group-title="🕺 Années 60-90",Nostalgie Slow 80
 https://streaming.nrjaudio.fm/oufdxmtx4thg
 #EXTINF:-1 tvg-id="forum70s.fr" tvg-name="Forum 70's" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286727g.png" group-title="🕺 Années 60-90",Forum 70's
 http://forum70s.ice.infomaniak.ch/forum70s.mp3
@@ -2284,17 +2284,17 @@ http://forum70s.ice.infomaniak.ch/forum70s.mp3
 http://allzic29.ice.infomaniak.ch/allzic29.mp3
 #EXTINF:-1 tvg-id="m4080s.fr" tvg-name="M40 80s" tvg-logo="https://cdn-profiles.tunein.com/s345910/images/logog.jpg" group-title="🕺 Années 60-90",M40 80s
 https://live.m40radio.fr/listen/m40-80s/m40-80s-128.mp3
-#EXTINF:-1 tvg-id="rirechansonshumour90s.fr" tvg-name="Rire & Chansons Humour 90's" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🕺 Années 60-90",Rire & Chansons Humour 90's
+#EXTINF:-1 tvg-id="rirechansonshumour90s.fr" tvg-name="Rire & Chansons Humour 90's" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonshumour90s.png" group-title="🕺 Années 60-90",Rire & Chansons Humour 90's
 https://streaming.nrjaudio.fm/ousvunm4z85f
 #EXTINF:-1 tvg-id="voltage80s.fr" tvg-name="Voltage 80's" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286696g.png" group-title="🕺 Années 60-90",Voltage 80's
 http://voltage80s.ice.infomaniak.ch/voltage80s-128.mp3
-#EXTINF:-1 tvg-id="nostalgiementonmonaco.fr" tvg-name="Nostalgie Menton / Monaco" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Menton / Monaco
+#EXTINF:-1 tvg-id="nostalgiementonmonaco.fr" tvg-name="Nostalgie Menton / Monaco" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiementonmonaco.png" group-title="🕺 Années 60-90",Nostalgie Menton / Monaco
 https://streaming.nrjaudio.fm/oupn6nbgddr9
-#EXTINF:-1 tvg-id="nostalgiemetz.fr" tvg-name="Nostalgie Metz" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Metz
+#EXTINF:-1 tvg-id="nostalgiemetz.fr" tvg-name="Nostalgie Metz" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiemetz.png" group-title="🕺 Années 60-90",Nostalgie Metz
 https://streaming.nrjaudio.fm/ou3ij5uizv6i
-#EXTINF:-1 tvg-id="nostalgienancy.fr" tvg-name="Nostalgie Nancy" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Nancy
+#EXTINF:-1 tvg-id="nostalgienancy.fr" tvg-name="Nostalgie Nancy" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgienancy.png" group-title="🕺 Années 60-90",Nostalgie Nancy
 https://streaming.nrjaudio.fm/ou8vafgk7oiu
-#EXTINF:-1 tvg-id="nostalgietoulon.fr" tvg-name="Nostalgie Toulon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Toulon
+#EXTINF:-1 tvg-id="nostalgietoulon.fr" tvg-name="Nostalgie Toulon" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgietoulon.png" group-title="🕺 Années 60-90",Nostalgie Toulon
 https://streaming.nrjaudio.fm/ouy5bs36zcw2
 #EXTINF:-1 tvg-id="nostalgie70.fr" tvg-name="Nostalgie 70" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgie70.jpeg" group-title="🕺 Années 60-90",Nostalgie 70
 https://streaming.nrjaudio.fm/ouvtu2oarp52
@@ -2308,11 +2308,11 @@ https://streaming.nrjaudio.fm/ouamxmw2dqao
 https://streaming.nrjaudio.fm/ounu3fqn5eyc
 #EXTINF:-1 tvg-id="nostalgieles80plusgrandstubes80.fr" tvg-name="Nostalgie Les 80 Plus Grands Tubes 80" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiefrles80plusgrandstubes80.jpeg" group-title="🕺 Années 60-90",Nostalgie Les 80 Plus Grands Tubes 80
 https://streaming.nrjaudio.fm/ouwg8usk6j4d
-#EXTINF:-1 tvg-id="nostalgietoutlestubestoutlesstyles.fr" tvg-name="Nostalgie Tout Les Tubes Tout Les Styles" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Tout Les Tubes Tout Les Styles
+#EXTINF:-1 tvg-id="nostalgietoutlestubestoutlesstyles.fr" tvg-name="Nostalgie Tout Les Tubes Tout Les Styles" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgietoutlestubestoutlesstyles.png" group-title="🕺 Années 60-90",Nostalgie Tout Les Tubes Tout Les Styles
 https://streaming.nrjaudio.fm/oupqj5bgddr9?origine=fluxradios&aw_0_1st.station=Nostalgie-Tous-les-Tubes-Tous-les-styles
 #EXTINF:-1 tvg-id="nostalgielesplusgrandstubesfrancais.fr" tvg-name="Nostalgie Les Plus Grands Tubes Français" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgielesplusgrandstubesfrancais.jpeg" group-title="🕺 Années 60-90",Nostalgie Les Plus Grands Tubes Français
 https://streaming.nrjaudio.fm/out2xi6ubafg
-#EXTINF:-1 tvg-id="nostalgielestubesde1988.fr" tvg-name="Nostalgie Les Tubes De 1988" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Les Tubes De 1988
+#EXTINF:-1 tvg-id="nostalgielestubesde1988.fr" tvg-name="Nostalgie Les Tubes De 1988" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielestubesde1988.png" group-title="🕺 Années 60-90",Nostalgie Les Tubes De 1988
 https://streaming.nrjaudio.fm/ou2qgbpw5hs7
 #EXTINF:-1 tvg-id="nostalgielestubesmixes.fr" tvg-name="Nostalgie Les Tubes Mixes" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiefrlestubesmixes.jpeg" group-title="🕺 Années 60-90",Nostalgie Les Tubes Mixes
 https://streaming.nrjaudio.fm/oua8s5w2dqao
@@ -2322,13 +2322,13 @@ https://streaming.nrjaudio.fm/ouagk2w2dqao
 https://streaming.nrjaudio.fm/ouqis8yoeo8p
 #EXTINF:-1 tvg-id="nostalgiepoetes.fr" tvg-name="Nostalgie Poètes" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiefrpoetes.jpeg" group-title="🕺 Années 60-90",Nostalgie Poètes
 https://streaming.nrjaudio.fm/oua8s6w2dqao
-#EXTINF:-1 tvg-id="awfullyawesome80s.fr" tvg-name="Awfully Awesome 80s" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://awfullyawesomeeighties.com&size=256" group-title="🕺 Années 60-90",Awfully Awesome 80s
+#EXTINF:-1 tvg-id="awfullyawesome80s.fr" tvg-name="Awfully Awesome 80s" tvg-logo="https://www.awfullyawesomeeighties.com/favicon.ico" group-title="🕺 Années 60-90",Awfully Awesome 80s
 http://psn3.prostreaming.net:8163/;
-#EXTINF:-1 tvg-id="nostalgiemontauban.fr" tvg-name="Nostalgie Montauban" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Montauban
+#EXTINF:-1 tvg-id="nostalgiemontauban.fr" tvg-name="Nostalgie Montauban" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiemontauban.png" group-title="🕺 Années 60-90",Nostalgie Montauban
 https://streaming.nrjaudio.fm/ousg4rm4z85f
 #EXTINF:-1 tvg-id="voltage90s.fr" tvg-name="Voltage 90's" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286697g.png" group-title="🕺 Années 60-90",Voltage 90's
 http://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3
-#EXTINF:-1 tvg-id="nostalgieorleans.fr" tvg-name="Nostalgie Orléans" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Orléans
+#EXTINF:-1 tvg-id="nostalgieorleans.fr" tvg-name="Nostalgie Orléans" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieorleans.png" group-title="🕺 Années 60-90",Nostalgie Orléans
 https://streaming.nrjaudio.fm/ou2jtipw5hs7
 #EXTINF:-1 tvg-id="radiomemorymusic.fr" tvg-name="RadioMemoryMusic" tvg-logo="https://ui-avatars.com/api/?name=RadioMemoryMusic&size=256&background=random&bold=true" group-title="🕺 Années 60-90",RadioMemoryMusic
 https://stream10.vestaradio.com/RadioMemoryMusic
@@ -2336,59 +2336,59 @@ https://stream10.vestaradio.com/RadioMemoryMusic
 https://ecmanager2.pro-fhi.net:2375/stream
 #EXTINF:-1 tvg-id="vintage8090.fr" tvg-name="Vintage 80 90" tvg-logo="https://www.facebook.com/favicon.ico" group-title="🕺 Années 60-90",Vintage 80 90
 https://radio8.pro-fhi.net/live/VINTAGE80-90
-#EXTINF:-1 tvg-id="nostalgieales.fr" tvg-name="Nostalgie Alès" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Alès
+#EXTINF:-1 tvg-id="nostalgieales.fr" tvg-name="Nostalgie Alès" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieales.png" group-title="🕺 Années 60-90",Nostalgie Alès
 https://streaming.nrjaudio.fm/oujyxvnxeb5p
 #EXTINF:-1 tvg-id="witfm90s.fr" tvg-name="Wit FM 90's" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/witfm/images/favicon.vnd.microsoft.icon" group-title="🕺 Années 60-90",Wit FM 90's
 http://wit90s.ice.infomaniak.ch/wit90s.mp3
-#EXTINF:-1 tvg-id="nostalgiecaen.fr" tvg-name="Nostalgie Caen" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Caen
+#EXTINF:-1 tvg-id="nostalgiecaen.fr" tvg-name="Nostalgie Caen" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiecaen.png" group-title="🕺 Années 60-90",Nostalgie Caen
 https://streaming.nrjaudio.fm/ousg9em4z85f
-#EXTINF:-1 tvg-id="nostalgiedijon.fr" tvg-name="Nostalgie Dijon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Dijon
+#EXTINF:-1 tvg-id="nostalgiedijon.fr" tvg-name="Nostalgie Dijon" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiedijon.png" group-title="🕺 Années 60-90",Nostalgie Dijon
 https://streaming.nrjaudio.fm/ou4wv7htd2ko
-#EXTINF:-1 tvg-id="nostalgielafleche.fr" tvg-name="Nostalgie La Flèche" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie La Flèche
+#EXTINF:-1 tvg-id="nostalgielafleche.fr" tvg-name="Nostalgie La Flèche" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielafleche.png" group-title="🕺 Années 60-90",Nostalgie La Flèche
 https://streaming.nrjaudio.fm/ou4wcehtd2ko
-#EXTINF:-1 tvg-id="nostalgielarochelle.fr" tvg-name="Nostalgie La Rochelle" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie La Rochelle
+#EXTINF:-1 tvg-id="nostalgielarochelle.fr" tvg-name="Nostalgie La Rochelle" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielarochelle.png" group-title="🕺 Années 60-90",Nostalgie La Rochelle
 https://streaming.nrjaudio.fm/ouhsk9apu6pb
 #EXTINF:-1 tvg-id="allzicradioannees70.fr" tvg-name="Allzic Radio Années 70" tvg-logo="https://ui-avatars.com/api/?name=Allzic+Radio+Ann%C3%A9es+70&size=256&background=random&bold=true" group-title="🕺 Années 60-90",Allzic Radio Années 70
 https://allzic50.ice.infomaniak.ch/allzic50.aac
-#EXTINF:-1 tvg-id="nostalgielaval.fr" tvg-name="Nostalgie Laval" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Laval
+#EXTINF:-1 tvg-id="nostalgielaval.fr" tvg-name="Nostalgie Laval" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielaval.png" group-title="🕺 Années 60-90",Nostalgie Laval
 https://streaming.nrjaudio.fm/ouagstw2dqao
-#EXTINF:-1 tvg-id="nostalgielemans.fr" tvg-name="Nostalgie Le Mans" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Le Mans
+#EXTINF:-1 tvg-id="nostalgielemans.fr" tvg-name="Nostalgie Le Mans" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielemans.png" group-title="🕺 Années 60-90",Nostalgie Le Mans
 https://streaming.nrjaudio.fm/ouqu2nyoeo8p
-#EXTINF:-1 tvg-id="nostalgielens.fr" tvg-name="Nostalgie Lens" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Lens
+#EXTINF:-1 tvg-id="nostalgielens.fr" tvg-name="Nostalgie Lens" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielens.png" group-title="🕺 Années 60-90",Nostalgie Lens
 https://streaming.nrjaudio.fm/oumrh58fnozc
-#EXTINF:-1 tvg-id="nostalgielyon.fr" tvg-name="Nostalgie Lyon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Lyon
+#EXTINF:-1 tvg-id="nostalgielyon.fr" tvg-name="Nostalgie Lyon" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielyon.png" group-title="🕺 Années 60-90",Nostalgie Lyon
 https://streaming.nrjaudio.fm/oun3vzqn5eyc
-#EXTINF:-1 tvg-id="nostalgiemacon.fr" tvg-name="Nostalgie Mâcon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Mâcon
+#EXTINF:-1 tvg-id="nostalgiemacon.fr" tvg-name="Nostalgie Mâcon" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiemacon.png" group-title="🕺 Années 60-90",Nostalgie Mâcon
 https://streaming.nrjaudio.fm/oudb7d2h9r57
-#EXTINF:-1 tvg-id="nostalgiemarseille.fr" tvg-name="Nostalgie Marseille" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Marseille
+#EXTINF:-1 tvg-id="nostalgiemarseille.fr" tvg-name="Nostalgie Marseille" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiemarseille.png" group-title="🕺 Années 60-90",Nostalgie Marseille
 https://streaming.nrjaudio.fm/ouamytw2dqao
 #EXTINF:-1 tvg-id="nrjclassichits.fr" tvg-name="NRJ Classic Hits" tvg-logo="https://cdn-profiles.tunein.com/s324851/images/logog.jpg" group-title="🕺 Années 60-90",NRJ Classic Hits
 https://streaming.nrjaudio.fm/oufdcptx4thg
-#EXTINF:-1 tvg-id="nostalgiemontelimar.fr" tvg-name="Nostalgie Montélimar" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Montélimar
+#EXTINF:-1 tvg-id="nostalgiemontelimar.fr" tvg-name="Nostalgie Montélimar" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiemontelimar.png" group-title="🕺 Années 60-90",Nostalgie Montélimar
 https://streaming.nrjaudio.fm/oufx43tx4thg
-#EXTINF:-1 tvg-id="nostalgienantes.fr" tvg-name="Nostalgie Nantes" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Nantes
+#EXTINF:-1 tvg-id="nostalgienantes.fr" tvg-name="Nostalgie Nantes" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgienantes.png" group-title="🕺 Années 60-90",Nostalgie Nantes
 https://streaming.nrjaudio.fm/ouamzvw2dqao
-#EXTINF:-1 tvg-id="nostalgienice.fr" tvg-name="Nostalgie Nice" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Nice
+#EXTINF:-1 tvg-id="nostalgienice.fr" tvg-name="Nostalgie Nice" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgienice.png" group-title="🕺 Années 60-90",Nostalgie Nice
 https://streaming.nrjaudio.fm/ouot8p7nfibk
-#EXTINF:-1 tvg-id="nostalgieorange.fr" tvg-name="Nostalgie Orange" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Orange
+#EXTINF:-1 tvg-id="nostalgieorange.fr" tvg-name="Nostalgie Orange" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieorange.png" group-title="🕺 Années 60-90",Nostalgie Orange
 https://streaming.nrjaudio.fm/outdvq6ubafg
-#EXTINF:-1 tvg-id="nostalgielemeilleurde60.fr" tvg-name="Nostalgie Le Meilleur De 60" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Le Meilleur De 60
+#EXTINF:-1 tvg-id="nostalgielemeilleurde60.fr" tvg-name="Nostalgie Le Meilleur De 60" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielemeilleurde60.png" group-title="🕺 Années 60-90",Nostalgie Le Meilleur De 60
 https://streaming.nrjaudio.fm/ousrg6m4z85f?origine=fluxradios&aw_0_1st.station=Nostalgie-Best-of-60
-#EXTINF:-1 tvg-id="nostalgieparis.fr" tvg-name="Nostalgie Paris" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Paris
+#EXTINF:-1 tvg-id="nostalgieparis.fr" tvg-name="Nostalgie Paris" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieparis.png" group-title="🕺 Années 60-90",Nostalgie Paris
 https://streaming.nrjaudio.fm/oumr5i8fnozc
-#EXTINF:-1 tvg-id="nostalgierochefort.fr" tvg-name="Nostalgie Rochefort" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Rochefort
+#EXTINF:-1 tvg-id="nostalgierochefort.fr" tvg-name="Nostalgie Rochefort" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgierochefort.png" group-title="🕺 Années 60-90",Nostalgie Rochefort
 https://streaming.nrjaudio.fm/ouucnw5n3nje
-#EXTINF:-1 tvg-id="nostalgierouen.fr" tvg-name="Nostalgie Rouen" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Rouen
+#EXTINF:-1 tvg-id="nostalgierouen.fr" tvg-name="Nostalgie Rouen" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgierouen.png" group-title="🕺 Années 60-90",Nostalgie Rouen
 https://streaming.nrjaudio.fm/ou76gyf3s5gi
 #EXTINF:-1 tvg-id="radiosouvenircom.fr" tvg-name="RadioSouvenir.com" tvg-logo="http://www.radiosouvenir.com/logo.jpg" group-title="🕺 Années 60-90",RadioSouvenir.com
 http://radio12.pro-fhi.net/listen-itqtlpyj-stream.mp3
 #EXTINF:-1 tvg-id="vibration90s.fr" tvg-name="Vibration 90's" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" group-title="🕺 Années 60-90",Vibration 90's
 http://vibration90s.ice.infomaniak.ch/vibration90s.mp3
-#EXTINF:-1 tvg-id="nostalgiethonon.fr" tvg-name="Nostalgie Thonon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Thonon
+#EXTINF:-1 tvg-id="nostalgiethonon.fr" tvg-name="Nostalgie Thonon" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiethonon.png" group-title="🕺 Années 60-90",Nostalgie Thonon
 https://streaming.nrjaudio.fm/ouvfeyoarp52
-#EXTINF:-1 tvg-id="nostalgietoulouse.fr" tvg-name="Nostalgie Toulouse" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Toulouse
+#EXTINF:-1 tvg-id="nostalgietoulouse.fr" tvg-name="Nostalgie Toulouse" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgietoulouse.png" group-title="🕺 Années 60-90",Nostalgie Toulouse
 https://streaming.nrjaudio.fm/ouw89psk6j4d
-#EXTINF:-1 tvg-id="nostalgievalence.fr" tvg-name="Nostalgie Valence" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Valence
+#EXTINF:-1 tvg-id="nostalgievalence.fr" tvg-name="Nostalgie Valence" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgievalence.png" group-title="🕺 Années 60-90",Nostalgie Valence
 https://streaming.nrjaudio.fm/ouw89bsk6j4d
 #EXTINF:-1 tvg-id="nostalgie100francais90.fr" tvg-name="Nostalgie 100% Français 90" tvg-logo="https://cdn-profiles.tunein.com/s335838/images/logog.jpg" group-title="🕺 Années 60-90",Nostalgie 100% Français 90
 https://streaming.nrjaudio.fm/oumvgz8fnozc
@@ -2408,7 +2408,7 @@ https://streaming.nrjaudio.fm/oudnot2h9r57
 https://streaming.nrjaudio.fm/ouj3qxnxeb5p
 #EXTINF:-1 tvg-id="nostalgiegeneration90.fr" tvg-name="Nostalgie Génération 90" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiegeneration90.jpeg" group-title="🕺 Années 60-90",Nostalgie Génération 90
 https://streaming.nrjaudio.fm/oumokb8fnozc
-#EXTINF:-1 tvg-id="nostalgieaixenprovence.fr" tvg-name="Nostalgie Aix-en-Provence" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Aix-en-Provence
+#EXTINF:-1 tvg-id="nostalgieaixenprovence.fr" tvg-name="Nostalgie Aix-en-Provence" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieaixenprovence.png" group-title="🕺 Années 60-90",Nostalgie Aix-en-Provence
 https://streaming.nrjaudio.fm/ouvfseoarp52
 #EXTINF:-1 tvg-id="nostalgielesplusgrandsslows.fr" tvg-name="Nostalgie Les Plus Grands Slows" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgieslows.jpeg" group-title="🕺 Années 60-90",Nostalgie Les Plus Grands Slows
 https://streaming.nrjaudio.fm/ouq5ucyoeo8p
@@ -2416,29 +2416,29 @@ https://streaming.nrjaudio.fm/ouq5ucyoeo8p
 http://radio12.pro-fhi.net/live/RadioSouvenir.com
 #EXTINF:-1 tvg-id="nostalgielesplusgrandstubes.fr" tvg-name="Nostalgie Les Plus Grands Tubes" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgietop100.jpeg" group-title="🕺 Années 60-90",Nostalgie Les Plus Grands Tubes
 https://streaming.nrjaudio.fm/ourf3jvukkaq
-#EXTINF:-1 tvg-id="nostalgieannemasse.fr" tvg-name="Nostalgie Annemasse" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Annemasse
+#EXTINF:-1 tvg-id="nostalgieannemasse.fr" tvg-name="Nostalgie Annemasse" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieannemasse.png" group-title="🕺 Années 60-90",Nostalgie Annemasse
 https://streaming.nrjaudio.fm/ouhsk3apu6pb
-#EXTINF:-1 tvg-id="nostalgieapt.fr" tvg-name="Nostalgie Apt" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Apt
+#EXTINF:-1 tvg-id="nostalgieapt.fr" tvg-name="Nostalgie Apt" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieapt.png" group-title="🕺 Années 60-90",Nostalgie Apt
 https://streaming.nrjaudio.fm/oub3nbj25zuw
-#EXTINF:-1 tvg-id="nostalgiearras.fr" tvg-name="Nostalgie Arras" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Arras
+#EXTINF:-1 tvg-id="nostalgiearras.fr" tvg-name="Nostalgie Arras" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiearras.png" group-title="🕺 Années 60-90",Nostalgie Arras
 https://streaming.nrjaudio.fm/oufxr9tx4thg
-#EXTINF:-1 tvg-id="nostalgielestubesde1982.fr" tvg-name="Nostalgie Les Tubes De 1982" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Les Tubes De 1982
+#EXTINF:-1 tvg-id="nostalgielestubesde1982.fr" tvg-name="Nostalgie Les Tubes De 1982" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielestubesde1982.png" group-title="🕺 Années 60-90",Nostalgie Les Tubes De 1982
 https://streaming.nrjaudio.fm/oudn8v2h9r57
 #EXTINF:-1 tvg-id="brendradio.fr" tvg-name="Brend Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://brendradio.com&size=256" group-title="🕺 Années 60-90",Brend Radio
 http://brendradio.com:8008/;stream.nsv?1687286261195
-#EXTINF:-1 tvg-id="nostalgieavignon.fr" tvg-name="Nostalgie Avignon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Avignon
+#EXTINF:-1 tvg-id="nostalgieavignon.fr" tvg-name="Nostalgie Avignon" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieavignon.png" group-title="🕺 Années 60-90",Nostalgie Avignon
 https://streaming.nrjaudio.fm/ou62vmxp336f
-#EXTINF:-1 tvg-id="nostalgielestubesde1983.fr" tvg-name="Nostalgie Les Tubes De 1983" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Les Tubes De 1983
+#EXTINF:-1 tvg-id="nostalgielestubesde1983.fr" tvg-name="Nostalgie Les Tubes De 1983" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgielestubesde1983.png" group-title="🕺 Années 60-90",Nostalgie Les Tubes De 1983
 https://streaming.nrjaudio.fm/ou3kt2uizv6i
-#EXTINF:-1 tvg-id="nostalgiebordeaux.fr" tvg-name="Nostalgie Bordeaux" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Bordeaux
+#EXTINF:-1 tvg-id="nostalgiebordeaux.fr" tvg-name="Nostalgie Bordeaux" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiebordeaux.png" group-title="🕺 Années 60-90",Nostalgie Bordeaux
 https://streaming.nrjaudio.fm/ougocdrb92oc
-#EXTINF:-1 tvg-id="nostalgiebourgenbresse.fr" tvg-name="Nostalgie Bourg-en-Bresse" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Bourg-en-Bresse
+#EXTINF:-1 tvg-id="nostalgiebourgenbresse.fr" tvg-name="Nostalgie Bourg-en-Bresse" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiebourgenbresse.png" group-title="🕺 Années 60-90",Nostalgie Bourg-en-Bresse
 https://streaming.nrjaudio.fm/our7w4vukkaq
 #EXTINF:-1 tvg-id="nostalgielestubesde1986.fr" tvg-name="Nostalgie Les Tubes De 1986" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgielestubesde1986.jpeg" group-title="🕺 Années 60-90",Nostalgie Les Tubes De 1986
 https://streaming.nrjaudio.fm/oumoci8fnozc
-#EXTINF:-1 tvg-id="nostalgieclermontferrand.fr" tvg-name="Nostalgie Clermont-Ferrand" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Clermont-Ferrand
+#EXTINF:-1 tvg-id="nostalgieclermontferrand.fr" tvg-name="Nostalgie Clermont-Ferrand" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieclermontferrand.png" group-title="🕺 Années 60-90",Nostalgie Clermont-Ferrand
 https://streaming.nrjaudio.fm/ou5knjirv93h
-#EXTINF:-1 tvg-id="nostalgiecolmar.fr" tvg-name="Nostalgie Colmar" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Colmar
+#EXTINF:-1 tvg-id="nostalgiecolmar.fr" tvg-name="Nostalgie Colmar" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiecolmar.png" group-title="🕺 Années 60-90",Nostalgie Colmar
 https://streaming.nrjaudio.fm/oubq66j25zuw
 #EXTINF:-1 tvg-id="nostalgiemegatubes.fr" tvg-name="Nostalgie Megatubes" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiemegatubes.jpeg" group-title="🕺 Années 60-90",Nostalgie Megatubes
 https://streaming.nrjaudio.fm/ouh889apu6pb
@@ -2456,7 +2456,7 @@ https://streaming.nrjaudio.fm/ou5evgirv93h
 https://streaming.nrjaudio.fm/oub3h9j25zuw
 #EXTINF:-1 tvg-id="nostalgiesummernights.fr" tvg-name="Nostalgie Summer Nights" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiesummernights.jpeg" group-title="🕺 Années 60-90",Nostalgie Summer Nights
 https://streaming.nrjaudio.fm/ou6bvwxp336f
-#EXTINF:-1 tvg-id="nostalgiesurlaroutedesvacances.fr" tvg-name="Nostalgie Sur La Route Des Vacances" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" group-title="🕺 Années 60-90",Nostalgie Sur La Route Des Vacances
+#EXTINF:-1 tvg-id="nostalgiesurlaroutedesvacances.fr" tvg-name="Nostalgie Sur La Route Des Vacances" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiesurlaroutedesvacances.png" group-title="🕺 Années 60-90",Nostalgie Sur La Route Des Vacances
 https://streaming.nrjaudio.fm/ouycqm36zcw2
 #EXTINF:-1 tvg-id="nostalgietouslestubestouslesstyles.fr" tvg-name="Nostalgie Tous les Tubes Tous les Styles" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgietouslestubestouslesstyles.jpeg" group-title="🕺 Années 60-90",Nostalgie Tous les Tubes Tous les Styles
 https://streaming.nrjaudio.fm/oupqj5bgddr9
@@ -2480,7 +2480,7 @@ https://stream.votreradiosurlenet.eu/maxlaradio.mp3
 https://live.smartradio.city/listen/city/radio.mp3?t=1788082690629
 #EXTINF:-1 tvg-id="witfm80s.fr" tvg-name="Wit FM 80's" tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/witfm/images/logo_zEP0iiF4US.png" group-title="🕺 Années 60-90",Wit FM 80's
 http://wit80s.ice.infomaniak.ch/wit80s.mp3
-#EXTINF:-1 tvg-id="rireetchansons.fr" tvg-name="Rire et Chansons" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire et Chansons
+#EXTINF:-1 tvg-id="rireetchansons.fr" tvg-name="Rire et Chansons" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rireetchansons.png" group-title="🇫🇷 Chanson française",Rire et Chansons
 https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios
 #EXTINF:-1 tvg-id="rireetchansonssketches.fr" tvg-name="Rire et Chansons Sketches" tvg-logo="https://station-images-prod.radio-assets.com/300/rireetchansonssketches.jpeg" group-title="🇫🇷 Chanson française",Rire et Chansons Sketches
 https://streaming.nrjaudio.fm/ou8oqegk7oiu?aw_0_1st.station=Rire-Chansons-SKETCHES&origine=mytuner
@@ -2502,15 +2502,15 @@ https://plixsend.eu/listen/pdll/stream
 https://plixsend.eu/listen/fr/stream
 #EXTINF:-1 tvg-id="maxifrance.fr" tvg-name="Maxi France" tvg-logo="https://station-images-prod.radio-assets.com/300/maxifrance.png" group-title="🇫🇷 Chanson française",Maxi France
 http://stream.maxifrance.fr:8358/stream
-#EXTINF:-1 tvg-id="clapaschanson.fr" tvg-name="Clapas Chanson" tvg-logo="https://www.radioclapas.fr/player/chanson.jpg" group-title="🇫🇷 Chanson française",Clapas Chanson
+#EXTINF:-1 tvg-id="clapaschanson.fr" tvg-name="Clapas Chanson" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radioclapas.fr&size=256" group-title="🇫🇷 Chanson française",Clapas Chanson
 https://stream.radioclapas.fr/listen/clapas_chanson/radio.mp3
 #EXTINF:-1 tvg-id="funvibe.fr" tvg-name="FunVibe" tvg-logo="https://funvibe.fr/uploads/img_6a009bd29f6cf5.51006311.png" group-title="🇫🇷 Chanson française",FunVibe
 https://radio.funvibe.fr/listen/funvibe/radio.mp3
 #EXTINF:-1 tvg-id="francebleu100chansonfrancaise.fr" tvg-name="France Bleu 100% chanson française" tvg-logo="https://www.ici.fr/images/logo-512.png" group-title="🇫🇷 Chanson française",France Bleu 100% chanson française
 https://icecast.radiofrance.fr/fbchansonfrancaise-midfi.mp3
-#EXTINF:-1 tvg-id="rirechansonscollectors.fr" tvg-name="Rire & Chansons Collectors" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Collectors
+#EXTINF:-1 tvg-id="rirechansonscollectors.fr" tvg-name="Rire & Chansons Collectors" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonscollectors.png" group-title="🇫🇷 Chanson française",Rire & Chansons Collectors
 https://streaming.nrjaudio.fm/ouukrq5n3nje
-#EXTINF:-1 tvg-id="rirechansonsnouvellegeneration.fr" tvg-name="Rire & Chansons Nouvelle Génération" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Nouvelle Génération
+#EXTINF:-1 tvg-id="rirechansonsnouvellegeneration.fr" tvg-name="Rire & Chansons Nouvelle Génération" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsnouvellegeneration.png" group-title="🇫🇷 Chanson française",Rire & Chansons Nouvelle Génération
 https://streaming.nrjaudio.fm/out2kr6ubafg
 #EXTINF:-1 tvg-id="radiomontmartre.fr" tvg-name="Radio Montmartre" tvg-logo="https://station-images-prod.radio-assets.com/300/montmartrefm.png" group-title="🇫🇷 Chanson française",Radio Montmartre
 http://montmartre.ice.infomaniak.ch/montmartre.aac
@@ -2532,13 +2532,13 @@ https://plixsend.eu/listen/idf/stream
 https://plixsend.eu/listen/n_a/stream
 #EXTINF:-1 tvg-id="plixsendprovencealpescotedazur.fr" tvg-name="PlixSend Provence-Alpes-Côte d'Azur" tvg-logo="https://plixsend.eu/static/uploads/paca/album_art.1789082536.png" group-title="🇫🇷 Chanson française",PlixSend Provence-Alpes-Côte d'Azur
 https://plixsend.eu/listen/paca/stream
-#EXTINF:-1 tvg-id="rirechansonsstandup.fr" tvg-name="Rire & Chansons Stand Up" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Stand Up
+#EXTINF:-1 tvg-id="rirechansonsstandup.fr" tvg-name="Rire & Chansons Stand Up" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsstandup.png" group-title="🇫🇷 Chanson française",Rire & Chansons Stand Up
 https://streaming.nrjaudio.fm/oua8brw2dqao
-#EXTINF:-1 tvg-id="rirechansons3ansderire.fr" tvg-name="Rire & Chansons 3 Ans de Rire" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons 3 Ans de Rire
+#EXTINF:-1 tvg-id="rirechansons3ansderire.fr" tvg-name="Rire & Chansons 3 Ans de Rire" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansons3ansderire.png" group-title="🇫🇷 Chanson française",Rire & Chansons 3 Ans de Rire
 https://streaming.nrjaudio.fm/ouvtfsoarp52
 #EXTINF:-1 tvg-id="allzicradioenfoires.fr" tvg-name="Allzic Radio Enfoirés" tvg-logo="https://cdn-profiles.tunein.com/s235816/images/logog.png" group-title="🇫🇷 Chanson française",Allzic Radio Enfoirés
 http://allzic12.ice.infomaniak.ch/allzic12.mp3
-#EXTINF:-1 tvg-id="radiovaticanafrancais.fr" tvg-name="Radio Vaticana Francais" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.vaticannews.va&size=256" group-title="🇫🇷 Chanson française",Radio Vaticana Francais
+#EXTINF:-1 tvg-id="radiovaticanafrancais.fr" tvg-name="Radio Vaticana Francais" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/radiovaticanafrancais.png" group-title="🇫🇷 Chanson française",Radio Vaticana Francais
 https://radio.vaticannews.va/stream-fr
 #EXTINF:-1 tvg-id="allzicradionouveautesfrancaises.fr" tvg-name="ALLZIC RADIO NOUVEAUTES FRANCAISES" tvg-logo="https://www.allzicradio.com/media/radios/nouveautes-francaises-by-allzic_69d21446d2116.jpg" group-title="🇫🇷 Chanson française",ALLZIC RADIO NOUVEAUTES FRANCAISES
 https://allzic23.ice.infomaniak.ch/allzic23.mp3
@@ -2556,19 +2556,19 @@ https://www.zestream.eu/listen/radiobrassens/radio.mp3
 http://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3
 #EXTINF:-1 tvg-id="mradiovoixfeminines.fr" tvg-name="M Radio Voix Féminines" tvg-logo="https://mradio.fr/favicon-196.png" group-title="🇫🇷 Chanson française",M Radio Voix Féminines
 http://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
-#EXTINF:-1 tvg-id="rirechansonsduos.fr" tvg-name="Rire & Chansons Duos" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Duos
+#EXTINF:-1 tvg-id="rirechansonsduos.fr" tvg-name="Rire & Chansons Duos" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsduos.png" group-title="🇫🇷 Chanson française",Rire & Chansons Duos
 https://streaming.nrjaudio.fm/ourf7gvukkaq
-#EXTINF:-1 tvg-id="rirechansonseliesemoun.fr" tvg-name="Rire & Chansons Elie Semoun" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Elie Semoun
+#EXTINF:-1 tvg-id="rirechansonseliesemoun.fr" tvg-name="Rire & Chansons Elie Semoun" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonseliesemoun.png" group-title="🇫🇷 Chanson française",Rire & Chansons Elie Semoun
 https://streaming.nrjaudio.fm/ou8viwgk7oiu
 #EXTINF:-1 tvg-id="rirechansonsfuturstalents.fr" tvg-name="Rire & Chansons Futurs Talents" tvg-logo="https://station-images-prod.radio-assets.com/300/rireetchansonsfuturstalents.jpeg" group-title="🇫🇷 Chanson française",Rire & Chansons Futurs Talents
 https://streaming.nrjaudio.fm/ousvdfm4z85f
-#EXTINF:-1 tvg-id="rirechansonshumour2000s.fr" tvg-name="Rire & Chansons Humour 2000's" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Humour 2000's
+#EXTINF:-1 tvg-id="rirechansonshumour2000s.fr" tvg-name="Rire & Chansons Humour 2000's" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonshumour2000s.png" group-title="🇫🇷 Chanson française",Rire & Chansons Humour 2000's
 https://streaming.nrjaudio.fm/oub3gmj25zuw
-#EXTINF:-1 tvg-id="rirechansonslesinterdits.fr" tvg-name="Rire & Chansons Les Interdits" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Les Interdits
+#EXTINF:-1 tvg-id="rirechansonslesinterdits.fr" tvg-name="Rire & Chansons Les Interdits" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonslesinterdits.png" group-title="🇫🇷 Chanson française",Rire & Chansons Les Interdits
 https://streaming.nrjaudio.fm/ou5eecirv93h
-#EXTINF:-1 tvg-id="rirechansonsonewomanshow.fr" tvg-name="Rire & Chansons One Woman Show" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons One Woman Show
+#EXTINF:-1 tvg-id="rirechansonsonewomanshow.fr" tvg-name="Rire & Chansons One Woman Show" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsonewomanshow.png" group-title="🇫🇷 Chanson française",Rire & Chansons One Woman Show
 https://streaming.nrjaudio.fm/ouwgyvsk6j4d
-#EXTINF:-1 tvg-id="rirechansonsrireen.fr" tvg-name="Rire & Chansons Rire En ..." tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Rire En ...
+#EXTINF:-1 tvg-id="rirechansonsrireen.fr" tvg-name="Rire & Chansons Rire En ..." tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsrireen.png" group-title="🇫🇷 Chanson française",Rire & Chansons Rire En ...
 https://streaming.nrjaudio.fm/oua8now2dqao
 #EXTINF:-1 tvg-id="mradiofrenchtouch.fr" tvg-name="M Radio French Touch" tvg-logo="https://mradio.fr/favicon-196.png" group-title="🇫🇷 Chanson française",M Radio French Touch
 http://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3
@@ -2586,23 +2586,23 @@ https://streaming.nrjaudio.fm/ouv6kjoarp52
 https://streaming.nrjaudio.fm/oupnxqbgddr9
 #EXTINF:-1 tvg-id="nrjnouveautesfrancaises.fr" tvg-name="NRJ Nouveautés Françaises" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjnouveautesfrancaises.jpeg" group-title="🇫🇷 Chanson française",NRJ Nouveautés Françaises
 https://streaming.nrjaudio.fm/ou76qmf3s5gi
-#EXTINF:-1 tvg-id="rirechansonsparis.fr" tvg-name="Rire & Chansons Paris" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Paris
+#EXTINF:-1 tvg-id="rirechansonsparis.fr" tvg-name="Rire & Chansons Paris" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsparis.png" group-title="🇫🇷 Chanson française",Rire & Chansons Paris
 https://streaming.nrjaudio.fm/ousguym4z85f
-#EXTINF:-1 tvg-id="rirechansonsallstars.fr" tvg-name="Rire & Chansons All Stars" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons All Stars
+#EXTINF:-1 tvg-id="rirechansonsallstars.fr" tvg-name="Rire & Chansons All Stars" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsallstars.png" group-title="🇫🇷 Chanson française",Rire & Chansons All Stars
 https://streaming.nrjaudio.fm/ou3kk4uizv6i
-#EXTINF:-1 tvg-id="rirechansonsblagues.fr" tvg-name="Rire & Chansons Blagues" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Blagues
+#EXTINF:-1 tvg-id="rirechansonsblagues.fr" tvg-name="Rire & Chansons Blagues" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsblagues.png" group-title="🇫🇷 Chanson française",Rire & Chansons Blagues
 https://streaming.nrjaudio.fm/oug7y8rb92oc
 #EXTINF:-1 tvg-id="rirechansons.fr" tvg-name="Rire & Chansons" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Florence Foresti
 https://streaming.nrjaudio.fm/oumof78fnozc
 #EXTINF:-1 tvg-id="rirechansonsgadelmaleh.fr" tvg-name="Rire & Chansons Gad Elmaleh" tvg-logo="https://station-images-prod.radio-assets.com/300/rireetchansonsgadelmelah.jpeg" group-title="🇫🇷 Chanson française",Rire & Chansons Gad Elmaleh
 https://streaming.nrjaudio.fm/ou5zshirv93h
-#EXTINF:-1 tvg-id="rirechansonshumour2010s.fr" tvg-name="Rire & Chansons Humour 2010's" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Humour 2010's
+#EXTINF:-1 tvg-id="rirechansonshumour2010s.fr" tvg-name="Rire & Chansons Humour 2010's" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonshumour2010s.png" group-title="🇫🇷 Chanson française",Rire & Chansons Humour 2010's
 https://streaming.nrjaudio.fm/ou4mnnhtd2ko
-#EXTINF:-1 tvg-id="rirechansonshumourbelge.fr" tvg-name="Rire & Chansons Humour Belge" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Humour Belge
+#EXTINF:-1 tvg-id="rirechansonshumourbelge.fr" tvg-name="Rire & Chansons Humour Belge" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonshumourbelge.png" group-title="🇫🇷 Chanson française",Rire & Chansons Humour Belge
 https://streaming.nrjaudio.fm/oumodx8fnozc
 #EXTINF:-1 tvg-id="nrjhitsfrancaisdelete.fr" tvg-name="NRJ Hits Français De L'Eté" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" group-title="🇫🇷 Chanson française",NRJ Hits Français De L'Eté
 https://streaming.nrjaudio.fm/ou5z9kirv93h
-#EXTINF:-1 tvg-id="rirechansonsnouveautes.fr" tvg-name="Rire & Chansons Nouveautés" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" group-title="🇫🇷 Chanson française",Rire & Chansons Nouveautés
+#EXTINF:-1 tvg-id="rirechansonsnouveautes.fr" tvg-name="Rire & Chansons Nouveautés" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsnouveautes.png" group-title="🇫🇷 Chanson française",Rire & Chansons Nouveautés
 https://streaming.nrjaudio.fm/ou3isouizv6i
 #EXTINF:-1 tvg-id="forumenfrancais.fr" tvg-name="Forum en Français" tvg-logo="https://cdn-radiotime-logos.tunein.com/s289777g.png" group-title="🇫🇷 Chanson française",Forum en Français
 http://forumenfrancais.ice.infomaniak.ch/forumenfrancais-128.mp3
