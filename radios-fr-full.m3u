@@ -366,7 +366,7 @@ https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8?id=radiofrance
 #EXTINF:-1 tvg-id="horizonlaradiolibre1009fm.fr" tvg-name="Horizon la radio libre 100.9fm" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.horizon-fm.fr&size=256" group-title="📰 Info & Talk",Horizon la radio libre 100.9fm
 https://horizonlaradiolibre.ice.infomaniak.ch/horizonlaradiolibre-128.mp3
-#EXTINF:-1 tvg-id="radioclapasculturecitoyennete935montpellier.fr" tvg-name="Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radioclapas.fr&size=256" group-title="📰 Info & Talk",Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier
+#EXTINF:-1 tvg-id="radioclapasculturecitoyennete935montpellier.fr" tvg-name="Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier" tvg-logo="https://www.radioclapas.fr/wp-content/uploads/2016/03/logo-clapas-demi.png" group-title="📰 Info & Talk",Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier
 https://stations.radioclapas.fr/radio/8130/radio.mp3
 #EXTINF:-1 tvg-id="radio6calais.fr" tvg-name="Radio 6 Calais" tvg-logo="http://www.radio6.fr/images/apple-touch-icon.png" group-title="📰 Info & Talk",Radio 6 Calais
 http://radio6-calais.ice.infomaniak.ch/radio6-calais-128.mp3
@@ -760,7 +760,7 @@ http://croonerradio_love.ice.infomaniak.ch/croonerradio-love-midfi.mp3
 http://croonerradio_classicgold.ice.infomaniak.ch/croonerradio-classicgold-midfi.mp3
 #EXTINF:-1 tvg-id="jazzradioonlywomen.fr" tvg-name="Jazz Radio Only Women" tvg-logo="https://cdn-radiotime-logos.tunein.com/s235450g.png" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Only Women
 http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
-#EXTINF:-1 tvg-id="clapasjazz.fr" tvg-name="Clapas Jazz" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radioclapas.fr&size=256" group-title="🎷 Jazz, Soul & Funk",Clapas Jazz
+#EXTINF:-1 tvg-id="clapasjazz.fr" tvg-name="Clapas Jazz" tvg-logo="https://www.radioclapas.fr/player/jazz.jpg" group-title="🎷 Jazz, Soul & Funk",Clapas Jazz
 https://stream.radioclapas.fr/listen/clapas_jazz/radio.mp3
 #EXTINF:-1 tvg-id="jazzradiojazzcinema.fr" tvg-name="Jazz Radio Jazz & Cinema" tvg-logo="https://cdn-radiotime-logos.tunein.com/s235563g.png" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Jazz & Cinema
 http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
@@ -1662,7 +1662,7 @@ https://stream.frequencehit.com/frequencehit.mp3
 http://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3
 #EXTINF:-1 tvg-id="radioheavymetal.fr" tvg-name="Radio Heavy Metal" tvg-logo="https://station-images-prod.radio-assets.com/300/radioheavymetal.jpeg" group-title="🎸 Rock & Metal",Radio Heavy Metal
 https://manager7.streamradio.fr:1435/stream
-#EXTINF:-1 tvg-id="clapasrock.fr" tvg-name="Clapas Rock" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radioclapas.fr&size=256" group-title="🎸 Rock & Metal",Clapas Rock
+#EXTINF:-1 tvg-id="clapasrock.fr" tvg-name="Clapas Rock" tvg-logo="https://www.radioclapas.fr/player/rock.jpg" group-title="🎸 Rock & Metal",Clapas Rock
 https://stream.radioclapas.fr/listen/clapas_rock/radio.mp3
 #EXTINF:-1 tvg-id="platine45radio.fr" tvg-name="Platine 45 Radio" tvg-logo="https://ui-avatars.com/api/?name=Platine+45+Radio&size=256&background=random&bold=true" group-title="🎸 Rock & Metal",Platine 45 Radio
 https://ecmanager.pro-fhi.net:1710/;
@@ -1726,7 +1726,7 @@ https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3
 https://ecmanager5.pro-fhi.net/alternativefm
 #EXTINF:-1 tvg-id="rockfolkradio.fr" tvg-name="Rock&Folk Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rocknfolk.com&size=256" group-title="🎸 Rock & Metal",Rock&Folk Radio
 https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?t=1641651522250
-#EXTINF:-1 tvg-id="ouifmrockfrancais.fr" tvg-name="OUI FM ROCK FRANCAIS" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.ouifm.fr&size=256" group-title="🎸 Rock & Metal",OUI FM ROCK FRANCAIS
+#EXTINF:-1 tvg-id="ouifmrockfrancais.fr" tvg-name="OUI FM ROCK FRANCAIS" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3fkpVzB8Cc/vignette.png" group-title="🎸 Rock & Metal",OUI FM ROCK FRANCAIS
 https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3
 #EXTINF:-1 tvg-id="nihonnooto.fr" tvg-name="Nihon no Oto" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nihonnooto.png" group-title="🎸 Rock & Metal",Nihon no Oto
 http://stream1.nihon-no-oto.com/nihonogg
@@ -2062,7 +2062,7 @@ http://10191.go2stream.fr:8000/stream
 https://latinawork.ice.infomaniak.ch/latinawork.mp3
 #EXTINF:-1 tvg-id="oztarkanradio.fr" tvg-name="OZ Tarkan Radio" tvg-logo="https://cdn-profiles.tunein.com/s360777/images/logod.jpg?t=639242961550000000" group-title="🌍 Musiques du monde",OZ Tarkan Radio
 https://eu8.fastcast4u.com/proxy/oztarkan/stream
-#EXTINF:-1 tvg-id="klmfm.fr" tvg-name="📻 KLM FM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTw3lsCbI8ZcwYsEss5GhURlItGfxXLAeI0kDc5D_dOyc_yS8XrLoPJaUy8wlvdJem90NpWW65skgJCwlSCtBWaGH3Mw7CIm3F1PlaKvimGM2skZIUutxYWplI8wG-emyVONIMby2rc8IfAc017YEs3RWwwFdXpUFqONUABApu3JL36HW3lgJ5ubhL/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-12-12_11-09-39.png" group-title="🌍 Musiques du monde",📻 KLM FM
+#EXTINF:-1 tvg-id="klmfm.fr" tvg-name="📻 KLM FM" tvg-logo="https://ui-avatars.com/api/?name=%F0%9F%93%BB+KLM+FM&size=256&background=random&bold=true" group-title="🌍 Musiques du monde",📻 KLM FM
 https://us3new.listen2myradio.com:2199/listen.php?port=8117
 #EXTINF:-1 tvg-id="icibreizhizel.fr" tvg-name="ICI Breizh Izel" tvg-logo="https://station-images-prod.radio-assets.com/300/francebleubreizhizel.png" group-title="🌍 Musiques du monde",ICI Breizh Izel
 https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8
@@ -2322,7 +2322,7 @@ https://streaming.nrjaudio.fm/ouagk2w2dqao
 https://streaming.nrjaudio.fm/ouqis8yoeo8p
 #EXTINF:-1 tvg-id="nostalgiepoetes.fr" tvg-name="Nostalgie Poètes" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiefrpoetes.jpeg" group-title="🕺 Années 60-90",Nostalgie Poètes
 https://streaming.nrjaudio.fm/oua8s6w2dqao
-#EXTINF:-1 tvg-id="awfullyawesome80s.fr" tvg-name="Awfully Awesome 80s" tvg-logo="https://www.awfullyawesomeeighties.com/favicon.ico" group-title="🕺 Années 60-90",Awfully Awesome 80s
+#EXTINF:-1 tvg-id="awfullyawesome80s.fr" tvg-name="Awfully Awesome 80s" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://awfullyawesomeeighties.com&size=256" group-title="🕺 Années 60-90",Awfully Awesome 80s
 http://psn3.prostreaming.net:8163/;
 #EXTINF:-1 tvg-id="nostalgiemontauban.fr" tvg-name="Nostalgie Montauban" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiemontauban.png" group-title="🕺 Années 60-90",Nostalgie Montauban
 https://streaming.nrjaudio.fm/ousg4rm4z85f
@@ -2502,7 +2502,7 @@ https://plixsend.eu/listen/pdll/stream
 https://plixsend.eu/listen/fr/stream
 #EXTINF:-1 tvg-id="maxifrance.fr" tvg-name="Maxi France" tvg-logo="https://station-images-prod.radio-assets.com/300/maxifrance.png" group-title="🇫🇷 Chanson française",Maxi France
 http://stream.maxifrance.fr:8358/stream
-#EXTINF:-1 tvg-id="clapaschanson.fr" tvg-name="Clapas Chanson" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radioclapas.fr&size=256" group-title="🇫🇷 Chanson française",Clapas Chanson
+#EXTINF:-1 tvg-id="clapaschanson.fr" tvg-name="Clapas Chanson" tvg-logo="https://www.radioclapas.fr/player/chanson.jpg" group-title="🇫🇷 Chanson française",Clapas Chanson
 https://stream.radioclapas.fr/listen/clapas_chanson/radio.mp3
 #EXTINF:-1 tvg-id="funvibe.fr" tvg-name="FunVibe" tvg-logo="https://funvibe.fr/uploads/img_6a009bd29f6cf5.51006311.png" group-title="🇫🇷 Chanson française",FunVibe
 https://radio.funvibe.fr/listen/funvibe/radio.mp3
@@ -3768,7 +3768,7 @@ https://classicfm.ice.infomaniak.ch/classic-fm.mp3
 https://rcast.pro-fhi.net:9006/stream
 #EXTINF:-1 tvg-id="evasionfmseineetmarnesud.fr" tvg-name="Evasion FM Seine-et-Marne Sud" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.evasionfm.com&size=256" group-title="📍 Radios locales",Evasion FM Seine-et-Marne Sud
 http://stream1.evasionfm.com/Sud77
-#EXTINF:-1 tvg-id="radiosudbesancon.fr" tvg-name="Radio Sud Besançon" tvg-logo="https://ui-avatars.com/api/?name=Radio+Sud+Besan%C3%A7on&size=256&background=random&bold=true" group-title="📍 Radios locales",Radio Sud Besançon
+#EXTINF:-1 tvg-id="radiosudbesancon.fr" tvg-name="Radio Sud Besançon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://radiosud.net&size=256" group-title="📍 Radios locales",Radio Sud Besançon
 https://radiosudbesancon.ice.infomaniak.ch/radiosudbesancon-128.mp3
 #EXTINF:-1 tvg-id="perrinefm.fr" tvg-name="Perrine FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s50169g.png" group-title="📍 Radios locales",Perrine FM
 http://perrinefm.ice.infomaniak.ch/perrinefm-high.mp3
