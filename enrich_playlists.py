@@ -88,6 +88,12 @@ LOGO_OVERRIDES = {"radionova": "logos/radio-nova.png", "nova": "logos/radio-nova
                   "radionovavintage": "logos/radio-nova.png"}
 LOGO_OVERRIDES.update({f"fip{n.replace('-', '')}": f"logos/fip-{n}.png" for n in
                        ["rock", "jazz", "groove", "monde", "reggae", "electro", "metal", "pop", "hip-hop", "cultes"]})
+LOGO_OVERRIDES.update({"rinsefrance": "logos/rinse.png", "rinsefm": "logos/rinse.png"})
+# Logos officiels en 300-600 px trouvés sur radio.net / TuneIn (nom exact) pour les radios dont le favicon
+# était trop petit : nom normalisé -> URL complète. Les logos faits main ci-dessus restent prioritaires.
+_TROUVES = Path(__file__).with_name("logos") / "overrides.json"
+if _TROUVES.exists():
+    LOGO_OVERRIDES = {**json.loads(_TROUVES.read_text()), **LOGO_OVERRIDES}
 
 # Radios indé publiant leur grille : nom normalisé -> (type, identifiant)
 SCHEDULES = {
@@ -218,7 +224,8 @@ def main(fr_json, nts_json, live_json, folder):
             cands = [e["logo"], (st or {}).get("favicon", "")] + [s["favicon"] for s in same]
             cands.append(site_icon(homepage))
             if norm(e["name"]) in LOGO_OVERRIDES:
-                cands.insert(0, f"{REPO_RAW}/{LOGO_OVERRIDES[norm(e['name'])]}")
+                o = LOGO_OVERRIDES[norm(e["name"])]
+                cands.insert(0, o if o.startswith("http") else f"{REPO_RAW}/{o}")
         cands = [html.unescape(c) for c in cands if c]  # ex. « &#038; » dans certaines adresses
         cands = [c for c in cands if not re.search(r"google\.com/images/branding|googlelogo", c)]
         e["cands"] = [c for c in dict.fromkeys(png_logo(c) for c in cands) if c]
