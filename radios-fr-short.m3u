@@ -64,6 +64,8 @@ https://streaming.radio.co/s3699c5e49/listen
 https://cashmereradio.out.airtime.pro/cashmereradio_b
 #EXTINF:-1 tvg-id="radio80000.fr" tvg-name="Radio 80000" tvg-logo="https://www.radio80k.de/app/uploads/2022/10/cropped-favicon-8000-192x192.gif" group-title="📡 Radios indé",Radio 80000
 https://radio80k.out.airtime.pro/radio80k_a
+#EXTINF:-1 tvg-id="operatorradio.fr" tvg-name="Operator Radio" tvg-logo="https://operator-radio.com/favicon.ico" group-title="📡 Radios indé",Operator Radio
+https://origin.streamnerd.nl/operator/operator/icecast.audio
 #EXTINF:-1 tvg-id="intergalacticfm.fr" tvg-name="Intergalactic FM" tvg-logo="https://www.intergalactic.fm/themes/custom/ifm/favicon.ico" group-title="📡 Radios indé",Intergalactic FM
 https://radio.intergalactic.fm/1
 #EXTINF:-1 tvg-id="radioraheem.fr" tvg-name="Radio Raheem" tvg-logo="https://cdn-profiles.tunein.com/s299419/images/logog.jpg" group-title="📡 Radios indé",Radio Raheem
