@@ -62,7 +62,7 @@ https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
 https://streaming.radio.co/s3699c5e49/listen
 #EXTINF:-1 tvg-id="cashmereradio.fr" tvg-name="Cashmere Radio" tvg-logo="https://station-images-prod.radio-assets.com/300/cashmereradio.jpeg" group-title="📡 Radios indé",Cashmere Radio
 https://cashmereradio.out.airtime.pro/cashmereradio_b
-#EXTINF:-1 tvg-id="radio80000.fr" tvg-name="Radio 80000" tvg-logo="https://www.radio80k.de/app/uploads/2022/10/cropped-favicon-8000-192x192.gif" group-title="📡 Radios indé",Radio 80000
+#EXTINF:-1 tvg-id="radio80000.fr" tvg-name="Radio 80000" tvg-logo="https://ui-avatars.com/api/?name=Radio+80000&size=256&background=random&bold=true" group-title="📡 Radios indé",Radio 80000
 https://radio80k.out.airtime.pro/radio80k_a
 #EXTINF:-1 tvg-id="operatorradio.fr" tvg-name="Operator Radio" tvg-logo="https://operator-radio.com/favicon.ico" group-title="📡 Radios indé",Operator Radio
 https://origin.streamnerd.nl/operator/operator/icecast.audio
