@@ -26,9 +26,9 @@ https://stream-mixtape-geo.ntslive.net/mixtape35
 https://stream-mixtape-geo.ntslive.net/mixtape27
 #EXTINF:-1 tvg-id="ntsexpansions.fr" tvg-name="NTS – Expansions" tvg-logo="https://media.ntslive.co.uk/resize/400x400/acc3ad65-05bd-495d-90cb-f5d81221464b_1542931200.jpeg" group-title="🌐 NTS",NTS – Expansions
 https://stream-mixtape-geo.ntslive.net/mixtape3
-#EXTINF:-1 tvg-id="ntsraphouse.fr" tvg-name="NTS – Rap House" tvg-logo="https://media.ntslive.co.uk/resize/400x400/916a2aa3-dcc5-4eb6-abea-b2f1914fb49a_1590451200.jpeg" group-title="🌐 NTS",NTS – Rap House
+#EXTINF:-1 tvg-id="ntsraphouse.fr" tvg-name="NTS – Rap House" tvg-logo="https://www.nts.live/apple-touch-icon.png" group-title="🌐 NTS",NTS – Rap House
 https://stream-mixtape-geo.ntslive.net/mixtape22
-#EXTINF:-1 tvg-id="ntslabyrinth.fr" tvg-name="NTS – Labyrinth" tvg-logo="https://media.ntslive.co.uk/resize/400x400/4ce92a36-4942-4f35-9cc4-1d3e6c2be746_1638230400.jpeg" group-title="🌐 NTS",NTS – Labyrinth
+#EXTINF:-1 tvg-id="ntslabyrinth.fr" tvg-name="NTS – Labyrinth" tvg-logo="https://www.nts.live/apple-touch-icon.png" group-title="🌐 NTS",NTS – Labyrinth
 https://stream-mixtape-geo.ntslive.net/mixtape31
 #EXTINF:-1 tvg-id="ntssweat.fr" tvg-name="NTS – Sweat" tvg-logo="https://media.ntslive.co.uk/resize/400x400/f0c77a19-670b-4979-ac6e-e93f6089b5bc_1622592000.png" group-title="🌐 NTS",NTS – Sweat
 https://stream-mixtape-geo.ntslive.net/mixtape24
@@ -36,7 +36,7 @@ https://stream-mixtape-geo.ntslive.net/mixtape24
 https://stream-mixtape-geo.ntslive.net/mixtape36
 #EXTINF:-1 tvg-id="ntsthepit.fr" tvg-name="NTS – The Pit" tvg-logo="https://media.ntslive.co.uk/resize/400x400/9c9efb53-ce34-4a5e-997b-f8251be464a1_1668038400.jpeg" group-title="🌐 NTS",NTS – The Pit
 https://stream-mixtape-geo.ntslive.net/mixtape34
-#EXTINF:-1 tvg-id="ntsfieldrecordings.fr" tvg-name="NTS – Field Recordings" tvg-logo="https://media.ntslive.co.uk/resize/400x400/807d8db6-049d-4eeb-8515-57c02b251e73_1622592000.png" group-title="🌐 NTS",NTS – Field Recordings
+#EXTINF:-1 tvg-id="ntsfieldrecordings.fr" tvg-name="NTS – Field Recordings" tvg-logo="https://www.nts.live/apple-touch-icon.png" group-title="🌐 NTS",NTS – Field Recordings
 https://stream-mixtape-geo.ntslive.net/mixtape23
 #EXTINF:-1 tvg-id="thelotradio.fr" tvg-name="The Lot Radio" tvg-logo="https://cdn.prod.website-files.com/5f4bdfc87623ea5cc5d24cf3/606da84551eef3d5fa8c0cb9_icon.png" group-title="📡 Radios indé",The Lot Radio
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
@@ -110,7 +110,7 @@ https://icecast.radiofrance.fr/fipmetal-midfi.mp3
 https://icecast.radiofrance.fr/fippop-midfi.mp3
 #EXTINF:-1 tvg-id="fiphiphop.fr" tvg-name="FIP Hip-Hop" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/fip-hip-hop.png" group-title="🎵 FIP",FIP Hip-Hop
 https://icecast.radiofrance.fr/fiphiphop-midfi.mp3
-#EXTINF:-1 tvg-id="rtl.fr" tvg-name="RTL" tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="📰 Info",RTL
+#EXTINF:-1 tvg-id="rtl.fr" tvg-name="RTL" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rtl.fr&size=256" group-title="📰 Info",RTL
 https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
 #EXTINF:-1 tvg-id="europe1.fr" tvg-name="Europe 1" tvg-logo="https://db.radioline.fr/pictures/radio_fa64fea9b6ccd92e058ced3fa41f58f5/logo200.jpg" group-title="📰 Info",Europe 1
 https://stream.europe1.fr/europe1.mp3
