@@ -48,8 +48,6 @@ https://icecast.lyl.live/live
 https://listen.radioking.com/radio/96031/stream/134656
 #EXTINF:-1 tvg-id="radiogrenouille.fr" tvg-name="Radio Grenouille" tvg-logo="https://cdn-profiles.tunein.com/s25122/images/logog.png" group-title="📡 Radios indé",Radio Grenouille
 https://live.radiogrenouille.com:8443/live
-#EXTINF:-1 tvg-id="rinsefm.fr" tvg-name="Rinse FM" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/rinse.png" group-title="📡 Radios indé",Rinse FM
-https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 #EXTINF:-1 tvg-id="worldwidefm.fr" tvg-name="Worldwide FM" tvg-logo="https://station-images-prod.radio-assets.com/300/worldwidefm.png" group-title="📡 Radios indé",Worldwide FM
 https://worldwide-fm.radiocult.fm/stream
 #EXTINF:-1 tvg-id="netilradio.fr" tvg-name="Netil Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://netilradio.com&size=256" group-title="📡 Radios indé",Netil Radio
