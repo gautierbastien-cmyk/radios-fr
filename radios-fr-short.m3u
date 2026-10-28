@@ -146,7 +146,7 @@ https://novazz.ice.infomaniak.ch/novazz-128.mp3
 https://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 #EXTINF:-1 tvg-id="tsfjazz.fr" tvg-name="TSF Jazz" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.tsfjazz.com&size=256" group-title="🎷 Jazz",TSF Jazz
 https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
-#EXTINF:-1 tvg-id="jazzradio.fr" tvg-name="Jazz Radio" tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="🎷 Jazz",Jazz Radio
+#EXTINF:-1 tvg-id="jazzradio.fr" tvg-name="Jazz Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s16730g.png" group-title="🎷 Jazz",Jazz Radio
 https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
 #EXTINF:-1 tvg-id="radioclassique.fr" tvg-name="Radio Classique" tvg-logo="https://station-images-prod.radio-assets.com/300/radioclassique.png" group-title="🎻 Classique",Radio Classique
 https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
