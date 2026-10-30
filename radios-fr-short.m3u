@@ -72,8 +72,6 @@ https://radio.intergalactic.fm/1
 https://radioraheem.out.airtime.pro/radioraheem_a
 #EXTINF:-1 tvg-id="dublab.fr" tvg-name="dublab" tvg-logo="https://station-images-prod.radio-assets.com/300/dublab.png" group-title="📡 Radios indé",dublab
 https://dublab.out.airtime.pro/dublab_a
-#EXTINF:-1 tvg-id="kexp.fr" tvg-name="KEXP" tvg-logo="http://www.kexp.org/static/assets/img/favicon-32x32.png" group-title="📡 Radios indé",KEXP
-https://kexp.streamguys1.com/kexp160.aac
 #EXTINF:-1 tvg-id="orokoradio.fr" tvg-name="Oroko Radio" tvg-logo="https://oroko.live/favicon.ico" group-title="📡 Radios indé",Oroko Radio
 https://oroko-radio.radiocult.fm/stream
 #EXTINF:-1 tvg-id="franceinter.fr" tvg-name="France Inter" tvg-logo="https://station-images-prod.radio-assets.com/300/franceinter.png" group-title="📻 Radio France",France Inter
