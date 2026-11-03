@@ -45,8 +45,8 @@ def clean(s):
     return re.sub(r'[\r\n"]', "", s or "").strip()
 
 
-def extinf(name, url, group="", logo=""):
-    attrs = (f'tvg-logo="{clean(logo)}" ' if logo else "") + f'group-title="{clean(group)}"'
+def extinf(name, url, group="", logo="", country=""):
+    attrs = (f'tvg-logo="{clean(logo)}" ' if logo else "") + (f'tvg-country="{clean(country)}" ' if country else "") + f'group-title="{clean(group)}"'
     return f"#EXTINF:-1 {attrs},{clean(name)}\n{url}\n"
 
 
@@ -58,8 +58,10 @@ def parse_m3u(path):
             attrs, name = (m.group(1), m.group(2)) if m else l.split(",", 1)
             g = re.search(r'group-title="([^"]*)"', attrs)
             lg = re.search(r'tvg-logo="([^"]*)"', attrs)
+            c = re.search(r'tvg-country="([^"]*)"', attrs)
             entries.append({"name": name, "url": lines[i + 1],
-                            "group": g.group(1) if g else "", "logo": lg.group(1) if lg else ""})
+                            "group": g.group(1) if g else "", "logo": lg.group(1) if lg else "",
+                            "country": c.group(1) if c else ""})
     return entries
 
 
@@ -173,14 +175,15 @@ def main(fr_json, nts_json, out_dir, source=None):
     inde_dead = [e["name"] for e in inde if not inde_status[e["url"]]]
     inde = [e for e in inde if inde_status[e["url"]]]
 
-    head = extinf(rmc["name"], rmc["url"], rmc["group"], rmc["logo"])
-    head += "".join(extinf(n["name"], n["url"], NTS_GROUP) for n in nts)
-    head += "".join(extinf(e["name"], e["url"], e["group"] or INDE_GROUP, e["logo"]) for e in inde)
+    # Pays d'origine (tvg-country) : NTS est londonienne, les radios indé déclarent le leur.
+    head = extinf(rmc["name"], rmc["url"], rmc["group"], rmc["logo"], "FR")
+    head += "".join(extinf(n["name"], n["url"], NTS_GROUP, country="GB") for n in nts)
+    head += "".join(extinf(e["name"], e["url"], e["group"] or INDE_GROUP, e["logo"], e["country"]) for e in inde)
     head_urls = {rmc["url"]} | {n["url"] for n in nts} | {e["url"] for e in inde}
     inde_names = {norm(e["name"]) for e in inde}
 
     # radios-fr-short.m3u
-    body = "".join(extinf(e["name"], e["url"], e["group"], e["logo"]) for e in main_entries)
+    body = "".join(extinf(e["name"], e["url"], e["group"], e["logo"], e["country"] or "FR") for e in main_entries)
     (out / "radios-fr-short.m3u").write_text("#EXTM3U\n" + head + body)
 
     # radios-fr-full.m3u
@@ -193,7 +196,7 @@ def main(fr_json, nts_json, out_dir, source=None):
             continue
         seen.add(url)
         seen_keys.add(key)  # stations triées par popularité : on garde la plus écoutée
-        body.append((genre(s), extinf(s["name"], url, genre(s), s.get("favicon", ""))))
+        body.append((genre(s), extinf(s["name"], url, genre(s), s.get("favicon", ""), (s.get("countrycode") or "").upper())))
         n_rb += 1
     # regroupe par famille (ordre de GENRES, « Autres » en dernier), popularité conservée dans chaque famille
     display = [g for g, _ in GENRES if g != "✝️ Religieux"]

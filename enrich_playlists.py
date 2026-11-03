@@ -76,8 +76,10 @@ def parse_m3u(path):
             attrs, name = (m.group(1), m.group(2)) if m else l.split(",", 1)
             g = re.search(r'group-title="([^"]*)"', attrs)
             lg = re.search(r'tvg-logo="([^"]*)"', attrs)
+            c = re.search(r'tvg-country="([^"]*)"', attrs)
             entries.append({"name": name, "url": lines[i + 1],
-                            "group": g.group(1) if g else "", "logo": lg.group(1) if lg else ""})
+                            "group": g.group(1) if g else "", "logo": lg.group(1) if lg else "",
+                            "country": c.group(1) if c else ""})
     return entries
 
 
@@ -306,8 +308,9 @@ def main(fr_json, nts_json, live_json, folder):
         out = ['#EXTM3U url-tvg="__EPG_URL__" x-tvg-url="__EPG_URL__"', f"#PLAYLIST:{title}"]
         for e in entries:
             c = channels[e["url"]]
+            country = f'tvg-country="{clean(e["country"])}" ' if e.get("country") else ""
             out.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{clean(c["name"])}" tvg-logo="{clean(c["logo"])}" '
-                       f'group-title="{clean(e["group"])}",{clean(e["name"])}')
+                       f'{country}group-title="{clean(e["group"])}",{clean(e["name"])}')
             out.append(e["url"])
         (folder / p).write_text("\n".join(out) + "\n")
 
