@@ -45,8 +45,9 @@ def clean(s):
     return re.sub(r'[\r\n"]', "", s or "").strip()
 
 
-def extinf(name, url, group="", logo="", country=""):
-    attrs = (f'tvg-logo="{clean(logo)}" ' if logo else "") + (f'tvg-country="{clean(country)}" ' if country else "") + f'group-title="{clean(group)}"'
+def extinf(name, url, group="", logo="", country="", radio=False):
+    attrs = ((f'tvg-logo="{clean(logo)}" ' if logo else "") + (f'tvg-country="{clean(country)}" ' if country else "")
+             + ('radio="true" ' if radio else "") + f'group-title="{clean(group)}"')
     return f"#EXTINF:-1 {attrs},{clean(name)}\n{url}\n"
 
 
@@ -172,13 +173,13 @@ def main(fr_json, nts_json, out_dir, source=None):
     inde_path = Path(source).parent / "radios-inde.source.m3u" if source else out / "radios-inde.source.m3u"
     inde = parse_m3u(inde_path) if inde_path.exists() else []
     inde_status = check_all([e["url"] for e in inde])
+    # Radios choisies à la main : gardées même hors antenne (beaucoup n'émettent qu'à certaines heures)
     inde_dead = [e["name"] for e in inde if not inde_status[e["url"]]]
-    inde = [e for e in inde if inde_status[e["url"]]]
 
     # Pays d'origine (tvg-country) : NTS est londonienne, les radios indé déclarent le leur.
     head = extinf(rmc["name"], rmc["url"], rmc["group"], rmc["logo"], "FR")
-    head += "".join(extinf(n["name"], n["url"], NTS_GROUP, country="GB") for n in nts)
-    head += "".join(extinf(e["name"], e["url"], e["group"] or INDE_GROUP, e["logo"], e["country"]) for e in inde)
+    head += "".join(extinf(n["name"], n["url"], NTS_GROUP, country="GB", radio=True) for n in nts)
+    head += "".join(extinf(e["name"], e["url"], e["group"] or INDE_GROUP, e["logo"], e["country"], radio=True) for e in inde)
     head_urls = {rmc["url"]} | {n["url"] for n in nts} | {e["url"] for e in inde}
     inde_names = {norm(e["name"]) for e in inde}
 

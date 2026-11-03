@@ -79,7 +79,7 @@ def parse_m3u(path):
             c = re.search(r'tvg-country="([^"]*)"', attrs)
             entries.append({"name": name, "url": lines[i + 1],
                             "group": g.group(1) if g else "", "logo": lg.group(1) if lg else "",
-                            "country": c.group(1) if c else ""})
+                            "country": c.group(1) if c else "", "radio": 'radio="true"' in attrs})
     return entries
 
 
@@ -309,6 +309,7 @@ def main(fr_json, nts_json, live_json, folder):
         for e in entries:
             c = channels[e["url"]]
             country = f'tvg-country="{clean(e["country"])}" ' if e.get("country") else ""
+            country += 'radio="true" ' if e.get("radio") else ""
             out.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{clean(c["name"])}" tvg-logo="{clean(c["logo"])}" '
                        f'{country}group-title="{clean(e["group"])}",{clean(e["name"])}')
             out.append(e["url"])
