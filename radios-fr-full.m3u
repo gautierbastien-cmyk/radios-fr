@@ -8,13 +8,13 @@ https://stream-relay-geo.ntslive.net/stream
 https://stream-relay-geo.ntslive.net/stream2
 #EXTINF:-1 tvg-id="ntspoolside.fr" tvg-name="NTS – Poolside" tvg-logo="https://media.ntslive.co.uk/resize/400x400/cf5afb01-5a68-4fa0-a1c6-415b35d09ed6_1542931200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Poolside
 https://stream-mixtape-geo.ntslive.net/mixtape4
-#EXTINF:-1 tvg-id="ntsslowfocus.fr" tvg-name="NTS – Slow Focus" tvg-logo="https://media.ntslive.co.uk/resize/400x400/01f7cbe6-235f-4e33-8f2f-70152c91edf1_1542931200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Slow Focus
+#EXTINF:-1 tvg-id="ntsslowfocus.fr" tvg-name="NTS – Slow Focus" tvg-logo="https://www.nts.live/apple-touch-icon.png" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Slow Focus
 https://stream-mixtape-geo.ntslive.net/mixtape
 #EXTINF:-1 tvg-id="ntslowkey.fr" tvg-name="NTS – Low Key" tvg-logo="https://media.ntslive.co.uk/resize/400x400/b667c612-1ef6-4bfd-ae87-0cec0a19629d_1626307200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Low Key
 https://stream-mixtape-geo.ntslive.net/mixtape2
-#EXTINF:-1 tvg-id="ntsmemorylane.fr" tvg-name="NTS – Memory Lane" tvg-logo="https://www.nts.live/apple-touch-icon.png" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Memory Lane
+#EXTINF:-1 tvg-id="ntsmemorylane.fr" tvg-name="NTS – Memory Lane" tvg-logo="https://media.ntslive.co.uk/resize/400x400/f889399d-6277-46e2-9be9-840bbdd25cc5_1560470400.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Memory Lane
 https://stream-mixtape-geo.ntslive.net/mixtape6
-#EXTINF:-1 tvg-id="nts4tothefloor.fr" tvg-name="NTS – 4 To The Floor" tvg-logo="https://media.ntslive.co.uk/resize/400x400/c3bad52d-418b-4bf6-aff5-eea3b9ff1186_1542931200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – 4 To The Floor
+#EXTINF:-1 tvg-id="nts4tothefloor.fr" tvg-name="NTS – 4 To The Floor" tvg-logo="https://www.nts.live/apple-touch-icon.png" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – 4 To The Floor
 https://stream-mixtape-geo.ntslive.net/mixtape5
 #EXTINF:-1 tvg-id="ntsislandtime.fr" tvg-name="NTS – Island Time" tvg-logo="https://media.ntslive.co.uk/resize/400x400/68541b02-903c-4caf-bba2-538d0b9bfedc_1590451200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Island Time
 https://stream-mixtape-geo.ntslive.net/mixtape21
@@ -22,7 +22,7 @@ https://stream-mixtape-geo.ntslive.net/mixtape21
 https://stream-mixtape-geo.ntslive.net/mixtape26
 #EXTINF:-1 tvg-id="ntssheetmusic.fr" tvg-name="NTS – Sheet Music" tvg-logo="https://media.ntslive.co.uk/resize/400x400/fe3dc346-2549-44cc-96c7-c3117056aa74_1668038400.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Sheet Music
 https://stream-mixtape-geo.ntslive.net/mixtape35
-#EXTINF:-1 tvg-id="ntsfeelings.fr" tvg-name="NTS – Feelings" tvg-logo="https://www.nts.live/apple-touch-icon.png" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Feelings
+#EXTINF:-1 tvg-id="ntsfeelings.fr" tvg-name="NTS – Feelings" tvg-logo="https://media.ntslive.co.uk/resize/400x400/53026366-cf7c-4a57-af5c-c894d2375dc6_1626220800.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Feelings
 https://stream-mixtape-geo.ntslive.net/mixtape27
 #EXTINF:-1 tvg-id="ntsexpansions.fr" tvg-name="NTS – Expansions" tvg-logo="https://media.ntslive.co.uk/resize/400x400/acc3ad65-05bd-495d-90cb-f5d81221464b_1542931200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Expansions
 https://stream-mixtape-geo.ntslive.net/mixtape3
@@ -1196,7 +1196,7 @@ https://listen.radioking.com/radio/1906/stream/6029
 http://allzic08.ice.infomaniak.ch/allzic10.mp3
 #EXTINF:-1 tvg-id="nrjurbanhits.fr" tvg-name="NRJ Urban Hits" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjurbanhits.jpeg" tvg-country="FR" group-title="🎤 Rap & R&B",NRJ Urban Hits
 https://streaming.nrjaudio.fm/ouhse4apu6pb
-#EXTINF:-1 tvg-id="adprodradio.fr" tvg-name="A.D Prod Radio" tvg-logo="https://astromaria.fr/Adprod/favicon-192.png" tvg-country="FR" group-title="🎤 Rap & R&B",A.D Prod Radio
+#EXTINF:-1 tvg-id="adprodradio.fr" tvg-name="A.D Prod Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://astromaria.fr&size=256" tvg-country="FR" group-title="🎤 Rap & R&B",A.D Prod Radio
 https://astromaria.fr/webradio_stream/live
 #EXTINF:-1 tvg-id="generationsbooba.fr" tvg-name="Generations Booba" tvg-logo="https://station-images-prod.radio-assets.com/300/generationsbooba.png" tvg-country="FR" group-title="🎤 Rap & R&B",Generations Booba
 http://generations-booba.ice.infomaniak.ch/generations-booba.aac
@@ -1282,7 +1282,7 @@ https://streaming.hotmixradio.com/hotmix-japan-en-mp3?provider=radiobrowser
 http://radiofg.impek.com/fgc.mp3
 #EXTINF:-1 tvg-id="espacedance90.fr" tvg-name="Espace Dance 90" tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" tvg-country="FR" group-title="🎧 Électro & Dance",Espace Dance 90
 http://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
-#EXTINF:-1 tvg-id="kickdrum.fr" tvg-name="KickDrum" tvg-logo="https://kickdrum.internal-server.work/site/favicon.svg?v=1794071058" tvg-country="FR" group-title="🎧 Électro & Dance",KickDrum
+#EXTINF:-1 tvg-id="kickdrum.fr" tvg-name="KickDrum" tvg-logo="https://ui-avatars.com/api/?name=KickDrum&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",KickDrum
 https://kickdrum.internal-server.work/radio.mp3
 #EXTINF:-1 tvg-id="frequence3sunsetlounge.fr" tvg-name="Fréquence 3+ Sunset Lounge" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3plussunsetlounge.png" tvg-country="FR" group-title="🎧 Électro & Dance",Fréquence 3+ Sunset Lounge
 https://hls.net-radio.fr/Frequence3Plus-16/Frequence3Plus-16.m3u8
@@ -2174,7 +2174,7 @@ https://radio.independancebouiboui.fr/listen/radio_boui_boui/radio.mp3?refresh=1
 https://streaming.nrjaudio.fm/ou8vs6gk7oiu
 #EXTINF:-1 tvg-id="topitalia2.fr" tvg-name="TOP ITALIA 2" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://topitalia.fr&size=256" tvg-country="FR" group-title="🌍 Musiques du monde",TOP ITALIA 2
 https://manager11.streamradio.fr:1795/stream
-#EXTINF:-1 tvg-id="arvorigfm.fr" tvg-name="Arvorig FM" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://arvorigfm.bzh&size=256" tvg-country="FR" group-title="🌍 Musiques du monde",Arvorig FM
+#EXTINF:-1 tvg-id="arvorigfm.fr" tvg-name="Arvorig FM" tvg-logo="https://arvorigfm.bzh/wp-content/uploads/2021/06/favicon.png" tvg-country="FR" group-title="🌍 Musiques du monde",Arvorig FM
 https://stream.radios.bzh/listen/arvorig/radio.mp3
 #EXTINF:-1 tvg-id="digital2radio.fr" tvg-name="DIGITAL2RADIO" tvg-logo="https://www.digital2radio.com/assets/digital2-logo-carre.png" tvg-country="FR" group-title="🌍 Musiques du monde",DIGITAL2RADIO
 https://ecmanager4.pro-fhi.net:2315/stream
@@ -2526,7 +2526,7 @@ https://streaming.nrjaudio.fm/oua8s6w2dqao
 https://streaming.nrjaudio.fm/oun3vzqn5eyc
 #EXTINF:-1 tvg-id="nostalgiepourserafraichir.fr" tvg-name="Nostalgie Pour Se Rafraichir" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiepourserafraichir.jpeg" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie Pour Se Rafraichir
 https://streaming.nrjaudio.fm/ouwrktsk6j4d
-#EXTINF:-1 tvg-id="awfullyawesome80s.fr" tvg-name="Awfully Awesome 80s" tvg-logo="https://www.awfullyawesomeeighties.com/favicon.ico" tvg-country="FR" group-title="🕺 Années 60-90",Awfully Awesome 80s
+#EXTINF:-1 tvg-id="awfullyawesome80s.fr" tvg-name="Awfully Awesome 80s" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://awfullyawesomeeighties.com&size=256" tvg-country="FR" group-title="🕺 Années 60-90",Awfully Awesome 80s
 http://psn3.prostreaming.net:8163/;
 #EXTINF:-1 tvg-id="nostalgiemetz.fr" tvg-name="Nostalgie Metz" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgiemetz.png" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie Metz
 https://streaming.nrjaudio.fm/ou3ij5uizv6i
@@ -4784,7 +4784,7 @@ http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
 https://server.radioparadis.live:8000/radio.mp3
 #EXTINF:-1 tvg-id="jujufreetkt6tem.fr" tvg-name="jujufree tkt6tem!" tvg-logo="http://jujufree.fr/wp-content/uploads/2021/03/XnHb.gif" tvg-country="FR" group-title="🎲 Autres",jujufree tkt6tem!
 http://jujufree.fr:8000/juju-128K.mp3
-#EXTINF:-1 tvg-id="crazyradio.fr" tvg-name="Crazy Radio" tvg-logo="https://www.crazyradio.fr/wp-content/uploads/2020/10/Suivez-Sportissimeaux-01-300x122.png" tvg-country="FR" group-title="🎲 Autres",Crazy Radio
+#EXTINF:-1 tvg-id="crazyradio.fr" tvg-name="Crazy Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.crazyradio.fr&size=256" tvg-country="FR" group-title="🎲 Autres",Crazy Radio
 https://radio10.pro-fhi.net/flux-bphdrtog/stream?1722411025208
 #EXTINF:-1 tvg-id="radiocouleurchartreuse.fr" tvg-name="Radio Couleur Chartreuse" tvg-logo="https://i0.wp.com/www.radiocc.fr/wp-content/uploads/2024/05/cropped-Logo_RCC_Vert_3_Frequences.png?resize=270%2C270&ssl=1" tvg-country="FR" group-title="🎲 Autres",Radio Couleur Chartreuse
 https://vps.cbad.fr:8443/rcc
