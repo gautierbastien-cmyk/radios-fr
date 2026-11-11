@@ -12,7 +12,7 @@ https://stream-mixtape-geo.ntslive.net/mixtape4
 https://stream-mixtape-geo.ntslive.net/mixtape
 #EXTINF:-1 tvg-id="ntslowkey.fr" tvg-name="NTS – Low Key" tvg-logo="https://media.ntslive.co.uk/resize/400x400/b667c612-1ef6-4bfd-ae87-0cec0a19629d_1626307200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Low Key
 https://stream-mixtape-geo.ntslive.net/mixtape2
-#EXTINF:-1 tvg-id="ntsmemorylane.fr" tvg-name="NTS – Memory Lane" tvg-logo="https://media.ntslive.co.uk/resize/400x400/f889399d-6277-46e2-9be9-840bbdd25cc5_1560470400.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Memory Lane
+#EXTINF:-1 tvg-id="ntsmemorylane.fr" tvg-name="NTS – Memory Lane" tvg-logo="https://www.nts.live/apple-touch-icon.png" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Memory Lane
 https://stream-mixtape-geo.ntslive.net/mixtape6
 #EXTINF:-1 tvg-id="nts4tothefloor.fr" tvg-name="NTS – 4 To The Floor" tvg-logo="https://media.ntslive.co.uk/resize/400x400/c3bad52d-418b-4bf6-aff5-eea3b9ff1186_1542931200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – 4 To The Floor
 https://stream-mixtape-geo.ntslive.net/mixtape5
@@ -22,7 +22,7 @@ https://stream-mixtape-geo.ntslive.net/mixtape21
 https://stream-mixtape-geo.ntslive.net/mixtape26
 #EXTINF:-1 tvg-id="ntssheetmusic.fr" tvg-name="NTS – Sheet Music" tvg-logo="https://media.ntslive.co.uk/resize/400x400/fe3dc346-2549-44cc-96c7-c3117056aa74_1668038400.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Sheet Music
 https://stream-mixtape-geo.ntslive.net/mixtape35
-#EXTINF:-1 tvg-id="ntsfeelings.fr" tvg-name="NTS – Feelings" tvg-logo="https://media.ntslive.co.uk/resize/400x400/53026366-cf7c-4a57-af5c-c894d2375dc6_1626220800.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Feelings
+#EXTINF:-1 tvg-id="ntsfeelings.fr" tvg-name="NTS – Feelings" tvg-logo="https://www.nts.live/apple-touch-icon.png" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Feelings
 https://stream-mixtape-geo.ntslive.net/mixtape27
 #EXTINF:-1 tvg-id="ntsexpansions.fr" tvg-name="NTS – Expansions" tvg-logo="https://media.ntslive.co.uk/resize/400x400/acc3ad65-05bd-495d-90cb-f5d81221464b_1542931200.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Expansions
 https://stream-mixtape-geo.ntslive.net/mixtape3
@@ -30,7 +30,7 @@ https://stream-mixtape-geo.ntslive.net/mixtape3
 https://stream-mixtape-geo.ntslive.net/mixtape22
 #EXTINF:-1 tvg-id="ntslabyrinth.fr" tvg-name="NTS – Labyrinth" tvg-logo="https://media.ntslive.co.uk/resize/400x400/4ce92a36-4942-4f35-9cc4-1d3e6c2be746_1638230400.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Labyrinth
 https://stream-mixtape-geo.ntslive.net/mixtape31
-#EXTINF:-1 tvg-id="ntssweat.fr" tvg-name="NTS – Sweat" tvg-logo="https://media.ntslive.co.uk/resize/400x400/f0c77a19-670b-4979-ac6e-e93f6089b5bc_1622592000.png" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Sweat
+#EXTINF:-1 tvg-id="ntssweat.fr" tvg-name="NTS – Sweat" tvg-logo="https://www.nts.live/apple-touch-icon.png" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Sweat
 https://stream-mixtape-geo.ntslive.net/mixtape24
 #EXTINF:-1 tvg-id="ntsotaku.fr" tvg-name="NTS – Otaku" tvg-logo="https://media.ntslive.co.uk/resize/400x400/0c693fdb-544c-4b85-9679-3268afa3a273_1668038400.jpeg" tvg-country="GB" radio="true" group-title="🌐 NTS",NTS – Otaku
 https://stream-mixtape-geo.ntslive.net/mixtape36
@@ -72,7 +72,7 @@ https://radio.intergalactic.fm/1
 https://radioraheem.out.airtime.pro/radioraheem_a
 #EXTINF:-1 tvg-id="dublab.fr" tvg-name="dublab" tvg-logo="https://station-images-prod.radio-assets.com/300/dublab.png" tvg-country="US" radio="true" group-title="📡 Radios indé",dublab
 https://dublab.out.airtime.pro/dublab_a
-#EXTINF:-1 tvg-id="kexp.fr" tvg-name="KEXP" tvg-logo="https://ui-avatars.com/api/?name=KEXP&size=256&background=random&bold=true" tvg-country="US" radio="true" group-title="📡 Radios indé",KEXP
+#EXTINF:-1 tvg-id="kexp.fr" tvg-name="KEXP" tvg-logo="http://www.kexp.org/static/assets/img/favicon-32x32.png" tvg-country="US" radio="true" group-title="📡 Radios indé",KEXP
 https://kexp.streamguys1.com/kexp160.aac
 #EXTINF:-1 tvg-id="orokoradio.fr" tvg-name="Oroko Radio" tvg-logo="https://oroko.live/favicon.ico" tvg-country="GH" radio="true" group-title="📡 Radios indé",Oroko Radio
 https://oroko-radio.radiocult.fm/stream
@@ -102,10 +102,10 @@ https://audio.bfmtv.com/bfmradio_128.mp3
 https://icecast.funradio.fr/rtl-1-44-64
 #EXTINF:-1 tvg-id="franceintericecast.fr" tvg-name="France inter icecast" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radiofrance.fr&size=256" tvg-country="FR" group-title="📰 Info & Talk",France inter icecast
 https://icecast.radiofrance.fr/franceinter-hifi.aac?id=radiofrance
-#EXTINF:-1 tvg-id="slowenglishfm.fr" tvg-name="Slow English FM" tvg-logo="https://slowenglish.fm/brand/slow-english-fm-favicon.png" tvg-country="FR" group-title="📰 Info & Talk",Slow English FM
-https://slowenglish.fm/live.mp3
 #EXTINF:-1 tvg-id="radiocontact.fr" tvg-name="Radio Contact" tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/contactfm/images/logo_dBRvfZGGAL.png" tvg-country="FR" group-title="📰 Info & Talk",Radio Contact
 https://n22a-eu.rcs.revma.com/6gygqc1gy7uvv
+#EXTINF:-1 tvg-id="slowenglishfm.fr" tvg-name="Slow English FM" tvg-logo="https://slowenglish.fm/brand/slow-english-fm-favicon.png" tvg-country="FR" group-title="📰 Info & Talk",Slow English FM
+https://slowenglish.fm/live.mp3
 #EXTINF:-1 tvg-id="rfianglaisenglish.fr" tvg-name="RFI Anglais - English" tvg-logo="http://en.rfi.fr/android-chrome-192x192.png" tvg-country="FR" group-title="📰 Info & Talk",RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
 #EXTINF:-1 tvg-id="rcimartinique.fr" tvg-name="RCI Martinique" tvg-logo="https://rci.fm/sites/default/files/webradio/radiomartinique.png" tvg-country="FR" group-title="📰 Info & Talk",RCI Martinique
@@ -130,30 +130,32 @@ https://fqboy.com/labo/weather/rss/audio/meteo.mp3
 https://s34.myradiostream.com/12340/listen.mp3
 #EXTINF:-1 tvg-id="worldradioparis.fr" tvg-name="World Radio Paris" tvg-logo="https://www.worldradioparis.org/wp-content/uploads/2026/09/cropped-1023x1023-1-192x192.jpg" tvg-country="FR" group-title="📰 Info & Talk",World Radio Paris
 https://wrp.stream.dicast.fr/wrp-128.mp3
-#EXTINF:-1 tvg-id="rfi.fr" tvg-name="Международное Французское Радио RFI" tvg-logo="https://cdn-profiles.tunein.com/s102560/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",Международное Французское Радио RFI
-http://rfirusse96k.ice.infomaniak.ch/rfirusse-96k.mp3
 #EXTINF:-1 tvg-id="radioaviva.fr" tvg-name="Radio Aviva" tvg-logo="https://cdn-profiles.tunein.com/s50785/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",Radio Aviva
 https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3
 #EXTINF:-1 tvg-id="radiocourtoisie.fr" tvg-name="Radio Courtoisie" tvg-logo="https://station-images-prod.radio-assets.com/300/radiocourtoisie.png" tvg-country="FR" group-title="📰 Info & Talk",Radio Courtoisie
 http://ice.creacast.com/radio-courtoisie
-#EXTINF:-1 tvg-id="france24arabic.fr" tvg-name="France24 arabic" tvg-logo="https://ui-avatars.com/api/?name=France24+arabic&size=256&background=random&bold=true" tvg-country="FR" group-title="📰 Info & Talk",France24 arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="rfi.fr" tvg-name="Международное Французское Радио RFI" tvg-logo="https://cdn-profiles.tunein.com/s102560/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",Международное Французское Радио RFI
+http://rfirusse96k.ice.infomaniak.ch/rfirusse-96k.mp3
 #EXTINF:-1 tvg-id="radioicimaintenant.fr" tvg-name="Radio Ici & Maintenant" tvg-logo="https://cdn-radiotime-logos.tunein.com/s44258g.png" tvg-country="FR" group-title="📰 Info & Talk",Radio Ici & Maintenant
 https://s64.radiolize.com/radio/8090/radio.mp3
 #EXTINF:-1 tvg-id="autorouteinfo1077zonesud.fr" tvg-name="Autoroute Info 107.7 Zone Sud" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.autorouteinfo.fr&size=256" tvg-country="FR" group-title="📰 Info & Talk",Autoroute Info 107.7 Zone Sud
 http://media.autorouteinfo.fr:8000/direct_sud.mp3
 #EXTINF:-1 tvg-id="lesdebatsdegerarddesuresnes.fr" tvg-name="Les Débats de Gérard de Suresnes" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radiosurle.net&size=256" tvg-country="FR" group-title="📰 Info & Talk",Les Débats de Gérard de Suresnes
 http://radiosurle.net:8765/radiogerard
+#EXTINF:-1 tvg-id="fppfrequenceparispluriellerfpp.fr" tvg-name="FPP Fréquence Paris Plurielle rfpp" tvg-logo="https://rfpp.net/favicon.ico" tvg-country="FR" group-title="📰 Info & Talk",FPP Fréquence Paris Plurielle rfpp
+https://direct.rfpp.net/fpp.mp3
 #EXTINF:-1 tvg-id="publichealthradioarabic.fr" tvg-name="Public Health Radio Arabic" tvg-logo="https://cdn-profiles.tunein.com/s354403/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",Public Health Radio Arabic
 https://publichealthradioar.ice.infomaniak.ch/publichealthradioar-128.mp3
+#EXTINF:-1 tvg-id="france24arabic.fr" tvg-name="France24 arabic" tvg-logo="https://ui-avatars.com/api/?name=France24+arabic&size=256&background=random&bold=true" tvg-country="FR" group-title="📰 Info & Talk",France24 arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="rmcgold.fr" tvg-name="RMC GOLD" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rmc.bfmtv.com&size=256" tvg-country="FR" group-title="📰 Info & Talk",RMC GOLD
 https://hls-rmcgold.nextradiotv.com/ssai/192k/media.m3u8
 #EXTINF:-1 tvg-id="sunyfunradio.fr" tvg-name="Sunyfun radio" tvg-logo="https://station-images-prod.radio-assets.com/300/sunyfun.png" tvg-country="FR" group-title="📰 Info & Talk",Sunyfun radio
 http://serveur2.wanastream.com:25000/stream?fbclid=IwY2xjawJWfg1leHRuA2FlbQIxMQABHWEZvrZJFc1lgz4SjVi4poZjq89TsGf7uJFRptsil3KsX1QaigFkZZSgDw_aem_tI4D7Q3E5WUK9VJ4ja5R7w
+#EXTINF:-1 tvg-id="rtl100hits.fr" tvg-name="RTL 100% Hits" tvg-logo="https://images.rtl.fr/~c/300v300/rtl/www/1197826-webradio-1400x1400.jpg" tvg-country="FR" group-title="📰 Info & Talk",RTL 100% Hits
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/201/audio-64000/index.m3u8
 #EXTINF:-1 tvg-id="iamusicnewsarabic.fr" tvg-name="IA Music & News - Arabic" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://iaradio.eu&size=256" tvg-country="FR" group-title="📰 Info & Talk",IA Music & News - Arabic
 https://ianewsar.ice.infomaniak.ch/ianewsar-128.mp3
-#EXTINF:-1 tvg-id="fppfrequenceparispluriellerfpp.fr" tvg-name="FPP Fréquence Paris Plurielle rfpp" tvg-logo="https://rfpp.net/favicon.ico" tvg-country="FR" group-title="📰 Info & Talk",FPP Fréquence Paris Plurielle rfpp
-https://direct.rfpp.net/fpp.mp3
 #EXTINF:-1 tvg-id="hotmixsportworkout.fr" tvg-name="Hotmix Sport Workout" tvg-logo="https://cdn.hotmixradio.com/hotmix-sport_plus-en-mp3.jpg" tvg-country="FR" group-title="📰 Info & Talk",Hotmix Sport Workout
 https://streaming.hotmixradio.com/hotmix-sport-plus-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="tokenfm.fr" tvg-name="Token FM" tvg-logo="https://tokenfm.fr/static/brand/icon-512.png" tvg-country="FR" group-title="📰 Info & Talk",Token FM
@@ -172,8 +174,6 @@ https://diffusion.lafrap.fr/sun-cine-series.mp3
 https://rfimandingue64k.ice.infomaniak.ch/rfimandingue-64k.mp3
 #EXTINF:-1 tvg-id="rfitiengviet.fr" tvg-name="RFI Tieng Viet" tvg-logo="https://cdn-profiles.tunein.com/s209673/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",RFI Tieng Viet
 http://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3
-#EXTINF:-1 tvg-id="rtl100hits.fr" tvg-name="RTL 100% Hits" tvg-logo="https://images.rtl.fr/~c/300v300/rtl/www/1197826-webradio-1400x1400.jpg" tvg-country="FR" group-title="📰 Info & Talk",RTL 100% Hits
-https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/201/audio-64000/index.m3u8
 #EXTINF:-1 tvg-id="iamusicnewsenglish.fr" tvg-name="IA Music & News - English" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://iaradio.eu&size=256" tvg-country="FR" group-title="📰 Info & Talk",IA Music & News - English
 https://ianewsen.ice.infomaniak.ch/ianewsen-128.mp3
 #EXTINF:-1 tvg-id="starsystemfmmax.fr" tvg-name="Starsystem FM (MAX)" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://radiosurle.net&size=256" tvg-country="FR" group-title="📰 Info & Talk",Starsystem FM (MAX)
@@ -188,14 +188,14 @@ http://str0.creacast.com/radio_vinci_autoroutes_1
 https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
 #EXTINF:-1 tvg-id="radiovinciautoroutes1077auvergnevalleedurhone.fr" tvg-name="Radio VINCI Autoroutes 107.7 Auvergne Vallée du Rhône" tvg-logo="https://radio.vinci-autoroutes.com/apple-touch-icon.png" tvg-country="FR" group-title="📰 Info & Talk",Radio VINCI Autoroutes 107.7 Auvergne Vallée du Rhône
 http://str0.creacast.com/radio_vinci_autoroutes_5
+#EXTINF:-1 tvg-id="europe1musiqueclassique.fr" tvg-name="Europe 1 Musique Classique" tvg-logo="https://cdn-profiles.tunein.com/s310319/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",Europe 1 Musique Classique
+https://wr.lmn.fm/e1-wr3.aac?aw_0_1st.playerid=lgrdnwsRadioplayer
 #EXTINF:-1 tvg-id="radiovinciautoroutes1077sudouest.fr" tvg-name="Radio VINCI Autoroutes 107.7 Sud Ouest" tvg-logo="https://radio.vinci-autoroutes.com/apple-touch-icon.png" tvg-country="FR" group-title="📰 Info & Talk",Radio VINCI Autoroutes 107.7 Sud Ouest
 http://str0.creacast.com/radio_vinci_autoroutes_3
 #EXTINF:-1 tvg-id="rfirusse.fr" tvg-name="RFI Russe" tvg-logo="http://ru.rfi.fr/android-chrome-192x192.png" tvg-country="FR" group-title="📰 Info & Talk",RFI Russe
 http://live02.rfi.fr/rfienrusse-64.mp3
 #EXTINF:-1 tvg-id="publichealthradiorussian.fr" tvg-name="Public Health Radio Russian" tvg-logo="https://cdn-profiles.tunein.com/s354400/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",Public Health Radio Russian
 https://publichealthradioru.ice.infomaniak.ch/publichealthradioru-128.mp3
-#EXTINF:-1 tvg-id="radiobartas.fr" tvg-name="Radio Bartas" tvg-logo="https://www.radiobartas.net/wp-content/uploads/2019/08/logo-RADIO-BARTAS-final.jpg" tvg-country="FR" group-title="📰 Info & Talk",Radio Bartas
-https://stream-ssl.radios-arra.fr:8443/radiobartas
 #EXTINF:-1 tvg-id="franceculture22.fr" tvg-name="France culture 2" tvg-logo="https://station-images-prod.radio-assets.com/300/franceculture.png" tvg-country="FR" group-title="📰 Info & Talk",France culture 2
 https://icecast.radiofrance.fr/franceculture-hifi.aac
 #EXTINF:-1 tvg-id="c9radio.fr" tvg-name="C9 Radio" tvg-logo="https://station-images-prod.radio-assets.com/300/c9radio.png" tvg-country="FR" group-title="📰 Info & Talk",C9 Radio
@@ -248,8 +248,6 @@ http://flux1.radiobip.fr:8000/live
 http://wrp.stream.dicast.fr:8000/wrp-128.mp3
 #EXTINF:-1 tvg-id="france24francais.fr" tvg-name="France24 Français" tvg-logo="https://www.france24.com/favicon-194x194.png" tvg-country="FR" group-title="📰 Info & Talk",France24 Français
 http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8
-#EXTINF:-1 tvg-id="europe1musiqueclassique.fr" tvg-name="Europe 1 Musique Classique" tvg-logo="https://cdn-profiles.tunein.com/s310319/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",Europe 1 Musique Classique
-https://wr.lmn.fm/e1-wr3.aac?aw_0_1st.playerid=lgrdnwsRadioplayer
 #EXTINF:-1 tvg-id="radiocactus.fr" tvg-name="radio cactus" tvg-logo="https://cdn-profiles.tunein.com/s9898/images/logog.jpg" tvg-country="FR" group-title="📰 Info & Talk",radio cactus
 http://51.68.228.156:8000/cactus
 #EXTINF:-1 tvg-id="nrjbeachrunning.fr" tvg-name="NRJ Beach Running" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjbeachrunning.jpeg" tvg-country="FR" group-title="📰 Info & Talk",NRJ Beach Running
@@ -260,6 +258,10 @@ https://replaynewssport.ice.infomaniak.ch/replaynewssport-128.mp3
 https://rfienportugais64k.ice.infomaniak.ch/rfienportugais-64.mp3
 #EXTINF:-1 tvg-id="lyondemain.fr" tvg-name="Lyon Demain" tvg-logo="https://i1.wp.com/www.lyondemain.fr/wp-content/uploads/2018/09/cropped-logo-1-1.png?fit=300%2C100" tvg-country="FR" group-title="📰 Info & Talk",Lyon Demain
 https://listen.radioking.com/radio/93388/stream/131857
+#EXTINF:-1 tvg-id="radiumfmparis.fr" tvg-name="RadiumFM Paris" tvg-logo="https://radiumfm.com/icon-512.png" tvg-country="FR" group-title="📰 Info & Talk",RadiumFM Paris
+https://stream.radiumfm.com/paris
+#EXTINF:-1 tvg-id="radiobartas.fr" tvg-name="Radio Bartas" tvg-logo="https://www.radiobartas.net/wp-content/uploads/2019/08/logo-RADIO-BARTAS-final.jpg" tvg-country="FR" group-title="📰 Info & Talk",Radio Bartas
+https://stream-ssl.radios-arra.fr:8443/radiobartas
 #EXTINF:-1 tvg-id="defendintelligence.fr" tvg-name="Defend Intelligence" tvg-logo="https://images.podigee-cdn.net/0x,sZQKlPR_bRqBsuE5PhynUutRK3g7VbDNeeNRgdkckGnk=/https://main.podigee-cdn.net/uploads/u89238/d68854b1-e04f-402a-99fb-5212ea3721b5.jpg" tvg-country="FR" group-title="📰 Info & Talk",Defend Intelligence
 https://anisayari.com/api/public/defend/audio/radio/live.mp3
 #EXTINF:-1 tvg-id="waxslavoixdeleau.fr" tvg-name="WAXS la voix de l'eau" tvg-logo="https://station-images-prod.radio-assets.com/300/waxsfr.png" tvg-country="FR" group-title="📰 Info & Talk",WAXS la voix de l'eau
@@ -288,8 +290,6 @@ https://radio.universalhealthradio.org/uhr-fr.mp3
 https://stream.radiobroussaille.fr:8443/broussaille-lofi
 #EXTINF:-1 tvg-id="echofm.fr" tvg-name="Echo FM" tvg-logo="https://station-images-prod.radio-assets.com/300/echofmfr.png" tvg-country="FR" group-title="📰 Info & Talk",Echo FM
 https://radio5.pro-fhi.net/flux-ghergigw/stream
-#EXTINF:-1 tvg-id="africaradioparis.fr" tvg-name="Africa Radio Paris" tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/africaradio/images/logo_RvDT2jBisJ.png" tvg-country="FR" group-title="📰 Info & Talk",Africa Radio Paris
-https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 #EXTINF:-1 tvg-id="montoutpetitfranceinter.fr" tvg-name="Mon tout petit France Inter" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radiofrance.fr&size=256" tvg-country="FR" group-title="📰 Info & Talk",Mon tout petit France Inter
 https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8?id=radiofrance
 #EXTINF:-1 tvg-id="europe1musique.fr" tvg-name="Europe 1 Musique" tvg-logo="https://cdn-profiles.tunein.com/s310317/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",Europe 1 Musique
@@ -336,8 +336,6 @@ http://109.238.10.2:8000/grafhit.mp3
 http://sanef.ice.infomaniak.ch/sanef1077-idf.mp3
 #EXTINF:-1 tvg-id="radioalfa986fm.fr" tvg-name="Radio Alfa 98.6 FM" tvg-logo="https://station-images-prod.radio-assets.com/300/alfa.jpeg" tvg-country="FR" group-title="📰 Info & Talk",Radio Alfa 98.6 FM
 https://n16a-eu.rcs.revma.com/amrbkhqtkm0uv
-#EXTINF:-1 tvg-id="radiumfmparis.fr" tvg-name="RadiumFM Paris" tvg-logo="https://radiumfm.com/icon-512.png" tvg-country="FR" group-title="📰 Info & Talk",RadiumFM Paris
-https://stream.radiumfm.com/paris
 #EXTINF:-1 tvg-id="uliaradio.fr" tvg-name="Ulia.radio" tvg-logo="https://ulia.radio/storage/identite/logo_1789401939.svg" tvg-country="FR" group-title="📰 Info & Talk",Ulia.radio
 https://audio.opensky.radio:8082/stream96
 #EXTINF:-1 tvg-id="raje.fr" tvg-name="RAJE" tvg-logo="https://cdn-profiles.tunein.com/s48265/images/logog.png" tvg-country="FR" group-title="📰 Info & Talk",RAJE
@@ -378,6 +376,8 @@ https://stream.rigfm.fr/listen/rigfm/rigfm-320
 http://lorfm.ice.infomaniak.ch/lorfm-128.mp3
 #EXTINF:-1 tvg-id="galaxiecorse.fr" tvg-name="Galaxie Corse" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60wSckRzBZ3QIJuVKR_fwNIDV11UmyCFbr9kAzO8Dmw&s" tvg-country="FR" group-title="📰 Info & Talk",Galaxie Corse
 https://ecmanager4.pro-fhi.net:2680/stream
+#EXTINF:-1 tvg-id="africaradioparis.fr" tvg-name="Africa Radio Paris" tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/africaradio/images/logo_RvDT2jBisJ.png" tvg-country="FR" group-title="📰 Info & Talk",Africa Radio Paris
+https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 #EXTINF:-1 tvg-id="horizonlaradiolibre1009fm.fr" tvg-name="Horizon la radio libre 100.9fm" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.horizon-fm.fr&size=256" tvg-country="FR" group-title="📰 Info & Talk",Horizon la radio libre 100.9fm
 https://horizonlaradiolibre.ice.infomaniak.ch/horizonlaradiolibre-128.mp3
 #EXTINF:-1 tvg-id="radioclapasculturecitoyennete935montpellier.fr" tvg-name="Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier" tvg-logo="https://www.radioclapas.fr/wp-content/uploads/2016/03/logo-clapas-demi.png" tvg-country="FR" group-title="📰 Info & Talk",Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier
@@ -434,42 +434,42 @@ http://icecast.radiofrance.fr/fipworld-hifi.aac
 http://direct.fipradio.fr/live/fipworld-hifi.aac
 #EXTINF:-1 tvg-id="fiphiphop2.fr" tvg-name="FIP Hip Hop" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/fip-hip-hop.png" tvg-country="FR" group-title="🎶 Éclectique",FIP Hip Hop
 http://icecast.radiofrance.fr/fiphiphop-hifi.aac
-#EXTINF:-1 tvg-id="lebonmixhififlac1411kbps.fr" tvg-name="Le Bon Mix HiFi Flac 1411 Kbps" tvg-logo="https://static.wixstatic.com/media/8f2aad_93ae56d1764947358ca5524a248f789e~mv2.png" tvg-country="FR" group-title="🎶 Éclectique",Le Bon Mix HiFi Flac 1411 Kbps
-https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
-#EXTINF:-1 tvg-id="radionova.fr" tvg-name="Radio Nova" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/radio-nova.png" tvg-country="FR" group-title="🎶 Éclectique",Radio Nova France
-https://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTINF:-1 tvg-id="fipgroove2.fr" tvg-name="FIP Groove" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/fip-groove.png" tvg-country="FR" group-title="🎶 Éclectique",FIP Groove
 http://icecast.radiofrance.fr/fipgroove-hifi.aac
+#EXTINF:-1 tvg-id="radionova.fr" tvg-name="Radio Nova" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/radio-nova.png" tvg-country="FR" group-title="🎶 Éclectique",Radio Nova France
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1 tvg-id="lebonmixhififlac1411kbps.fr" tvg-name="Le Bon Mix HiFi Flac 1411 Kbps" tvg-logo="https://static.wixstatic.com/media/8f2aad_93ae56d1764947358ca5524a248f789e~mv2.png" tvg-country="FR" group-title="🎶 Éclectique",Le Bon Mix HiFi Flac 1411 Kbps
+https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
 #EXTINF:-1 tvg-id="fippop2.fr" tvg-name="FIP Pop" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/fip-pop.png" tvg-country="FR" group-title="🎶 Éclectique",FIP Pop
 https://icecast.radiofrance.fr/fippop-hifi.aac
-#EXTINF:-1 tvg-id="fipautourdelelectro.fr" tvg-name="FIP autour de l’électro" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.fipradio.fr&size=256" tvg-country="FR" group-title="🎶 Éclectique",FIP autour de l’électro
-http://direct.fipradio.fr/live/fip-webradio8.mp3
 #EXTINF:-1 tvg-id="fipsacrefrancais.fr" tvg-name="FIP Sacré Français !" tvg-logo="https://www.radiofrance.fr/pikapi/images/1641a25c-e8c8-49f8-b5e1-cffd8b722231/2048" tvg-country="FR" group-title="🎶 Éclectique",FIP Sacré Français !
 https://stream.radiofrance.fr/fipsacrefrancais/fipsacrefrancais.m3u8?id=radiofrance
-#EXTINF:-1 tvg-id="campradio.fr" tvg-name="CAMP Radio" tvg-logo="https://favicon.im/listen.camp" tvg-country="FR" group-title="🎶 Éclectique",CAMP Radio
-https://listen.camp/campradio.ogg
+#EXTINF:-1 tvg-id="fipautourdelelectro.fr" tvg-name="FIP autour de l’électro" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.fipradio.fr&size=256" tvg-country="FR" group-title="🎶 Éclectique",FIP autour de l’électro
+http://direct.fipradio.fr/live/fip-webradio8.mp3
 #EXTINF:-1 tvg-id="radiofgunderground.fr" tvg-name="Radio FG Underground" tvg-logo="https://www.lawebradio.com/news/wp-content/uploads/2017/10/ima2-fgradio-undrgrnd-102017.jpg" tvg-country="FR" group-title="🎶 Éclectique",Radio FG Underground
 https://radiofg.impek.com/ufg.mp3
+#EXTINF:-1 tvg-id="campradio.fr" tvg-name="CAMP Radio" tvg-logo="https://favicon.im/listen.camp" tvg-country="FR" group-title="🎶 Éclectique",CAMP Radio
+https://listen.camp/campradio.ogg
 #EXTINF:-1 tvg-id="fiptoutnouveautoutfip.fr" tvg-name="FIP tout nouveau, tout FIP" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.fipradio.fr&size=256" tvg-country="FR" group-title="🎶 Éclectique",FIP tout nouveau, tout FIP
 http://direct.fipradio.fr/live/fip-webradio5.mp3
 #EXTINF:-1 tvg-id="softradio.fr" tvg-name="Soft Radio" tvg-logo="https://static.wixstatic.com/media/8f2aad_aa6143964e8d4a1f80be28d048517260~mv2.png" tvg-country="FR" group-title="🎶 Éclectique",Soft Radio
 https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio
-#EXTINF:-1 tvg-id="novareggae.fr" tvg-name="Nova Reggae" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nova.fr&size=256" tvg-country="FR" group-title="🎶 Éclectique",Nova Reggae
+#EXTINF:-1 tvg-id="novareggae.fr" tvg-name="Nova Reggae" tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-reggea-400x496-1-t-1006x1006.png" tvg-country="FR" group-title="🎶 Éclectique",Nova Reggae
 https://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac
 #EXTINF:-1 tvg-id="isekoiradio.fr" tvg-name="ISEKOI Radio" tvg-logo="https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png" tvg-country="FR" group-title="🎶 Éclectique",ISEKOI Radio
 https://public.isekoi-radio.com/listen/isekoi/radio.mp3
-#EXTINF:-1 tvg-id="radiolarzac.fr" tvg-name="Radio Larzac" tvg-logo="https://www.radiolarzac.org/wp-content/uploads/2019/01/Petit-logo-couleurs-sans-fond.png" tvg-country="FR" group-title="🎶 Éclectique",Radio Larzac
-https://stream.radiolarzac.org/hls/master.m3u8
 #EXTINF:-1 tvg-id="fiptoutnouveau.fr" tvg-name="FIP Tout nouveau" tvg-logo="https://www.radiofrance.fr/pikapi/images/9f85ac9d-1151-429a-9645-d030e92b441f/2048" tvg-country="FR" group-title="🎶 Éclectique",FIP Tout nouveau
 https://stream.radiofrance.fr/fipnouveautes/fipnouveautes_hifi.m3u8?id=radiofrance
 #EXTINF:-1 tvg-id="fipautourdureggae.fr" tvg-name="FIP autour du reggae" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.fipradio.fr&size=256" tvg-country="FR" group-title="🎶 Éclectique",FIP autour du reggae
 http://direct.fipradio.fr/live/fip-webradio6.mp3
+#EXTINF:-1 tvg-id="radiolarzac.fr" tvg-name="Radio Larzac" tvg-logo="https://www.radiolarzac.org/wp-content/uploads/2019/01/Petit-logo-couleurs-sans-fond.png" tvg-country="FR" group-title="🎶 Éclectique",Radio Larzac
+https://stream.radiolarzac.org/hls/master.m3u8
+#EXTINF:-1 tvg-id="fipautourdugroove.fr" tvg-name="FIP autour du groove" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.fipradio.fr&size=256" tvg-country="FR" group-title="🎶 Éclectique",FIP autour du groove
+http://direct.fipradio.fr/live/fip-webradio3.mp3
 #EXTINF:-1 tvg-id="sun.fr" tvg-name="SUN" tvg-logo="https://assets.radioplayer.org/250/2501933/600/600/mrp1g8k0.png" tvg-country="FR" group-title="🎶 Éclectique",SUN
 https://diffusion.lafrap.fr/sunhd.mp3
 #EXTINF:-1 tvg-id="lebonmixaac320lc.fr" tvg-name="Le Bon Mix - AAC320LC" tvg-logo="https://static.wixstatic.com/media/8f2aad_2f0459e46d6642cebdb7f500dd35abc3~mv2.png" tvg-country="FR" group-title="🎶 Éclectique",Le Bon Mix - AAC320LC
 https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio
-#EXTINF:-1 tvg-id="fipautourdugroove.fr" tvg-name="FIP autour du groove" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.fipradio.fr&size=256" tvg-country="FR" group-title="🎶 Éclectique",FIP autour du groove
-http://direct.fipradio.fr/live/fip-webradio3.mp3
 #EXTINF:-1 tvg-id="toutnouveautoutfip.fr" tvg-name="Tout Nouveau, Tout Fip" tvg-logo="https://cdn-profiles.tunein.com/s262540/images/logod.png?t=636966439000000000" tvg-country="FR" group-title="🎶 Éclectique",Tout Nouveau, Tout Fip
 http://direct.fipradio.fr/live/fipnouveautes-hifi.aac
 #EXTINF:-1 tvg-id="allzicradiobrazil.fr" tvg-name="Allzic Radio Brazil" tvg-logo="https://cdn-profiles.tunein.com/s235842/images/logog.png" tvg-country="FR" group-title="🎶 Éclectique",Allzic Radio Brazil
@@ -604,6 +604,8 @@ https://streaming.hotmixradio.com/hotmix-piano-bar-en-mp3?provider=radiobrowser
 http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3
 #EXTINF:-1 tvg-id="allzicradioclassicviolon.fr" tvg-name="AllZic Radio Classic Violon" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎻 Classique",AllZic Radio Classic Violon
 http://allzic48.ice.infomaniak.ch/allzic48.mp3
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="Mezzo live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg-Z5Za_88MTaqP5CKCqvFlqvFs_4D0x89qsH-4Y7tDw&s=10" tvg-country="FR" group-title="🎻 Classique",Mezzo live
+http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="jazzradiojazzclassique.fr" tvg-name="JAZZ RADIO - Jazz & Classique" tvg-logo="https://cdn-radiotime-logos.tunein.com/s191621g.png" tvg-country="FR" group-title="🎻 Classique",JAZZ RADIO - Jazz & Classique
 http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
 #EXTINF:-1 tvg-id="lebonmixsoft.fr" tvg-name="Le Bon mix soft" tvg-logo="https://ui-avatars.com/api/?name=Le+Bon+mix+soft&size=256&background=random&bold=true" tvg-country="FR" group-title="🎻 Classique",Le Bon mix soft
@@ -612,8 +614,6 @@ https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
 https://listen.radioboomboom.com/listen/rbb/radio.mp3
 #EXTINF:-1 tvg-id="mradioannees90.fr" tvg-name="M Radio - Années 90" tvg-logo="https://ui-avatars.com/api/?name=M+Radio+-+Ann%C3%A9es+90&size=256&background=random&bold=true" tvg-country="FR" group-title="🎻 Classique",M Radio - Années 90
 http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
-#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="Mezzo live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg-Z5Za_88MTaqP5CKCqvFlqvFs_4D0x89qsH-4Y7tDw&s=10" tvg-country="FR" group-title="🎻 Classique",Mezzo live
-http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="iaradioclassique.fr" tvg-name="IAradio Classique" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://iaradio.eu&size=256" tvg-country="FR" group-title="🎻 Classique",IAradio Classique
 https://iaradioclassique.ice.infomaniak.ch/iaradioclassique-128.mp3
 #EXTINF:-1 tvg-id="allzicclassicpiano.fr" tvg-name="Allzic Classic Piano" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎻 Classique",Allzic Classic Piano
@@ -646,10 +646,10 @@ https://www.radioking.com/play/alternative-radio-1
 http://eu10.fastcast4u.com:8120/
 #EXTINF:-1 tvg-id="generationsfunk.fr" tvg-name="Generations Funk" tvg-logo="https://cdn-radiotime-logos.tunein.com/s50481g.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Generations Funk
 http://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3
-#EXTINF:-1 tvg-id="isekoiradiochillzone.fr" tvg-name="ISEKOI Radio | Chill Zone" tvg-logo="https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",ISEKOI Radio | Chill Zone
-https://public.isekoi-radio.com/listen/chill/radio.mp3
 #EXTINF:-1 tvg-id="jazzradioelectroswing.fr" tvg-name="Jazz Radio Electro Swing" tvg-logo="https://cdn-radiotime-logos.tunein.com/s191605g.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Electro Swing
 http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
+#EXTINF:-1 tvg-id="isekoiradiochillzone.fr" tvg-name="ISEKOI Radio | Chill Zone" tvg-logo="https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",ISEKOI Radio | Chill Zone
+https://public.isekoi-radio.com/listen/chill/radio.mp3
 #EXTINF:-1 tvg-id="jazzradioonlywomen.fr" tvg-name="Jazz Radio Only Women" tvg-logo="https://cdn-radiotime-logos.tunein.com/s235450g.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Only Women
 http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
 #EXTINF:-1 tvg-id="jazzradio2.fr" tvg-name="Jazz Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s16730g.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio
@@ -660,10 +660,10 @@ http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
 https://streaming.nrjaudio.fm/ou4swshtd2ko
 #EXTINF:-1 tvg-id="tsfjazz2.fr" tvg-name="TSF Jazz" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.tsfjazz.com&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
-#EXTINF:-1 tvg-id="jazzradiojazzfusion.fr" tvg-name="Jazz Radio Jazz Fusion" tvg-logo="https://www.allzicradio.com/media/radios/jazzradio-1400x1400_fusion.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Jazz Fusion
-https://jazz-radio-fusion.ice.infomaniak.ch/jazz-radio-fusion.mp3
 #EXTINF:-1 tvg-id="fm80.fr" tvg-name="FM 80" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.fm80.fr&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",FM 80
 https://listen.radioking.com/radio/467555/stream/523739
+#EXTINF:-1 tvg-id="jazzradiojazzfusion.fr" tvg-name="Jazz Radio Jazz Fusion" tvg-logo="https://www.allzicradio.com/media/radios/jazzradio-1400x1400_fusion.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Jazz Fusion
+https://jazz-radio-fusion.ice.infomaniak.ch/jazz-radio-fusion.mp3
 #EXTINF:-1 tvg-id="jazzradiolounge.fr" tvg-name="Jazz Radio Lounge" tvg-logo="https://www.jazzradio.fr/favicon-196.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Lounge
 http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
 #EXTINF:-1 tvg-id="croonerradiolegends.fr" tvg-name="Crooner Radio Legends" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.croonerradio.fr&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Crooner Radio Legends
@@ -672,12 +672,12 @@ http://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3
 http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3
 #EXTINF:-1 tvg-id="classichitsradio.fr" tvg-name="CLASSIC HITS RADIO" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://classichits.radio&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",CLASSIC HITS RADIO
 http://www.play4.fr/play4-club.mp3
+#EXTINF:-1 tvg-id="nostalgieitalodisco.fr" tvg-name="Nostalgie Italo Disco" tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA_WR_ITALO-DISCO.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Nostalgie Italo Disco
+https://streaming.nrjaudio.fm/oumvj78fnozc?origine=fluxradios&aw_0_1st.station=Nostalgie-Italo-Disco
 #EXTINF:-1 tvg-id="allzicradioblues.fr" tvg-name="Allzic Radio Blues" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Allzic Radio Blues
 http://allzic09.ice.infomaniak.ch/allzic09.mp3
 #EXTINF:-1 tvg-id="b4bradiodiscofunk.fr" tvg-name="B4B Radio DISCO FUNK" tvg-logo="https://www.b4bradio.com/images/apple-touch-icon.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",B4B Radio DISCO FUNK
 https://eu10.fastcast4u.com:8120/
-#EXTINF:-1 tvg-id="nostalgieitalodisco.fr" tvg-name="Nostalgie Italo Disco" tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA_WR_ITALO-DISCO.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Nostalgie Italo Disco
-https://streaming.nrjaudio.fm/oumvj78fnozc?origine=fluxradios&aw_0_1st.station=Nostalgie-Italo-Disco
 #EXTINF:-1 tvg-id="jazzradiojazzcinema.fr" tvg-name="Jazz Radio Jazz & Cinema" tvg-logo="https://cdn-radiotime-logos.tunein.com/s235563g.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Jazz & Cinema
 http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
 #EXTINF:-1 tvg-id="jazzradiostaxandmotown.fr" tvg-name="Jazz Radio Stax and Motown" tvg-logo="https://www.jazzradio.fr/favicon-196.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Stax and Motown
@@ -722,6 +722,8 @@ https://chaos-radio.fr/stream/320
 https://bissakouwebradio.com/listen/bissakou_web_radio/radio.mp3
 #EXTINF:-1 tvg-id="fm80funkymusic.fr" tvg-name="FM 80 FUNKY MUSIC" tvg-logo="https://image.radioking.io/radios/467555/logo/c57b5e74-9d39-48d6-9d29-1d346967f1ee.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",FM 80 FUNKY MUSIC
 https://play.radioking.io/fm80funkymusic/523739
+#EXTINF:-1 tvg-id="bluescaferadio.fr" tvg-name="Blues Café Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73528.v11.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Blues Café Radio
+https://manager4.streamradio.fr/bluescaferadio?x=1693763714913
 #EXTINF:-1 tvg-id="generationssoul.fr" tvg-name="Generations Soul" tvg-logo="http://generations.fr/media/radio/thumb/90x90_soul.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Generations Soul
 http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
 #EXTINF:-1 tvg-id="croonerradioclassicgold.fr" tvg-name="Crooner Radio Classic Gold" tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2021/06/LOGO-CROONER-RADIO-WR-CLASSIC-GOLD.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Crooner Radio Classic Gold
@@ -742,8 +744,6 @@ https://listen.radioking.com/radio/530131/stream/588580
 https://listen.radioking.com/radio/314264/stream/361499
 #EXTINF:-1 tvg-id="jazzradiojazzyfrench.fr" tvg-name="Jazz Radio Jazzy French" tvg-logo="https://cdn-radiotime-logos.tunein.com/s191631g.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Jazzy French
 http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
-#EXTINF:-1 tvg-id="bluescaferadio.fr" tvg-name="Blues Café Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73528.v11.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Blues Café Radio
-https://manager4.streamradio.fr/bluescaferadio?x=1693763714913
 #EXTINF:-1 tvg-id="plusfm.fr" tvg-name="plusfm" tvg-logo="https://www.plusfm.net/wordpress/wp-content/uploads/2020/05/icone_1024x1024.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",plusfm
 http://radio7.pro-fhi.net:9004/2
 #EXTINF:-1 tvg-id="jazzfrench.fr" tvg-name="Jazz French" tvg-logo="https://www.jazzradio.fr/favicon-196.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz French
@@ -788,12 +788,16 @@ https://iaradioslowcrooner.ice.infomaniak.ch/iaradioslowcrooner-128.mp3
 http://allzic03.ice.infomaniak.ch/allzic03.mp3
 #EXTINF:-1 tvg-id="blackcorvette.fr" tvg-name="Black Corvette" tvg-logo="http://www.vip-radios.fm/Logos/Black-Corvette-logo.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Black Corvette
 https://radio2.vip-radios.fm:18084/stream-AAC-BlackCorvette
+#EXTINF:-1 tvg-id="jazzradioclassicfr.fr" tvg-name="Jazz Radio Classic FR" tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Classic FR
+http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
 #EXTINF:-1 tvg-id="croonerradiomichaelbuble.fr" tvg-name="Crooner Radio Michael Buble" tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2019/05/LOGO-CROONER-RADIO-WR-MICHAEL-BUBLE.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Crooner Radio Michael Buble
 http://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3
 #EXTINF:-1 tvg-id="melodysoulconnection.fr" tvg-name="Melody Soul Connection" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.myzen.tv&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Melody Soul Connection
 https://n13.rcs.revma.com/m59b5ub8203vv?
 #EXTINF:-1 tvg-id="sunjazz.fr" tvg-name="SUN Jazz" tvg-logo="https://lesonunique.com/images/pwa/icon-512x512.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",SUN Jazz
 https://diffusion.lafrap.fr/sun-jazz.mp3
+#EXTINF:-1 tvg-id="sunradiocafe.fr" tvg-name="Sun Radio - Cafe" tvg-logo="https://www.vip-radios.fm/wp-content/uploads/SunCafe600.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Sun Radio - Cafe
+http://radio2.vip-radios.fm:8068/private-192kmp3-CafeSoulside_autodj
 #EXTINF:-1 tvg-id="nostalgiefunkdisco.fr" tvg-name="Nostalgie Funk & Disco" tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/nostalgie-funk-dance-1400-1400.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Nostalgie Funk & Disco
 https://streaming.nrjaudio.fm/ou3khmuizv6i
 #EXTINF:-1 tvg-id="nostalgiefunkycollector.fr" tvg-name="Nostalgie Funky Collector" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Nostalgie Funky Collector
@@ -804,6 +808,8 @@ https://streaming.hotmixradio.fr/hotmix-classic_soul-en-mp3
 https://eu10.fastcast4u.com:8120/stream?icy=http
 #EXTINF:-1 tvg-id="musicradiofunk.fr" tvg-name="Music Radio Funk" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Funk&size=256&background=random&bold=true" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Music Radio Funk
 https://radio.musicradio.ai/listen/music_radio_funk/radio.mp3
+#EXTINF:-1 tvg-id="radiobarsardine.fr" tvg-name="Radio Bar Sardine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtvbStzBwDUnWYoX8UJZQL7tgoSr8IZ6nPN77UMlLpwa-3Sbr6QMg_j4K&s=10" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Radio Bar Sardine
+https://listen.radioking.com/radio/552908/stream/612230
 #EXTINF:-1 tvg-id="couleursjazz.fr" tvg-name="Couleurs JAZZ" tvg-logo="https://couleursjazz.fr/wp-content/uploads/2020/04/favicon.ico" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Couleurs JAZZ
 https://www.radioking.com/play/couleurs-jazz/216016
 #EXTINF:-1 tvg-id="soulradio.fr" tvg-name="Soul Radio" tvg-logo="https://station-images-prod.radio-assets.com/300/soulradio.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Soul Radio
@@ -828,22 +834,22 @@ http://euredublues.ddns.net:8000/euredublues.ogg
 http://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3
 #EXTINF:-1 tvg-id="croonerradiogentlemendrivers.fr" tvg-name="Crooner Radio Gentlemen Drivers" tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2023/02/LOGO-CROONER-RADIO-WR-GENTLEMEN-DRIVERS.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Crooner Radio Gentlemen Drivers
 http://croonerradio_gentlemendrivers.ice.infomaniak.ch/croonerradio-gentlemendrivers-midfi.mp3
+#EXTINF:-1 tvg-id="sunsetjazzradio.fr" tvg-name="SUNSET JAZZ RADIO" tvg-logo="https://ui-avatars.com/api/?name=SUNSET+JAZZ+RADIO&size=256&background=random&bold=true" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",SUNSET JAZZ RADIO
+https://radio2.vip-radios.fm:18077/stream-mp3-SunsetJazz
 #EXTINF:-1 tvg-id="radiorbs.fr" tvg-name="Radio RBS" tvg-logo="https://station-images-prod.radio-assets.com/300/radiorbsit.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Radio RBS
 https://www.radioking.com/play/radio-rbs-1
-#EXTINF:-1 tvg-id="jazzradioclassicfr.fr" tvg-name="Jazz Radio Classic FR" tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Classic FR
-http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
 #EXTINF:-1 tvg-id="jazzclassic.fr" tvg-name="Jazz Classic" tvg-logo="https://www.jazzradio.fr/favicon-196.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Classic
 https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
 #EXTINF:-1 tvg-id="clapasjazz.fr" tvg-name="Clapas Jazz" tvg-logo="https://www.radioclapas.fr/player/jazz.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Clapas Jazz
 https://stream.radioclapas.fr/listen/clapas_jazz/radio.mp3
+#EXTINF:-1 tvg-id="jazzafro.fr" tvg-name="Jazz Afro" tvg-logo="https://www.jazzradio.fr/favicon-196.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Afro
+http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
+#EXTINF:-1 tvg-id="jazzlatin.fr" tvg-name="Jazz Latin" tvg-logo="https://www.jazzradio.fr/favicon-196.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Latin
+https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
 #EXTINF:-1 tvg-id="musicradiojazz.fr" tvg-name="Music Radio Jazz" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Jazz&size=256&background=random&bold=true" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Music Radio Jazz
 https://radio.musicradio.ai/listen/music_radio_jazz/radio.mp3
 #EXTINF:-1 tvg-id="nostalgiesoul.fr" tvg-name="Nostalgie Soul" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiesoul.jpeg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Nostalgie Soul
 https://streaming.nrjaudio.fm/oudjpq2h9r57?origine=fluxradios&aw_0_1st.station=Nostalgie-Soul
-#EXTINF:-1 tvg-id="croonerradiozen.fr" tvg-name="Crooner Radio Zen" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.croonerradio.fr&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Crooner Radio Zen
-http://croonerradio_zen.ice.infomaniak.ch/croonerradio-zen-midfi.mp3
-#EXTINF:-1 tvg-id="sunradiocafe.fr" tvg-name="Sun Radio - Cafe" tvg-logo="https://www.vip-radios.fm/wp-content/uploads/SunCafe600.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Sun Radio - Cafe
-http://radio2.vip-radios.fm:8068/private-192kmp3-CafeSoulside_autodj
 #EXTINF:-1 tvg-id="m40electroswing.fr" tvg-name="M40 Electro Swing" tvg-logo="https://cdn-profiles.tunein.com/s306483/images/logog.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",M40 Electro Swing
 https://live.m40radio.fr/listen/m40-electro-swing/m40-electro-swing-128.mp3
 #EXTINF:-1 tvg-id="hotmixfunk.fr" tvg-name="Hotmix Funk" tvg-logo="https://cdn.hotmixradio.com/hotmix-funk-en-mp3.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Hotmix Funk
@@ -854,8 +860,6 @@ https://radio.bringthenoi.se/listen/dj_nocide/default
 https://streaming.nrjaudio.fm/oun3dmqn5eyc
 #EXTINF:-1 tvg-id="jazzradiohappyhour.fr" tvg-name="Jazz Radio Happy Hour" tvg-logo="https://cdn-radiotime-logos.tunein.com/s235454g.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Radio Happy Hour
 http://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3
-#EXTINF:-1 tvg-id="radiobarsardine.fr" tvg-name="Radio Bar Sardine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtvbStzBwDUnWYoX8UJZQL7tgoSr8IZ6nPN77UMlLpwa-3Sbr6QMg_j4K&s=10" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Radio Bar Sardine
-https://listen.radioking.com/radio/552908/stream/612230
 #EXTINF:-1 tvg-id="rcv99fm.fr" tvg-name="RCV 99 fm" tvg-logo="https://rcv-lille.radio-website.com/upload/design/698dc477cc5157.73414026.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",RCV 99 fm
 https://listen.radioking.com/radio/3086/stream/9476
 #EXTINF:-1 tvg-id="musicradioacidjazz.fr" tvg-name="Music Radio Acid Jazz" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Acid+Jazz&size=256&background=random&bold=true" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Music Radio Acid Jazz
@@ -914,8 +918,6 @@ http://82.65.103.36:8000/funk-machine
 https://radio2.vip-radios.fm:18065/stream-128kmp3-BarSoulside
 #EXTINF:-1 tvg-id="nostalgiefunkyparty.fr" tvg-name="Nostalgie Funky Party" tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA_WR_FUNKY-PARTY.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Nostalgie Funky Party
 https://streaming.nrjaudio.fm/ou8o39gk7oiu
-#EXTINF:-1 tvg-id="sunsetjazzradio.fr" tvg-name="SUNSET JAZZ RADIO" tvg-logo="https://ui-avatars.com/api/?name=SUNSET+JAZZ+RADIO&size=256&background=random&bold=true" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",SUNSET JAZZ RADIO
-https://radio2.vip-radios.fm:18077/stream-mp3-SunsetJazz
 #EXTINF:-1 tvg-id="croonerradioloveromantique.fr" tvg-name="Crooner Radio Love (Romantique)" tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2023/02/LOGO-CROONER-RADIO-WR-LOVE.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Crooner Radio Love (Romantique)
 http://croonerradio_love.ice.infomaniak.ch/croonerradio-love-midfi.mp3
 #EXTINF:-1 tvg-id="outofparadise.fr" tvg-name="OutOfParadise" tvg-logo="https://ecmanager4.pro-fhi.net:3450/media/servers/IMG_1285.jpeg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",OutOfParadise
@@ -930,12 +932,8 @@ https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3
 http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3
 #EXTINF:-1 tvg-id="newmorningradio.fr" tvg-name="New Morning Radio" tvg-logo="https://www.newmorning.com/images/apple-touch-icon-114x114.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",New Morning Radio
 http://listen.radioking.com/radio/605/stream/2195
-#EXTINF:-1 tvg-id="jazzafro.fr" tvg-name="Jazz Afro" tvg-logo="https://www.jazzradio.fr/favicon-196.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Afro
-http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
 #EXTINF:-1 tvg-id="glazradio.fr" tvg-name="Glaz | Radio" tvg-logo="https://www.glazradio.tech/static/uploads/browser_icon/192.1792065279.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Glaz | Radio
 https://www.glazradio.tech/listen/glazradio/radio.mp3
-#EXTINF:-1 tvg-id="jazzlatin.fr" tvg-name="Jazz Latin" tvg-logo="https://www.jazzradio.fr/favicon-196.png" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Jazz Latin
-https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
 #EXTINF:-1 tvg-id="hotmixcocktailgroove.fr" tvg-name="Hotmix Cocktail Groove" tvg-logo="https://cdn.hotmixradio.com/hotmix-cocktail_groove-en-mp3.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Hotmix Cocktail Groove
 https://streaming.hotmixradio.com/hotmix-cocktail-groove-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="hotmixcocktailjazz.fr" tvg-name="Hotmix Cocktail Jazz" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hotmixradio.com&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Hotmix Cocktail Jazz
@@ -944,6 +942,8 @@ https://streaming.hotmixradio.com/hotmix-cocktail-jazz-en-mp3?provider=radiobrow
 http://jzr-wr99.ice.infomaniak.ch/jzr-wr99.mp3
 #EXTINF:-1 tvg-id="hotmixdinnergroove.fr" tvg-name="Hotmix Dinner Groove" tvg-logo="https://cdn.hotmixradio.com/hotmix-dinner_groove-en-mp3.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Hotmix Dinner Groove
 https://streaming.hotmixradio.com/hotmix-dinner-groove-en-mp3?provider=radiobrowser
+#EXTINF:-1 tvg-id="croonerradiozen.fr" tvg-name="Crooner Radio Zen" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.croonerradio.fr&size=256" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Crooner Radio Zen
+http://croonerradio_zen.ice.infomaniak.ch/croonerradio-zen-midfi.mp3
 #EXTINF:-1 tvg-id="1nd1g.fr" tvg-name="1ND1GØ" tvg-logo="https://cdn-profiles.tunein.com/s362510/images/logog.jpg" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",1ND1GØ
 https://stream.radiositemaker.com/s/b-lovd.mp3
 #EXTINF:-1 tvg-id="radiomontanafunk.fr" tvg-name="Radio Montana Funk" tvg-logo="https://ui-avatars.com/api/?name=Radio+Montana+Funk&size=256&background=random&bold=true" tvg-country="FR" group-title="🎷 Jazz, Soul & Funk",Radio Montana Funk
@@ -1038,26 +1038,28 @@ https://generations-jul.ice.infomaniak.ch/generations-jul.mp3
 http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3
 #EXTINF:-1 tvg-id="urbanhitrapfr.fr" tvg-name="Urban Hit rap FR" tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" tvg-country="FR" group-title="🎤 Rap & R&B",Urban Hit rap FR
 https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3
+#EXTINF:-1 tvg-id="hotmixlofi.fr" tvg-name="Hotmix Lo-Fi" tvg-logo="https://cdn.hotmixradio.com/hotmix-lo-fi-en-mp3.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",Hotmix Lo-Fi
+https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="cheriefmrap2000.fr" tvg-name="Chérie FM Rap 2000" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cheriefm.fr&size=256" tvg-country="FR" group-title="🎤 Rap & R&B",Chérie FM Rap 2000
 https://streaming.nrjaudio.fm/ouv6enoarp52
 #EXTINF:-1 tvg-id="energyclassicsrapus.fr" tvg-name="Energy Classics rap us" tvg-logo="https://cdn-profiles.tunein.com/s299847/images/logog.png" tvg-country="FR" group-title="🎤 Rap & R&B",Energy Classics rap us
 https://streaming.nrjaudio.fm/oupn23bgddr9
-#EXTINF:-1 tvg-id="hotmixlofi.fr" tvg-name="Hotmix Lo-Fi" tvg-logo="https://cdn.hotmixradio.com/hotmix-lo-fi-en-mp3.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",Hotmix Lo-Fi
-https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="afriondeabidjan.fr" tvg-name="AfriOnde Abidjan" tvg-logo="https://afrionde.fr/logos/abidjan.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",AfriOnde Abidjan
 https://live.afrionde.fr/afrionde4
-#EXTINF:-1 tvg-id="hotmixclassicrap.fr" tvg-name="Hotmix Classic Rap" tvg-logo="https://cdn.hotmixradio.com/hotmix-rap_us-en-mp3.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",Hotmix Classic Rap
-https://streaming.hotmixradio.com/hotmix-classic-rap-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="toulousefm.fr" tvg-name="Toulouse FM" tvg-logo="https://medias.preprod.bocir.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/toulousefm/images/logo_kQmQJ1D8OB.png" tvg-country="FR" group-title="🎤 Rap & R&B",Toulouse FM
 https://n32a-eu.rcs.revma.com/1x41712gy7uvv
 #EXTINF:-1 tvg-id="nrjbestofrapfrancais2025.fr" tvg-name="NRJ Best-Of Rap Français 2025" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjbestofrapfrancais2025.jpeg" tvg-country="FR" group-title="🎤 Rap & R&B",NRJ Best-Of Rap Français 2025
 https://streaming.nrjaudio.fm/oujuibnxeb5p
+#EXTINF:-1 tvg-id="hotmixclassicrap.fr" tvg-name="Hotmix Classic Rap" tvg-logo="https://cdn.hotmixradio.com/hotmix-rap_us-en-mp3.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",Hotmix Classic Rap
+https://streaming.hotmixradio.com/hotmix-classic-rap-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="afriondeconakry.fr" tvg-name="AfriOnde Conakry" tvg-logo="https://afrionde.fr/logos/conakry.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",AfriOnde Conakry
 https://live.afrionde.fr/afrionde5
 #EXTINF:-1 tvg-id="nrjrnb.fr" tvg-name="NRJ RNB" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjrnb.jpeg" tvg-country="FR" group-title="🎤 Rap & R&B",NRJ RNB
 https://streaming.nrjaudio.fm/ouamhfw2dqao
 #EXTINF:-1 tvg-id="hotmixlatino.fr" tvg-name="Hotmix Latino" tvg-logo="https://cdn.hotmixradio.com/hotmix-latino-en-mp3.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",Hotmix Latino
 https://streaming.hotmixradio.com/hotmix-latino-en-mp3?provider=radiobrowser
+#EXTINF:-1 tvg-id="airconnect.fr" tvg-name="Air Connect" tvg-logo="https://airconnectradio.com/apple-touch-icon.png" tvg-country="FR" group-title="🎤 Rap & R&B",Air Connect
+https://stream.airconnectradio.com/ac192.mp3
 #EXTINF:-1 tvg-id="afriondecefran.fr" tvg-name="AfriOnde Cefran" tvg-logo="https://afrionde.fr/logos/cefran.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",AfriOnde Cefran
 https://live.afrionde.fr/afrionde2
 #EXTINF:-1 tvg-id="frequencemutine.fr" tvg-name="Fréquence Mutine" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10898g.png" tvg-country="FR" group-title="🎤 Rap & R&B",Fréquence Mutine
@@ -1072,8 +1074,6 @@ http://allzic49.ice.infomaniak.ch/allzic49.mp3
 http://generations-rgton.ice.infomaniak.ch/generations-rgton.mp3
 #EXTINF:-1 tvg-id="afrionde.fr" tvg-name="AfriOnde" tvg-logo="https://afrionde.fr/logos/afrionde.jpg" tvg-country="FR" group-title="🎤 Rap & R&B",AfriOnde
 https://live.afrionde.fr/afrionde1
-#EXTINF:-1 tvg-id="airconnect.fr" tvg-name="Air Connect" tvg-logo="https://airconnectradio.com/apple-touch-icon.png" tvg-country="FR" group-title="🎤 Rap & R&B",Air Connect
-https://stream.airconnectradio.com/ac192.mp3
 #EXTINF:-1 tvg-id="generationsrnbgold.fr" tvg-name="🕺 Générations RNB Gold" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisO5t14VXrwoJGhJNwKv7yTJFODlagq6q5wcl_a49WiMtiYf1Wk2B648liuElB_H-G6MG1nvjCIeI7fuiC5Pa2_8Ps14AMHAOWAsi6Wine2B3PDGe7NWijzJanue0AboSEpe_SWmAjvIvLqokAyoa3LNwxIl2uPmkBqx2iJKP_jy0DEihoJ9rHBTQbBA/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-14_19-24-08.png" tvg-country="FR" group-title="🎤 Rap & R&B",🕺 Générations RNB Gold
 https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac
 #EXTINF:-1 tvg-id="generations90.fr" tvg-name="Générations 90" tvg-logo="https://generations.fr/favicon-196.png" tvg-country="FR" group-title="🎤 Rap & R&B",Générations 90
@@ -1236,10 +1236,10 @@ https://stream.rcs.revma.com/wknqhm4yuchvv?CAID=202605180046506038991434
 http://radiofg.impek.com/fg
 #EXTINF:-1 tvg-id="nostalgiedance90.fr" tvg-name="Nostalgie Dance 90" tvg-logo="https://www.nostalgie.be/build/images/favicon.png" tvg-country="FR" group-title="🎧 Électro & Dance",Nostalgie Dance 90
 https://stream.rcs.revma.com/54xm7543ehuvv
-#EXTINF:-1 tvg-id="algorythmedrumbass.fr" tvg-name="Algorythme Drum & Bass" tvg-logo="https://station-images-prod.radio-assets.com/300/algorythmedrummbass.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",Algorythme Drum & Bass
-https://radio9.pro-fhi.net/flux-endvtlna/stream
 #EXTINF:-1 tvg-id="radiofgatwork.fr" tvg-name="Radio FG at work" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/116/fg-non-stop.48576e8c.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Radio FG at work
 http://stream.rcs.revma.com/2v1zz979n98uv
+#EXTINF:-1 tvg-id="algorythmedrumbass.fr" tvg-name="Algorythme Drum & Bass" tvg-logo="https://station-images-prod.radio-assets.com/300/algorythmedrummbass.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",Algorythme Drum & Bass
+https://radio9.pro-fhi.net/flux-endvtlna/stream
 #EXTINF:-1 tvg-id="radiofgtechno.fr" tvg-name="Radio FG Techno" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/874/fg-techno.f21527ee.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Radio FG Techno
 http://stream.rcs.revma.com/1z19ak79n98uv
 #EXTINF:-1 tvg-id="pulsradiotrance.fr" tvg-name="PulsRadio Trance" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54299g.png" tvg-country="FR" group-title="🎧 Électro & Dance",PulsRadio Trance
@@ -1248,14 +1248,14 @@ http://213.251.190.165/pulstranceHD.mp3
 https://radiodance.streamingmedia.it/fr.aac
 #EXTINF:-1 tvg-id="hotmixlounge.fr" tvg-name="Hotmix Lounge" tvg-logo="https://cdn.hotmixradio.com/hotmix-lounge-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Lounge
 https://streaming.hotmixradio.com/hotmix-lounge-en-mp3?provider=radiobrowser
-#EXTINF:-1 tvg-id="memedanslesorties.fr" tvg-name="* Meme dans les orties *" tvg-logo="https://memeradio.org/favicon_meme.png" tvg-country="FR" group-title="🎧 Électro & Dance",* Meme dans les orties *
-https://radio.sk8ter.org:8443/stream
-#EXTINF:-1 tvg-id="hotmix90.fr" tvg-name="Hotmix 90" tvg-logo="https://cdn.hotmixradio.com/hotmix-90s-fr-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix 90
-https://streaming.hotmixradio.com/hotmix-90-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="hotmixacousticchill.fr" tvg-name="Hotmix Acoustic Chill" tvg-logo="https://cdn.hotmixradio.com/hotmix-acoustic-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Acoustic Chill
 https://streaming.hotmixradio.com/hotmix-acoustic-en-mp3?provider=radiobrowser
+#EXTINF:-1 tvg-id="memedanslesorties.fr" tvg-name="* Meme dans les orties *" tvg-logo="https://memeradio.org/favicon_meme.png" tvg-country="FR" group-title="🎧 Électro & Dance",* Meme dans les orties *
+https://radio.sk8ter.org:8443/stream
 #EXTINF:-1 tvg-id="tendanceouest.fr" tvg-name="Tendance Ouest" tvg-logo="https://station-images-prod.radio-assets.com/300/tendanceouest.png" tvg-country="FR" group-title="🎧 Électro & Dance",Tendance Ouest
 http://tendanceouest-calvados.ice.infomaniak.ch/caen.mp3
+#EXTINF:-1 tvg-id="hotmix90.fr" tvg-name="Hotmix 90" tvg-logo="https://cdn.hotmixradio.com/hotmix-90s-fr-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix 90
+https://streaming.hotmixradio.com/hotmix-90-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="frequence3danceflacpoweredbyikoulam2club.fr" tvg-name="FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.frequence3.com&size=256" tvg-country="FR" group-title="🎧 Électro & Dance",FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club
 https://onair.net-radio.fr/frequence3dance.flac
 #EXTINF:-1 tvg-id="hotmixhits.fr" tvg-name="Hotmix Hits" tvg-logo="https://cdn.hotmixradio.com/hotmix-hits-fr-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Hits
@@ -1282,16 +1282,16 @@ https://streaming.hotmixradio.com/hotmix-japan-en-mp3?provider=radiobrowser
 http://radiofg.impek.com/fgc.mp3
 #EXTINF:-1 tvg-id="espacedance90.fr" tvg-name="Espace Dance 90" tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" tvg-country="FR" group-title="🎧 Électro & Dance",Espace Dance 90
 http://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
-#EXTINF:-1 tvg-id="kickdrum.fr" tvg-name="KickDrum" tvg-logo="https://ui-avatars.com/api/?name=KickDrum&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",KickDrum
+#EXTINF:-1 tvg-id="kickdrum.fr" tvg-name="KickDrum" tvg-logo="https://kickdrum.internal-server.work/site/favicon.svg?v=1794071058" tvg-country="FR" group-title="🎧 Électro & Dance",KickDrum
 https://kickdrum.internal-server.work/radio.mp3
 #EXTINF:-1 tvg-id="frequence3sunsetlounge.fr" tvg-name="Fréquence 3+ Sunset Lounge" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3plussunsetlounge.png" tvg-country="FR" group-title="🎧 Électro & Dance",Fréquence 3+ Sunset Lounge
 https://hls.net-radio.fr/Frequence3Plus-16/Frequence3Plus-16.m3u8
 #EXTINF:-1 tvg-id="rirechansonscomedyclub.fr" tvg-name="Rire & Chansons Comedy Club" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonscomedyclub.png" tvg-country="FR" group-title="🎧 Électro & Dance",Rire & Chansons Comedy Club
 https://streaming.nrjaudio.fm/ouhmszapu6pb
+#EXTINF:-1 tvg-id="tekno1.fr" tvg-name="TEKNO1" tvg-logo="https://station-images-prod.radio-assets.com/300/tekno1.png" tvg-country="FR" group-title="🎧 Électro & Dance",TEKNO1
+http://cressida.shoutca.st:8591/stream/1/
 #EXTINF:-1 tvg-id="hotmixafrobeats.fr" tvg-name="Hotmix Afro Beats" tvg-logo="https://cdn.hotmixradio.com/hotmix-afro-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Afro Beats
 https://streaming.hotmixradio.com/hotmix-afro-en-mp3?provider=radiobrowser
-#EXTINF:-1 tvg-id="sunelectro.fr" tvg-name="SUN Electro" tvg-logo="https://assets.radioplayer.org/250/2501932/600/600/mrp1g82r.png" tvg-country="FR" group-title="🎧 Électro & Dance",SUN Electro
-https://diffusion.lafrap.fr/sun-electro.mp3
 #EXTINF:-1 tvg-id="radiofgdeepdance.fr" tvg-name="Radio Fg Deep Dance" tvg-logo="https://station-images-prod.radio-assets.com/300/fgdeepdance.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",Radio Fg Deep Dance
 https://radiofg.impek.com/fgd.mp3
 #EXTINF:-1 tvg-id="hotmixmetal.fr" tvg-name="Hotmix Metal" tvg-logo="https://cdn.hotmixradio.com/hotmix-metal-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Metal
@@ -1312,10 +1312,10 @@ https://hls.net-radio.fr/Frequence3Plus-10/Frequence3Plus-10.m3u8
 https://streaming.nrjaudio.fm/oug75vrb92oc
 #EXTINF:-1 tvg-id="875nantes.fr" tvg-name="..87,5!. Nantes" tvg-logo="https://ui-avatars.com/api/?name=..87%2C5%21.+Nantes&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",..87,5!. Nantes
 https://listen.radioking.com/radio/15130/stream/28217
-#EXTINF:-1 tvg-id="tekno1.fr" tvg-name="TEKNO1" tvg-logo="https://station-images-prod.radio-assets.com/300/tekno1.png" tvg-country="FR" group-title="🎧 Électro & Dance",TEKNO1
-http://cressida.shoutca.st:8591/stream/1/
 #EXTINF:-1 tvg-id="hotmixclassicrock.fr" tvg-name="Hotmix Classic Rock" tvg-logo="https://cdn.hotmixradio.com/hotmix-classic-rock-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Classic Rock
 https://streaming.hotmixradio.com/hotmix-classic-rock-en-mp3?provider=radiobrowser
+#EXTINF:-1 tvg-id="sunelectro.fr" tvg-name="SUN Electro" tvg-logo="https://assets.radioplayer.org/250/2501932/600/600/mrp1g82r.png" tvg-country="FR" group-title="🎧 Électro & Dance",SUN Electro
+https://diffusion.lafrap.fr/sun-electro.mp3
 #EXTINF:-1 tvg-id="hotmixdinnerlounge.fr" tvg-name="Hotmix Dinner Lounge" tvg-logo="https://cdn.hotmixradio.com/hotmix-dinner_lounge-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Dinner Lounge
 https://streaming.hotmixradio.com/hotmix-dinner-lounge-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="hotmixelectrodance.fr" tvg-name="Hotmix Electro Dance" tvg-logo="https://cdn.hotmixradio.com/hotmix-electro_dance-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Electro Dance
@@ -1340,6 +1340,8 @@ https://streaming.hotmixradio.com/hotmix-on-the-road-en-mp3?provider=radiobrowse
 https://streaming.hotmixradio.com/hotmix-slow-morning-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="europe2mixrockelectropop.fr" tvg-name="Europe 2 Mix / Rock, Electro, Pop" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.europe2.fr&size=256" tvg-country="FR" group-title="🎧 Électro & Dance",Europe 2 Mix / Rock, Electro, Pop
 https://europe2.lmn.fm/vr-wr6.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1 tvg-id="tekno1radio.fr" tvg-name="Tekno1 Radio" tvg-logo="https://tekno1.fr/wp-content/uploads/2024/10/Sans-titre-1.png" tvg-country="FR" group-title="🎧 Électro & Dance",Tekno1 Radio
+http://95.217.34.48:8591/stream
 #EXTINF:-1 tvg-id="nrjdance2000.fr" tvg-name="NRJ Dance 2000" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjdance2000.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",NRJ Dance 2000
 https://streaming.nrjaudio.fm/ou5kwairv93h?origine=fluxradios&aw_0_1st.station=NRJ-DANCE-2000
 #EXTINF:-1 tvg-id="allzicradiodeepdisco.fr" tvg-name="Allzic Radio Deep Disco" tvg-logo="https://cdn-profiles.tunein.com/s235833/images/logog.png" tvg-country="FR" group-title="🎧 Électro & Dance",Allzic Radio Deep Disco
@@ -1348,6 +1350,8 @@ http://allzic31.ice.infomaniak.ch/allzic31.mp3
 https://stream.masirasolutions.com/live
 #EXTINF:-1 tvg-id="frequence390sdance.fr" tvg-name="Fréquence 3+ 90's Dance" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3plus90sdance.png" tvg-country="FR" group-title="🎧 Électro & Dance",Fréquence 3+ 90's Dance
 https://hls.net-radio.fr/Frequence3Plus-2/Frequence3Plus-2.m3u8
+#EXTINF:-1 tvg-id="akroradio.fr" tvg-name="AkroRadio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.akroradio.com&size=256" tvg-country="FR" group-title="🎧 Électro & Dance",AkroRadio
+http://stream.akroradio.com:10012/AkroRadio
 #EXTINF:-1 tvg-id="cacaoradio.fr" tvg-name="Cacao-Radio" tvg-logo="https://studio10.vestaradio.com/uploads/user-music/2847/covers/cover_2847_1789732969_43e151.png" tvg-country="FR" group-title="🎧 Électro & Dance",Cacao-Radio
 https://stream10.vestaradio.com/Cacao-Radio?.mp3
 #EXTINF:-1 tvg-id="allzicradiofitness.fr" tvg-name="Allzic Radio Fitness" tvg-logo="https://cdn-profiles.tunein.com/s235814/images/logog.png" tvg-country="FR" group-title="🎧 Électro & Dance",Allzic Radio Fitness
@@ -1362,6 +1366,8 @@ https://maxfm.ice.infomaniak.ch/maxfm-945.mp3
 https://streaming.hotmixradio.fr/hotmix-hard_rock-en-mp3
 #EXTINF:-1 tvg-id="hotmixdance.fr" tvg-name="Hotmix Dance" tvg-logo="https://web.hotmixradio.com/favicon.ico" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Dance
 https://streaming.hotmixradio.com/hotmix-lounge-en-mp3
+#EXTINF:-1 tvg-id="pulsradioclub.fr" tvg-name="PulsRadio Club" tvg-logo="https://www.pulsradio.com/img/logo-club.png" tvg-country="FR" group-title="🎧 Électro & Dance",PulsRadio Club
+https://icecast.pulsradio.com/mxHD.mp3
 #EXTINF:-1 tvg-id="pulsradiolounge.fr" tvg-name="PulsRadio Lounge" tvg-logo="https://www.pulsradio.com/img/logo-lounge.png" tvg-country="FR" group-title="🎧 Électro & Dance",PulsRadio Lounge
 https://icecast.pulsradio.com/relaxHD.mp3
 #EXTINF:-1 tvg-id="allzicradiodisco.fr" tvg-name="Allzic Radio Disco" tvg-logo="https://cdn-profiles.tunein.com/s262039/images/logog.png" tvg-country="FR" group-title="🎧 Électro & Dance",Allzic Radio Disco
@@ -1376,30 +1382,48 @@ https://az11.yesstreaming.net:8530/radio.mp3
 http://radiart.eu:8394/live
 #EXTINF:-1 tvg-id="hotmixmeal.fr" tvg-name="Hotmix meal" tvg-logo="https://web.hotmixradio.com/favicon.ico" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix meal
 https://streaming.hotmixradio.com/hotmix-metal-en-mp3
-#EXTINF:-1 tvg-id="hotmixclassichouse.fr" tvg-name="Hotmix Classic House" tvg-logo="https://cdn.hotmixradio.com/hotmix-classic-house-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Classic House
-https://streaming.hotmixradio.com/hotmix-classic-house-en-mp3?provider=radiobrowser
+#EXTINF:-1 tvg-id="radioreccordchillhouse.fr" tvg-name="📻 Radio Reccord Chill House" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaywxXeHlWtxJ-YR4cdblac_NbEi3yK_drJqEg109pJe2Halhyphenhyphenp7sm_Uoa19TkNkkWh3vUOpKBR8hxUp0c8LSAM2GJNetn1eMWRaQ3ZeGG-PIRmTNPbT9y-_jY_Nd138VO6Jc5TU7BlFlAkvBl3B6ypWP9jXyJg5Z4xIEbgQGzivsuLizFAQDSOzMx/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-20_10-10-10.png" tvg-country="FR" group-title="🎧 Électro & Dance",📻 Radio Reccord Chill House
+https://radiorecord.hostingradio.ru/organic96.aacp
 #EXTINF:-1 tvg-id="hotmix2000.fr" tvg-name="Hotmix 2000" tvg-logo="https://cdn-profiles.tunein.com/s216185/images/logog.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix 2000
 https://streaming.hotmixradio.fr/hotmix-2000s-en-mp3
 #EXTINF:-1 tvg-id="hotmix2010.fr" tvg-name="Hotmix 2010" tvg-logo="https://station-images-prod.radio-assets.com/300/hotmixradio2011.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix 2010
 https://streaming.hotmixradio.fr/hotmix-2010-en-mp3
 #EXTINF:-1 tvg-id="hotmixfrenchy.fr" tvg-name="Hotmix Frenchy" tvg-logo="https://cdn.hotmixradio.com/hotmix-frenchy-fr-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Frenchy
 https://streaming.hotmixradio.com/hotmix-frenchy-fr-mp3?provider=radiobrowser
+#EXTINF:-1 tvg-id="hotmixhappy.fr" tvg-name="Hotmix Happy" tvg-logo="https://cdn.hotmixradio.com/hotmix-happy-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Happy
+https://streaming.hotmixradio.com/hotmix-happy-en-mp3?provider=radiobrowser
+#EXTINF:-1 tvg-id="nrjelectro.fr" tvg-name="NRJ Electro" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjelectro.png" tvg-country="FR" group-title="🎧 Électro & Dance",NRJ Electro
+https://streaming.nrjaudio.fm/our78wvukkaq
+#EXTINF:-1 tvg-id="musicradiohouse.fr" tvg-name="Music Radio House" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+House&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Music Radio House
+https://radio.musicradio.ai/listen/music_radio_house/radio.mp3
 #EXTINF:-1 tvg-id="hotmixkpop.fr" tvg-name="Hotmix K-Pop" tvg-logo="https://cdn.hotmixradio.com/hotmix-k-pop-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix K-Pop
 https://streaming.hotmixradio.com/hotmix-k-pop-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="hit53.fr" tvg-name="Hit53" tvg-logo="https://hit53.fr/maskable.png" tvg-country="FR" group-title="🎧 Électro & Dance",Hit53
 https://azura.hit53.fr/hit128.mp3
+#EXTINF:-1 tvg-id="vibrationclub.fr" tvg-name="Vibration Club" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286705g.png" tvg-country="FR" group-title="🎧 Électro & Dance",Vibration Club
+http://vibrationclub.ice.infomaniak.ch/vibrationclub.mp3
+#EXTINF:-1 tvg-id="electroradio.fr" tvg-name="ELECTRO radio" tvg-logo="https://www.electroradio.fr/wp-content/uploads/2026/10/cropped-Logo-retro-neon-ELECTRO-RADIO-192x192.png" tvg-country="FR" group-title="🎧 Électro & Dance",ELECTRO radio
+http://stream.electroradio.fr:8030/live
+#EXTINF:-1 tvg-id="hotmixpoprock.fr" tvg-name="Hotmix Pop Rock" tvg-logo="https://cdn.hotmixradio.com/hotmix-pop_rock-fr-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Pop Rock
+https://streaming.hotmixradio.com/hotmix-pop-rock-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="hotmixreggae.fr" tvg-name="Hotmix Reggae" tvg-logo="https://cdn.hotmixradio.com/hotmix-reggae-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Reggae
 https://streaming.hotmixradio.com/hotmix-reggae-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="hotmixrock.fr" tvg-name="Hotmix Rock" tvg-logo="https://cdn.hotmixradio.com/hotmix-rock-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Rock
 https://streaming.hotmixradio.com/hotmix-rock-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="radiomonacomixdj.fr" tvg-name="Radio Monaco Mix DJ" tvg-logo="https://ui-avatars.com/api/?name=Radio+Monaco+Mix+DJ&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Radio Monaco Mix DJ
 http://streaming503.radionomy.com/radio-monaco-mixdj
+#EXTINF:-1 tvg-id="radioelecroshock.fr" tvg-name="Radio Elecroshock" tvg-logo="https://ui-avatars.com/api/?name=Radio+Elecroshock&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Radio Elecroshock
+http://manager.conceptradio.fr:1250/stream
 #EXTINF:-1 tvg-id="hotmixsalsa.fr" tvg-name="Hotmix Salsa" tvg-logo="https://cdn.hotmixradio.com/hotmix-salsa-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Salsa
 https://streaming.hotmixradio.com/hotmix-salsa-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="lebonmixdynamicaac192lc.fr" tvg-name="Le Bon Mix Dynamic - AAC192LC" tvg-logo="https://static.wixstatic.com/media/8f2aad_dcbd6c98b6d541609e600ae3d73de849~mv2.png" tvg-country="FR" group-title="🎧 Électro & Dance",Le Bon Mix Dynamic - AAC192LC
 https://stream10.xdevel.com/audio15s976748-2112/stream/icecast.audio
 #EXTINF:-1 tvg-id="radiozaizai.fr" tvg-name="Radio Zaï Zaï" tvg-logo="https://zaizai-radio.org/wp-content/uploads/2020/09/cropped-Apercu_Logo-ZaiZai_Couleurs-192x192.png" tvg-country="FR" group-title="🎧 Électro & Dance",Radio Zaï Zaï
 https://listen.radioking.com/radio/204667/stream/247420
+#EXTINF:-1 tvg-id="nrjtechnostory.fr" tvg-name="NRJ Techno Story" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjtechnostory.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",NRJ Techno Story
+https://streaming.nrjaudio.fm/ouvfmzoarp52
+#EXTINF:-1 tvg-id="hits1cognac.fr" tvg-name="Hits 1 Cognac" tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hits 1 Cognac
+https://hits1cognac-audiomediaradio.radioca.st/hits1cognac
 #EXTINF:-1 tvg-id="hotmixrooftopvibes.fr" tvg-name="Hotmix Rooftop Vibes" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hotmixradio.com&size=256" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Rooftop Vibes
 https://streaming.hotmixradio.com/hotmix-rooftop-vibes-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="hotmixsunny.fr" tvg-name="Hotmix Sunny" tvg-logo="https://cdn.hotmixradio.com/hotmix-sunny-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Sunny
@@ -1408,24 +1432,20 @@ https://streaming.hotmixradio.com/hotmix-sunny-en-mp3?provider=radiobrowser
 https://streaming.nrjaudio.fm/ouwgqgsk6j4d
 #EXTINF:-1 tvg-id="radioplatinebretagne.fr" tvg-name="Radio Platine - Bretagne" tvg-logo="https://cdn-profiles.tunein.com/s361381/images/logod.png?t=639255049210000000" tvg-country="FR" group-title="🎧 Électro & Dance",Radio Platine - Bretagne
 https://azura.radioplatine.fr:5001/listen/radio_platine/flux.bretagne
-#EXTINF:-1 tvg-id="tekno1radio.fr" tvg-name="Tekno1 Radio" tvg-logo="https://tekno1.fr/wp-content/uploads/2024/10/Sans-titre-1.png" tvg-country="FR" group-title="🎧 Électro & Dance",Tekno1 Radio
-http://95.217.34.48:8591/stream
 #EXTINF:-1 tvg-id="radionti.fr" tvg-name="Radio NTI" tvg-logo="https://www.radionti.com/upload/design/5dd6aba2840dc2.95622307.png" tvg-country="FR" group-title="🎧 Électro & Dance",Radio NTI
 http://streaming.radionti.com/nti-hd.mp3
 #EXTINF:-1 tvg-id="galaxietek.fr" tvg-name="GalaxieTek" tvg-logo="http://www.galaxieradio.fr/upload/578f3bce151616.43092430.ico" tvg-country="FR" group-title="🎧 Électro & Dance",GalaxieTek
 https://fr.radioking.com/play/galaxietek
 #EXTINF:-1 tvg-id="allzicradiochillout.fr" tvg-name="Allzic Radio Chill Out" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎧 Électro & Dance",Allzic Radio Chill Out
 http://allzic53.ice.infomaniak.ch/allzic53.mp3
-#EXTINF:-1 tvg-id="akroradio.fr" tvg-name="AkroRadio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.akroradio.com&size=256" tvg-country="FR" group-title="🎧 Électro & Dance",AkroRadio
-http://stream.akroradio.com:10012/AkroRadio
 #EXTINF:-1 tvg-id="discovertrance.fr" tvg-name="Discover trance" tvg-logo="https://www.discovertrance.com/android-chrome-512x512.png" tvg-country="FR" group-title="🎧 Électro & Dance",Discover trance
 https://uk01.discovertrance.com/;*.mp3
 #EXTINF:-1 tvg-id="hotelcostes.fr" tvg-name="Hotel Costes" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.hotelcostes.com&size=256" tvg-country="FR" group-title="🎧 Électro & Dance",Hotel Costes
 https://s3.radio.co/s39c195d74/listen
+#EXTINF:-1 tvg-id="odclive.fr" tvg-name="ODC Live" tvg-logo="https://zest.radio/android-chrome-512x512.png" tvg-country="FR" group-title="🎧 Électro & Dance",ODC Live
+https://radio.zest.radio/radio/8000/radio.mp3
 #EXTINF:-1 tvg-id="algorythmeukgarage.fr" tvg-name="Algorythme UK Garage" tvg-logo="https://station-images-prod.radio-assets.com/300/algorythme-uk-garage.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",Algorythme UK Garage
 https://ukg.algorythmeradio.com/stream
-#EXTINF:-1 tvg-id="pulsradioclub.fr" tvg-name="PulsRadio Club" tvg-logo="https://www.pulsradio.com/img/logo-club.png" tvg-country="FR" group-title="🎧 Électro & Dance",PulsRadio Club
-https://icecast.pulsradio.com/mxHD.mp3
 #EXTINF:-1 tvg-id="allzicradioelectrochill.fr" tvg-name="Allzic Radio Electro Chill" tvg-logo="https://ui-avatars.com/api/?name=Allzic+Radio+Electro+Chill&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Allzic Radio Electro Chill
 https://allzic57.ice.infomaniak.ch/allzic57.aac
 #EXTINF:-1 tvg-id="espaceclub.fr" tvg-name="Espace Club" tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" tvg-country="FR" group-title="🎧 Électro & Dance",Espace Club
@@ -1442,10 +1462,10 @@ https://streaming.hotmixradio.com/hotmix-china-en-mp3?provider=radiobrowser
 http://streaming.hotmixradio.fr/hotmix-sunny-en-mp3
 #EXTINF:-1 tvg-id="radioclub1057fm.fr" tvg-name="RADIO CLUB 105.7FM" tvg-logo="https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",RADIO CLUB 105.7FM
 https://stunnel1.cyber-streaming.com:9128/listen.mp3
+#EXTINF:-1 tvg-id="hotmixclassichouse.fr" tvg-name="Hotmix Classic House" tvg-logo="https://cdn.hotmixradio.com/hotmix-classic-house-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Classic House
+https://streaming.hotmixradio.com/hotmix-classic-house-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="musicradiodance.fr" tvg-name="Music Radio Dance" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Dance&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Music Radio Dance
 https://radio.musicradio.ai/listen/music_radio_dance/radio.mp3
-#EXTINF:-1 tvg-id="radioreccordchillhouse.fr" tvg-name="📻 Radio Reccord Chill House" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaywxXeHlWtxJ-YR4cdblac_NbEi3yK_drJqEg109pJe2Halhyphenhyphenp7sm_Uoa19TkNkkWh3vUOpKBR8hxUp0c8LSAM2GJNetn1eMWRaQ3ZeGG-PIRmTNPbT9y-_jY_Nd138VO6Jc5TU7BlFlAkvBl3B6ypWP9jXyJg5Z4xIEbgQGzivsuLizFAQDSOzMx/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-20_10-10-10.png" tvg-country="FR" group-title="🎧 Électro & Dance",📻 Radio Reccord Chill House
-https://radiorecord.hostingradio.ru/organic96.aacp
 #EXTINF:-1 tvg-id="musicradiodisco.fr" tvg-name="Music Radio Disco" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Disco&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Music Radio Disco
 https://radio.musicradio.ai/listen/music_radio_disco/radio.mp3
 #EXTINF:-1 tvg-id="musicradiodrumbass.fr" tvg-name="Music Radio Drum & Bass" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Drum+%26+Bass&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Music Radio Drum & Bass
@@ -1454,20 +1474,10 @@ https://radio.musicradio.ai/listen/music_radio_drum__bass/radio.mp3
 https://streaming.hotmixradio.com/hotmix-disco-fever-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="africaradioafricaclubwebradio.fr" tvg-name="Africa Radio Africa Club Webradio" tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/africaradio/images/favicon.x-icon" tvg-country="FR" group-title="🎧 Électro & Dance",Africa Radio Africa Club Webradio
 https://webradio1.ice.infomaniak.ch/webradio5-128.mp3
-#EXTINF:-1 tvg-id="hotmixhappy.fr" tvg-name="Hotmix Happy" tvg-logo="https://cdn.hotmixradio.com/hotmix-happy-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Happy
-https://streaming.hotmixradio.com/hotmix-happy-en-mp3?provider=radiobrowser
-#EXTINF:-1 tvg-id="nrjelectro.fr" tvg-name="NRJ Electro" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjelectro.png" tvg-country="FR" group-title="🎧 Électro & Dance",NRJ Electro
-https://streaming.nrjaudio.fm/our78wvukkaq
 #EXTINF:-1 tvg-id="hotmixitalia.fr" tvg-name="Hotmix Italia" tvg-logo="https://cdn.hotmixradio.com/hotmix-italia-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Italia
 https://streaming.hotmixradio.com/hotmix-italia-en-mp3?provider=radiobrowser
-#EXTINF:-1 tvg-id="musicradiohouse.fr" tvg-name="Music Radio House" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+House&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Music Radio House
-https://radio.musicradio.ai/listen/music_radio_house/radio.mp3
 #EXTINF:-1 tvg-id="playloud.fr" tvg-name="Playloud" tvg-logo="https://station-images-prod.radio-assets.com/300/playloud.png" tvg-country="FR" group-title="🎧 Électro & Dance",Playloud
 https://stream2.playloud.fr/stream
-#EXTINF:-1 tvg-id="vibrationclub.fr" tvg-name="Vibration Club" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286705g.png" tvg-country="FR" group-title="🎧 Électro & Dance",Vibration Club
-http://vibrationclub.ice.infomaniak.ch/vibrationclub.mp3
-#EXTINF:-1 tvg-id="electroradio.fr" tvg-name="ELECTRO radio" tvg-logo="https://www.electroradio.fr/wp-content/uploads/2026/10/cropped-Logo-retro-neon-ELECTRO-RADIO-192x192.png" tvg-country="FR" group-title="🎧 Électro & Dance",ELECTRO radio
-http://stream.electroradio.fr:8030/live
 #EXTINF:-1 tvg-id="hotmixlove.fr" tvg-name="Hotmix Love" tvg-logo="https://www.hotmixradio.com/favicon.ico" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Love
 https://streaming.hotmixradio.com/hotmix-love-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="voltigeradiodance.fr" tvg-name="Voltige Radio Dance" tvg-logo="https://www.voltigeradio.net/uploads/6925ac837cef6b0dabaaa932a884b08d.png" tvg-country="FR" group-title="🎧 Électro & Dance",Voltige Radio Dance
@@ -1476,16 +1486,8 @@ https://flux.radioflow.fr/voltige/stream
 http://voltageclub.ice.infomaniak.ch/voltageclub-128.mp3
 #EXTINF:-1 tvg-id="hotmixnudisco.fr" tvg-name="Hotmix Nu Disco" tvg-logo="https://cdn.hotmixradio.com/hotmix-nu_disco-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Nu Disco
 https://streaming.hotmixradio.com/hotmix-nu_disco-en-mp3?provider=radiobrowser
-#EXTINF:-1 tvg-id="hotmixpoprock.fr" tvg-name="Hotmix Pop Rock" tvg-logo="https://cdn.hotmixradio.com/hotmix-pop_rock-fr-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Pop Rock
-https://streaming.hotmixradio.com/hotmix-pop-rock-en-mp3?provider=radiobrowser
-#EXTINF:-1 tvg-id="radioelecroshock.fr" tvg-name="Radio Elecroshock" tvg-logo="https://ui-avatars.com/api/?name=Radio+Elecroshock&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Radio Elecroshock
-http://manager.conceptradio.fr:1250/stream
 #EXTINF:-1 tvg-id="hotmixspain.fr" tvg-name="Hotmix Spain" tvg-logo="https://cdn.hotmixradio.com/hotmix-spain-en-mp3.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Spain
 https://streaming.hotmixradio.com/hotmix-spain-en-mp3?provider=radiobrowser
-#EXTINF:-1 tvg-id="nrjtechnostory.fr" tvg-name="NRJ Techno Story" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjtechnostory.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",NRJ Techno Story
-https://streaming.nrjaudio.fm/ouvfmzoarp52
-#EXTINF:-1 tvg-id="hits1cognac.fr" tvg-name="Hits 1 Cognac" tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hits 1 Cognac
-https://hits1cognac-audiomediaradio.radioca.st/hits1cognac
 #EXTINF:-1 tvg-id="nostalgiegeneration90.fr" tvg-name="Nostalgie Génération 90" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiegeneration90.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",Nostalgie Génération 90
 https://streaming.nrjaudio.fm/oumokb8fnozc?origine=fluxradios&aw_0_1st.station=Nostalgie-Generation-90
 #EXTINF:-1 tvg-id="vertigeradiodance.fr" tvg-name="Vertige Radio Dance" tvg-logo="https://studio10.vestaradio.com/uploads/temp/logos/logo_1_25_1781885967_59e992.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Vertige Radio Dance
@@ -1524,16 +1526,14 @@ https://stream-eurodance90.fr/radio/8000/128.mp3
 https://streaming.hotmixradio.com/hotmix-party-fr-mp3
 #EXTINF:-1 tvg-id="mixtralcom.fr" tvg-name="MIXTRAL.COM" tvg-logo="https://cdn-profiles.tunein.com/s342249/images/bannerx.jpg?t=639057351640000000" tvg-country="FR" group-title="🎧 Électro & Dance",MIXTRAL.COM
 https://live.mixtral.com/mixtral.mp3
-#EXTINF:-1 tvg-id="redzingradio.fr" tvg-name="Redzing Radio" tvg-logo="https://redzingradio.com/wp-content/uploads/2020/06/cropped-logo_cerclebleu_RedzingRadio_2022.png" tvg-country="FR" group-title="🎧 Électro & Dance",Redzing Radio
-https://onair.redzingradio.com/redzing-256
 #EXTINF:-1 tvg-id="hotmixnew.fr" tvg-name="Hotmix New" tvg-logo="https://www.hotmixradio.com/favicon.ico" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix New
 https://streaming.hotmixradio.com/hotmix-new-fr-mp3
 #EXTINF:-1 tvg-id="radioplatine.fr" tvg-name="Radio Platine" tvg-logo="https://www.radio.fr/300/chtitegalaxie.png?version=f966c07c1de0a68677040dfb7bca26576ab27e73" tvg-country="FR" group-title="🎧 Électro & Dance",Radio Platine
 https://azura.radioplatine.fr:5001/listen/radio_platine/radio.mp3
-#EXTINF:-1 tvg-id="odclive.fr" tvg-name="ODC Live" tvg-logo="https://zest.radio/android-chrome-512x512.png" tvg-country="FR" group-title="🎧 Électro & Dance",ODC Live
-https://radio.zest.radio/radio/8000/radio.mp3
 #EXTINF:-1 tvg-id="hotmixcountry.fr" tvg-name="Hotmix Country" tvg-logo="https://www.radio.fr/100/hotmixcountryhits.jpeg?version=cb72ace01cb65b013bb362d804abc0e30bc5597a" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Country
 https://streaming.hotmixradio.fr/hotmix-country_hits-en-mp3
+#EXTINF:-1 tvg-id="zonemix.fr" tvg-name="Zone Mix" tvg-logo="https://cdn-profiles.tunein.com/s124171/images/logog.png" tvg-country="FR" group-title="🎧 Électro & Dance",Zone Mix
+https://zone-mix.stream.laut.fm/zone-mix?t302=2018-02-12_08-42-17&uuid=960992d8-7019-468f-8628-5cec46e9fa42
 #EXTINF:-1 tvg-id="hotmixgold.fr" tvg-name="Hotmix Gold" tvg-logo="https://cdn-profiles.tunein.com/s214967/images/logog.jpg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Gold
 https://streaming.hotmixradio.fr/hotmix-gold-fr-mp3
 #EXTINF:-1 tvg-id="dkldreyecklandmulhousealtkirch.fr" tvg-name="DKL Dreyeckland Mulhouse / Altkirch" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dkl.fr&size=256" tvg-country="FR" group-title="🎧 Électro & Dance",DKL Dreyeckland Mulhouse / Altkirch
@@ -1542,6 +1542,8 @@ http://stream.rcs.revma.com/aguwyw7fkzzuv.mp3
 https://manager.conceptradio.fr:1255/stream?x=1778074871622
 #EXTINF:-1 tvg-id="happynessamiens.fr" tvg-name="Happyness Amiens" tvg-logo="https://happynessradio.fr/wp-content/uploads/2026/08/cropped-android-chrome-512x512-1-192x192.png" tvg-country="FR" group-title="🎧 Électro & Dance",Happyness Amiens
 https://azuracast-scrs-2.foxoud.synology.me/listen/happyness_amiens/player
+#EXTINF:-1 tvg-id="radiomix.fr" tvg-name="RADIO-MIX" tvg-logo="https://cdn-profiles.tunein.com/s269117/images/logog.png" tvg-country="FR" group-title="🎧 Électro & Dance",RADIO-MIX
+http://andromeda.shoutca.st:8427/stream
 #EXTINF:-1 tvg-id="radioscooppowerdance.fr" tvg-name="Radio Scoop Powerdance" tvg-logo="https://station-images-prod.radio-assets.com/300/scooppowerdance.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",Radio Scoop Powerdance
 https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac
 #EXTINF:-1 tvg-id="nrjbeachclub.fr" tvg-name="NRJ Beach Club" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjbeachclub.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",NRJ Beach Club
@@ -1642,6 +1644,8 @@ https://live.m40radio.fr/listen/m40-makina/m40-makina-128.mp3
 https://a13.my-control-panel.com/listen/lithium_radio/radio.mp3
 #EXTINF:-1 tvg-id="nrjmulhouse.fr" tvg-name="NRJ Mulhouse" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎧 Électro & Dance",NRJ Mulhouse
 https://streaming.nrjaudio.fm/ou2jrqpw5hs7
+#EXTINF:-1 tvg-id="redzingradio.fr" tvg-name="Redzing Radio" tvg-logo="https://redzingradio.com/wp-content/uploads/2020/06/cropped-logo_cerclebleu_RedzingRadio_2022.png" tvg-country="FR" group-title="🎧 Électro & Dance",Redzing Radio
+https://onair.redzingradio.com/redzing-256
 #EXTINF:-1 tvg-id="hotmixnewint.fr" tvg-name="Hotmix New INT" tvg-logo="https://www.hotmixradio.com/favicon.ico" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix New INT
 https://streaming.hotmixradio.com/hotmix-new-en-mp3
 #EXTINF:-1 tvg-id="tendanceradio.fr" tvg-name="Tendance Radio" tvg-logo="https://tendanceradio.net/images/Logo-Tendance.png" tvg-country="FR" group-title="🎧 Électro & Dance",Tendance Radio
@@ -1656,8 +1660,6 @@ http://allzic41.ice.infomaniak.ch/allzic41.mp3
 https://streaming.nrjaudio.fm/ougobwrb92oc
 #EXTINF:-1 tvg-id="florfmmulhouse.fr" tvg-name="Flor FM Mulhouse" tvg-logo="https://ui-avatars.com/api/?name=Flor+FM+Mulhouse&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Flor FM Mulhouse
 https://florfm.ice.infomaniak.ch/webmulhouse.mp3
-#EXTINF:-1 tvg-id="zonemix.fr" tvg-name="Zone Mix" tvg-logo="https://cdn-profiles.tunein.com/s124171/images/logog.png" tvg-country="FR" group-title="🎧 Électro & Dance",Zone Mix
-https://zone-mix.stream.laut.fm/zone-mix?t302=2018-02-12_08-42-17&uuid=960992d8-7019-468f-8628-5cec46e9fa42
 #EXTINF:-1 tvg-id="hotmixindie.fr" tvg-name="Hotmix Indie" tvg-logo="https://station-images-prod.radio-assets.com/300/hotmixindie.jpeg" tvg-country="FR" group-title="🎧 Électro & Dance",Hotmix Indie
 https://streaming.hotmixradio.fr/hotmix-indie-en-mp3
 #EXTINF:-1 tvg-id="radio4g.fr" tvg-name="Radio4G" tvg-logo="https://ui-avatars.com/api/?name=Radio4G&size=256&background=random&bold=true" tvg-country="FR" group-title="🎧 Électro & Dance",Radio4G
@@ -1668,8 +1670,6 @@ https://streaming.nrjaudio.fm/ousg2xm4z85f?origine=fluxradios&aw_0_1st.station=N
 https://ec5.yesstreaming.net:1520/stream
 #EXTINF:-1 tvg-id="witfmclub.fr" tvg-name="Wit FM Club" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/witfm/images/favicon.vnd.microsoft.icon" tvg-country="FR" group-title="🎧 Électro & Dance",Wit FM Club
 http://witclub.ice.infomaniak.ch/witclub.mp3
-#EXTINF:-1 tvg-id="radiomix.fr" tvg-name="RADIO-MIX" tvg-logo="https://cdn-profiles.tunein.com/s269117/images/logog.png" tvg-country="FR" group-title="🎧 Électro & Dance",RADIO-MIX
-http://andromeda.shoutca.st:8427/stream
 #EXTINF:-1 tvg-id="rfmpoprock.fr" tvg-name="RFM POP-ROCK" tvg-logo="https://cdn-profiles.tunein.com/s309246/images/logog.jpg" tvg-country="FR" group-title="🎸 Rock & Metal",RFM POP-ROCK
 https://stream.rfm.fr/rfm-wr10.aac
 #EXTINF:-1 tvg-id="europe2.fr" tvg-name="Europe 2" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Europe_2_noir_2024.png" tvg-country="FR" group-title="🎸 Rock & Metal",Europe 2
@@ -1730,16 +1730,14 @@ http://stream.fr.morow.com:8080/morow_hi.aacp
 https://live.4uradios.com/4uhardfm.mp3
 #EXTINF:-1 tvg-id="m40poprock.fr" tvg-name="M40 PopRock" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://m40radio.fr&size=256" tvg-country="FR" group-title="🎸 Rock & Metal",M40 PopRock
 https://live.m40radio.fr/listen/m40-pop-rock/m40-pop-rock-128.mp3
-#EXTINF:-1 tvg-id="veronica60s70s.fr" tvg-name="Veronica 60's & 70's" tvg-logo="https://cdn-profiles.tunein.com/s340127/images/logog.jpg" tvg-country="FR" group-title="🎸 Rock & Metal",Veronica 60's & 70's
-https://eu1.fastcast4u.com/proxy/veronica?mp=/1
+#EXTINF:-1 tvg-id="virginradiometal.fr" tvg-name="VIRGIN RADIO METAL" tvg-logo="https://virginradio.fr/favicon-196.png" tvg-country="FR" group-title="🎸 Rock & Metal",VIRGIN RADIO METAL
+http://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.mp3
 #EXTINF:-1 tvg-id="virageradiorock90.fr" tvg-name="Virage Radio Rock 90" tvg-logo="https://cdn-radiotime-logos.tunein.com/s189734g.png" tvg-country="FR" group-title="🎸 Rock & Metal",Virage Radio Rock 90
 http://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3
 #EXTINF:-1 tvg-id="ouifmclassicrock.fr" tvg-name="OUI FM CLASSIC ROCK" tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" tvg-country="FR" group-title="🎸 Rock & Metal",OUI FM CLASSIC ROCK
 https://ouifm3.ice.infomaniak.ch/ouifm3.mp3
 #EXTINF:-1 tvg-id="ouifmlesslowsdurock.fr" tvg-name="OUI FM LES SLOWS DU ROCK" tvg-logo="https://cdn-profiles.tunein.com/s304990/images/logog.jpg" tvg-country="FR" group-title="🎸 Rock & Metal",OUI FM LES SLOWS DU ROCK
 https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3
-#EXTINF:-1 tvg-id="virginradiometal.fr" tvg-name="VIRGIN RADIO METAL" tvg-logo="https://virginradio.fr/favicon-196.png" tvg-country="FR" group-title="🎸 Rock & Metal",VIRGIN RADIO METAL
-http://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.mp3
 #EXTINF:-1 tvg-id="levillagepop.fr" tvg-name="Le village pop" tvg-logo="http://levillagepop.com/upload/design/5d8b2753920307.42781738.jpg" tvg-country="FR" group-title="🎸 Rock & Metal",Le village pop
 https://listen.radioking.com/radio/200437/stream/243028
 #EXTINF:-1 tvg-id="virageradiolegendesdurock.fr" tvg-name="Virage Radio Légendes du Rock" tvg-logo="https://www.virageradio.com/favicon-196.png" tvg-country="FR" group-title="🎸 Rock & Metal",Virage Radio Légendes du Rock
@@ -1752,10 +1750,14 @@ http://stream2.addictradio.net/addictalternative.mp3
 https://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.aac?i=65804
 #EXTINF:-1 tvg-id="droogies.fr" tvg-name="Droogies" tvg-logo="http://www.droogies.org/css/radio-page/img/logo.png" tvg-country="FR" group-title="🎸 Rock & Metal",Droogies
 http://www.droogies.org:8000/stream
+#EXTINF:-1 tvg-id="veronica60s70s.fr" tvg-name="Veronica 60's & 70's" tvg-logo="https://cdn-profiles.tunein.com/s340127/images/logog.jpg" tvg-country="FR" group-title="🎸 Rock & Metal",Veronica 60's & 70's
+https://eu1.fastcast4u.com/proxy/veronica?mp=/1
 #EXTINF:-1 tvg-id="4u70sflower.fr" tvg-name="4U 70s Flower" tvg-logo="https://www.4urock.com/favicon.svg" tvg-country="FR" group-title="🎸 Rock & Metal",4U 70s Flower
 https://str4uice.streamakaci.com/4u70s.mp3
 #EXTINF:-1 tvg-id="odsradiorock.fr" tvg-name="ODS Radio Rock" tvg-logo="https://www.odsradio.com/favicon-196.png" tvg-country="FR" group-title="🎸 Rock & Metal",ODS Radio Rock
 https://ods-rock.ice.infomaniak.ch/ods-rock.mp3
+#EXTINF:-1 tvg-id="virginradiorockparty.fr" tvg-name="Virgin Radio Rock Party" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://virginradio.fr&size=256" tvg-country="FR" group-title="🎸 Rock & Metal",Virgin Radio Rock Party
+https://virginradio.ice.infomaniak.ch/virgin-radio.mp3
 #EXTINF:-1 tvg-id="kizrockmetal.fr" tvg-name="Kizrock Métal" tvg-logo="https://kizrock.com/wp-content/uploads/2024/07/cropped-Kizrock-5-192x192.png" tvg-country="FR" group-title="🎸 Rock & Metal",Kizrock Métal
 https://go.2stream.net/kizrock_metal
 #EXTINF:-1 tvg-id="allzicradio90s.fr" tvg-name="Allzic Radio 90s" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎸 Rock & Metal",Allzic Radio 90s
@@ -1790,14 +1792,16 @@ https://evcast.mediacp.eu:1165/stream
 https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
 #EXTINF:-1 tvg-id="allzicradiorock.fr" tvg-name="Allzic Radio Rock" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎸 Rock & Metal",Allzic Radio Rock
 http://allzic17.ice.infomaniak.ch/allzic17.mp3
+#EXTINF:-1 tvg-id="rockattack.fr" tvg-name="Rock Attack" tvg-logo="https://www.radioking.com/api/track/cover/92e68f63-3516-4042-b415-e1c2e8c32eb2" tvg-country="FR" group-title="🎸 Rock & Metal",Rock Attack
+https://listen.radioking.com/radio/176026/stream/218008
+#EXTINF:-1 tvg-id="pistachelaradio.fr" tvg-name="Pistache La Radio" tvg-logo="https://www.pistache.org/favicon.ico" tvg-country="FR" group-title="🎸 Rock & Metal",Pistache La Radio
+https://rpstrm.pistache.org:9443/pistache.aac
 #EXTINF:-1 tvg-id="maxifranceradio.fr" tvg-name="Maxi France radio" tvg-logo="https://cdn-profiles.tunein.com/s111879/images/logog.png" tvg-country="FR" group-title="🎸 Rock & Metal",Maxi France radio
 https://stream.maxifrance.radio/stream
 #EXTINF:-1 tvg-id="girlpower.fr" tvg-name="Girl Power" tvg-logo="https://cdn-profiles.tunein.com/s317195/images/logog.png" tvg-country="FR" group-title="🎸 Rock & Metal",Girl Power
 https://scoopgirls.ice.infomaniak.ch/radioscoop-girls-64.aac
 #EXTINF:-1 tvg-id="ouifmgirlsrockaac64k.fr" tvg-name="OUI FM GIRLS ROCK [AAC 64k]" tvg-logo="https://www.ouifm.fr/favicon.ico" tvg-country="FR" group-title="🎸 Rock & Metal",OUI FM GIRLS ROCK [AAC 64k]
 https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.aac
-#EXTINF:-1 tvg-id="virginradiorockparty.fr" tvg-name="Virgin Radio Rock Party" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://virginradio.fr&size=256" tvg-country="FR" group-title="🎸 Rock & Metal",Virgin Radio Rock Party
-https://virginradio.ice.infomaniak.ch/virgin-radio.mp3
 #EXTINF:-1 tvg-id="nostalgierock80.fr" tvg-name="Nostalgie Rock 80" tvg-logo="https://cdn-profiles.tunein.com/s157608/images/logog.jpg" tvg-country="FR" group-title="🎸 Rock & Metal",Nostalgie Rock 80
 https://streaming.nrjaudio.fm/ouw8xhsk6j4d
 #EXTINF:-1 tvg-id="nostalgierock90.fr" tvg-name="Nostalgie Rock 90" tvg-logo="https://cdn-profiles.tunein.com/s159808/images/logog.jpg" tvg-country="FR" group-title="🎸 Rock & Metal",Nostalgie Rock 90
@@ -1822,10 +1826,6 @@ https://radio.musicradio.ai/listen/music_radio_grunge_rock/radio.mp3
 https://radio.musicradio.ai/listen/music_radio_metal/radio.mp3
 #EXTINF:-1 tvg-id="icioccitanie.fr" tvg-name="ICI Occitanie" tvg-logo="https://station-images-prod.radio-assets.com/300/francebleutoulouse.png" tvg-country="FR" group-title="🎸 Rock & Metal",ICI Occitanie
 https://icecast.radiofrance.fr/fbtoulouse-midfi.mp3
-#EXTINF:-1 tvg-id="rockattack.fr" tvg-name="Rock Attack" tvg-logo="https://www.radioking.com/api/track/cover/92e68f63-3516-4042-b415-e1c2e8c32eb2" tvg-country="FR" group-title="🎸 Rock & Metal",Rock Attack
-https://listen.radioking.com/radio/176026/stream/218008
-#EXTINF:-1 tvg-id="pistachelaradio.fr" tvg-name="Pistache La Radio" tvg-logo="https://www.pistache.org/favicon.ico" tvg-country="FR" group-title="🎸 Rock & Metal",Pistache La Radio
-https://rpstrm.pistache.org:9443/pistache.aac
 #EXTINF:-1 tvg-id="bccclassicrockradio.fr" tvg-name="BCC Classic Rock Radio" tvg-logo="https://www.bccrock.fr/media/yootheme/cache/e0/Logo_BCC_ROCK_-e037e6ac.webp?src=images/logo/Logo_BCC_ROCK_.png&thumbnail=400,400,&type=webp,100&hash=c6ecc033" tvg-country="FR" group-title="🎸 Rock & Metal",BCC Classic Rock Radio
 https://radio12.pro-fhi.net/radio/9134/stream.mp3
 #EXTINF:-1 tvg-id="alternantes.fr" tvg-name="AlterNantes" tvg-logo="https://station-images-prod.radio-assets.com/300/alternantes.png" tvg-country="FR" group-title="🎸 Rock & Metal",AlterNantes
@@ -1976,10 +1976,10 @@ https://stream.rcs.revma.com/v4hf7bwspwzuv
 https://my2.radiolize.com/radio/8100/radio.mp3
 #EXTINF:-1 tvg-id="latchoflamenco.fr" tvg-name="Latcho Flamenco" tvg-logo="https://station-images-prod.radio-assets.com/300/latchoflamenco.png" tvg-country="FR" group-title="🌍 Musiques du monde",Latcho Flamenco
 https://listen.radioking.com/radio/109486/stream/148513
-#EXTINF:-1 tvg-id="espacefm.fr" tvg-name="Espace FM" tvg-logo="https://station-images-prod.radio-assets.com/300/espacefm.png" tvg-country="FR" group-title="🌍 Musiques du monde",Espace FM
-http://listen.radioking.com/radio/16769/stream/49487
 #EXTINF:-1 tvg-id="dubissimo.fr" tvg-name="dub🌴'issimo" tvg-logo="https://zeno.fm/favicon.ico" tvg-country="FR" group-title="🌍 Musiques du monde",dub🌴'issimo
 http://stream.zeno.fm/bq72xm4z61zuv
+#EXTINF:-1 tvg-id="espacefm.fr" tvg-name="Espace FM" tvg-logo="https://station-images-prod.radio-assets.com/300/espacefm.png" tvg-country="FR" group-title="🌍 Musiques du monde",Espace FM
+http://listen.radioking.com/radio/16769/stream/49487
 #EXTINF:-1 tvg-id="allzicradiolatino.fr" tvg-name="Allzic Radio Latino" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🌍 Musiques du monde",Allzic Radio Latino
 http://allzic39.ice.infomaniak.ch/allzic39.mp3
 #EXTINF:-1 tvg-id="espacelatino.fr" tvg-name="Espace Latino" tvg-logo="https://station-images-prod.radio-assets.com/300/espacelatino.png" tvg-country="FR" group-title="🌍 Musiques du monde",Espace Latino
@@ -2012,6 +2012,8 @@ http://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
 https://webradio1.ice.infomaniak.ch/webradio1-128.mp3
 #EXTINF:-1 tvg-id="latinalove.fr" tvg-name="Latina love" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286764g.png" tvg-country="FR" group-title="🌍 Musiques du monde",Latina love
 http://latinalove.ice.infomaniak.ch/latinalove.mp3
+#EXTINF:-1 tvg-id="radiocagnac.fr" tvg-name="Radio Cagnac" tvg-logo="https://www.radiocagnac.fr/img/slidertop.jpg" tvg-country="FR" group-title="🌍 Musiques du monde",Radio Cagnac
+http://2stream.dyndns.org:8000/cagnac_sd.mp3
 #EXTINF:-1 tvg-id="kfm.fr" tvg-name="KFM" tvg-logo="https://cdn-profiles.tunein.com/s13144/images/logog.png" tvg-country="FR" group-title="🌍 Musiques du monde",KFM
 http://10191.go2stream.fr:8000/stream
 #EXTINF:-1 tvg-id="africaradionaijawebradio.fr" tvg-name="Africa Radio Naija Webradio" tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/radios/africaradio/radiostream/QP0HYlUIr3/vignette.png" tvg-country="FR" group-title="🌍 Musiques du monde",Africa Radio Naija Webradio
@@ -2050,8 +2052,6 @@ https://radio.musicradio.ai/listen/music_radio_reggae/radio.mp3
 https://streaming.nrjaudio.fm/ou5e7virv93h
 #EXTINF:-1 tvg-id="nostalgieitalia.fr" tvg-name="Nostalgie Italia" tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA-WR-ITALIA.jpg" tvg-country="FR" group-title="🌍 Musiques du monde",Nostalgie Italia
 https://streaming.nrjaudio.fm/oubyqnj25zuw?origine=fluxradios
-#EXTINF:-1 tvg-id="radiocagnac.fr" tvg-name="Radio Cagnac" tvg-logo="https://www.radiocagnac.fr/img/slidertop.jpg" tvg-country="FR" group-title="🌍 Musiques du monde",Radio Cagnac
-http://2stream.dyndns.org:8000/cagnac_sd.mp3
 #EXTINF:-1 tvg-id="allzicradiozouk.fr" tvg-name="🕺 Allzic Radio Zouk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAeMRiwfT_G0MkzgGmbeKtGXCiK19-Xybb5ra4fGd9a4bpI_kx_RhuoZ3j9Xuwg6MTSgfrlMF6BB6YQTgLKAoKkEnuMqmmnNbqbcM-ilOKnjNiOD3khYfzD6krS-AfKoC2mKjRym2xaFMzq_e_RbCXPPqu9phHygrLJhkAH4DLMOBTu5tPBbg99Tiw/s320/Capture%20d%E2%80%99%C3%A9cran_2024-11-21_19-52-06.png" tvg-country="FR" group-title="🌍 Musiques du monde",🕺 Allzic Radio Zouk
 https://allzic28.ice.infomaniak.ch/allzic28.aac
 #EXTINF:-1 tvg-id="rhtguadelouperadiohautetension.fr" tvg-name="RHT Guadeloupe (Radio Haute Tension)" tvg-logo="https://rhtguadeloupe.fr/wp-content/uploads/2026/06/cropped-icon_rht-192x192.png" tvg-country="FR" group-title="🌍 Musiques du monde",RHT Guadeloupe (Radio Haute Tension)
@@ -2174,7 +2174,7 @@ https://radio.independancebouiboui.fr/listen/radio_boui_boui/radio.mp3?refresh=1
 https://streaming.nrjaudio.fm/ou8vs6gk7oiu
 #EXTINF:-1 tvg-id="topitalia2.fr" tvg-name="TOP ITALIA 2" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://topitalia.fr&size=256" tvg-country="FR" group-title="🌍 Musiques du monde",TOP ITALIA 2
 https://manager11.streamradio.fr:1795/stream
-#EXTINF:-1 tvg-id="arvorigfm.fr" tvg-name="Arvorig FM" tvg-logo="https://arvorigfm.bzh/wp-content/uploads/2021/06/favicon.png" tvg-country="FR" group-title="🌍 Musiques du monde",Arvorig FM
+#EXTINF:-1 tvg-id="arvorigfm.fr" tvg-name="Arvorig FM" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://arvorigfm.bzh&size=256" tvg-country="FR" group-title="🌍 Musiques du monde",Arvorig FM
 https://stream.radios.bzh/listen/arvorig/radio.mp3
 #EXTINF:-1 tvg-id="digital2radio.fr" tvg-name="DIGITAL2RADIO" tvg-logo="https://www.digital2radio.com/assets/digital2-logo-carre.png" tvg-country="FR" group-title="🌍 Musiques du monde",DIGITAL2RADIO
 https://ecmanager4.pro-fhi.net:2315/stream
@@ -2220,16 +2220,14 @@ https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill
 http://stream.rfm.fr/rfm-wr6.mp3
 #EXTINF:-1 tvg-id="vipradioshealingmusic.fr" tvg-name="VIP-Radios - Healing Music" tvg-logo="https://www.vip-radios.fm/wp-content/uploads/Logo-HealingMusic.jpg" tvg-country="FR" group-title="😌 Chill & Lounge",VIP-Radios - Healing Music
 http://178.32.111.41:8039/stream-128kmp3-HealingMusic
-#EXTINF:-1 tvg-id="myzenradio.fr" tvg-name="MyZen Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.myzen.tv&size=256" tvg-country="FR" group-title="😌 Chill & Lounge",MyZen Radio
-https://stream.rcs.revma.com/gnn6u7czd8uvv
 #EXTINF:-1 tvg-id="musicradiosleep.fr" tvg-name="Music Radio Sleep" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Sleep&size=256&background=random&bold=true" tvg-country="FR" group-title="😌 Chill & Lounge",Music Radio Sleep
 https://radio.musicradio.ai/listen/music_radio_sleep/radio.mp3
 #EXTINF:-1 tvg-id="addictlounge.fr" tvg-name="Addict Lounge" tvg-logo="https://www.addictradio.net/favicon.jpg" tvg-country="FR" group-title="😌 Chill & Lounge",Addict Lounge
 http://stream1.addictradio.net/addictlounge.mp3
-#EXTINF:-1 tvg-id="allzicradiozen.fr" tvg-name="Allzic Radio Zen" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="😌 Chill & Lounge",Allzic Radio Zen
-http://allzic20.ice.infomaniak.ch/allzic20.mp3
 #EXTINF:-1 tvg-id="nrjchill.fr" tvg-name="NRJ Chill" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjchill.jpeg" tvg-country="FR" group-title="😌 Chill & Lounge",NRJ Chill
 https://streaming.nrjaudio.fm/oumrsk8fnozc
+#EXTINF:-1 tvg-id="myzenradio.fr" tvg-name="MyZen Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.myzen.tv&size=256" tvg-country="FR" group-title="😌 Chill & Lounge",MyZen Radio
+https://stream.rcs.revma.com/gnn6u7czd8uvv
 #EXTINF:-1 tvg-id="nrjrelax.fr" tvg-name="NRJ Relax" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjrelax.jpeg" tvg-country="FR" group-title="😌 Chill & Lounge",NRJ Relax
 https://streaming.nrjaudio.fm/ougo8irb92oc
 #EXTINF:-1 tvg-id="musicradioambient.fr" tvg-name="Music Radio Ambient" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Ambient&size=256&background=random&bold=true" tvg-country="FR" group-title="😌 Chill & Lounge",Music Radio Ambient
@@ -2240,10 +2238,12 @@ http://voltagelounge.ice.infomaniak.ch/voltagelounge-128.mp3
 https://manager8.streamradio.fr:2195/stream
 #EXTINF:-1 tvg-id="phauneradio.fr" tvg-name="Phaune radio" tvg-logo="https://station-images-prod.radio-assets.com/300/phaune.jpeg" tvg-country="FR" group-title="😌 Chill & Lounge",Phaune radio
 http://stream.phauneradio.com/phaune_128
-#EXTINF:-1 tvg-id="cheriefmzen.fr" tvg-name="Chérie FM Zen" tvg-logo="https://station-images-prod.radio-assets.com/300/cheriezen.jpeg" tvg-country="FR" group-title="😌 Chill & Lounge",Chérie FM Zen
-https://streaming.nrjaudio.fm/ouj3acnxeb5p
+#EXTINF:-1 tvg-id="algorythmeloungebossa.fr" tvg-name="Algorythme Lounge & Bossa" tvg-logo="https://www.algorythmeradio.com/assets/images/icon-algo.ico" tvg-country="FR" group-title="😌 Chill & Lounge",Algorythme Lounge & Bossa
+https://radio8.pro-fhi.net/flux-sinllzly/stream
 #EXTINF:-1 tvg-id="frequence3bassefidelite.fr" tvg-name="Fréquence 3+ Basse Fidélité" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3plusbassefidelite.png" tvg-country="FR" group-title="😌 Chill & Lounge",Fréquence 3+ Basse Fidélité
 https://hls.net-radio.fr/Frequence3Plus-15/Frequence3Plus-15.m3u8
+#EXTINF:-1 tvg-id="allzicradiozen.fr" tvg-name="Allzic Radio Zen" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="😌 Chill & Lounge",Allzic Radio Zen
+http://allzic20.ice.infomaniak.ch/allzic20.mp3
 #EXTINF:-1 tvg-id="frequence3chambre404.fr" tvg-name="Fréquence 3+ Chambre 404" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3pluschambre404.png" tvg-country="FR" group-title="😌 Chill & Lounge",Fréquence 3+ Chambre 404
 https://hls.net-radio.fr/Frequence3Plus-20/Frequence3Plus-20.m3u8
 #EXTINF:-1 tvg-id="vipradiosrelaxzone.fr" tvg-name="VIP-Radios - Relax Zone" tvg-logo="https://www.vip-radios.fm/wp-content/uploads/Logo-RelaxZone.jpg" tvg-country="FR" group-title="😌 Chill & Lounge",VIP-Radios - Relax Zone
@@ -2256,8 +2256,8 @@ http://allzic21.ice.infomaniak.ch/allzic21.mp3
 http://stream-283.zeno.fm/h6mzt7ccvsbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoNm16dDdjY3ZzYnV2IiwiaG9zdCI6InN0cmVhbS0yODMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImVOQ2JFQzBZUzlhQjlpbFpqcDhrTWciLCJpYXQiOjE3NzkzNTAxNzcsImV4cCI6MTc3OTM1MDIzN30.DFWa-noIcW1CimrGC7clYhIxL8LF9eAcBHlwrQWR9es
 #EXTINF:-1 tvg-id="zenofmhypnotissimo.fr" tvg-name="ZENO FM - HYPNOtissimo" tvg-logo="https://zeno.fm/_ipx/f_webp&q_85&fit_cover&s_288x288/https://images.zeno.fm/YYNPJHO5wNHx7Hm8tQ6bIj3vkg4FQW64oMBvitFZ_As/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F3ZjNkdmdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFxYm5WNXdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU3MjE2MDAwMA.webp" tvg-country="FR" group-title="😌 Chill & Lounge",ZENO FM - HYPNOtissimo
 https://stream.zeno.fm/m7rg3ynt9k0uv
-#EXTINF:-1 tvg-id="algorythmeloungebossa.fr" tvg-name="Algorythme Lounge & Bossa" tvg-logo="https://www.algorythmeradio.com/assets/images/icon-algo.ico" tvg-country="FR" group-title="😌 Chill & Lounge",Algorythme Lounge & Bossa
-https://radio8.pro-fhi.net/flux-sinllzly/stream
+#EXTINF:-1 tvg-id="cheriefmzen.fr" tvg-name="Chérie FM Zen" tvg-logo="https://station-images-prod.radio-assets.com/300/cheriezen.jpeg" tvg-country="FR" group-title="😌 Chill & Lounge",Chérie FM Zen
+https://streaming.nrjaudio.fm/ouj3acnxeb5p
 #EXTINF:-1 tvg-id="radioflemme.fr" tvg-name="Radio Flemme" tvg-logo="https://cdn-radiotime-logos.tunein.com/s17210g.png" tvg-country="FR" group-title="😌 Chill & Lounge",Radio Flemme
 http://str45.streamakaci.com:8014/
 #EXTINF:-1 tvg-id="vibrationlounge.fr" tvg-name="Vibration Lounge" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" tvg-country="FR" group-title="😌 Chill & Lounge",Vibration Lounge
@@ -2296,10 +2296,10 @@ https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm
 https://streaming.nrjaudio.fm/ougfkxrb92oc
 #EXTINF:-1 tvg-id="chantefrance60s.fr" tvg-name="Chante France 60's" tvg-logo="https://cdn-profiles.tunein.com/s287064/images/logog.png" tvg-country="FR" group-title="🕺 Années 60-90",Chante France 60's
 http://stream.chantefrance.com/cf-60
-#EXTINF:-1 tvg-id="allzicradio80s.fr" tvg-name="Allzic Radio 80s" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🕺 Années 60-90",Allzic Radio 80s
-http://allzic08.ice.infomaniak.ch/allzic08.mp3
 #EXTINF:-1 tvg-id="chantefrance70s.fr" tvg-name="Chante France 70's" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.chantefrance.com&size=256" tvg-country="FR" group-title="🕺 Années 60-90",Chante France 70's
 http://stream.chantefrance.com/cf-70
+#EXTINF:-1 tvg-id="allzicradio80s.fr" tvg-name="Allzic Radio 80s" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🕺 Années 60-90",Allzic Radio 80s
+http://allzic08.ice.infomaniak.ch/allzic08.mp3
 #EXTINF:-1 tvg-id="nostalgie80lestubesn1.fr" tvg-name="Nostalgie 80 Les Tubes N°1" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgie80lestubesn1.png" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie 80 Les Tubes N°1
 https://streaming.nrjaudio.fm/ouo6im7nfibk
 #EXTINF:-1 tvg-id="melodyvintageradio.fr" tvg-name="Melody Vintage Radio" tvg-logo="https://station-images-prod.radio-assets.com/300/melodyvintage.png" tvg-country="FR" group-title="🕺 Années 60-90",Melody Vintage Radio
@@ -2370,8 +2370,8 @@ https://alouette-chateauroux.ice.infomaniak.ch/alouette-chateauroux-128.mp3
 https://streaming.nrjaudio.fm/oufdcptx4thg
 #EXTINF:-1 tvg-id="nostalgiebigben.fr" tvg-name="Nostalgie Big Ben" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgiebigben.jpeg" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie Big Ben
 https://streaming.nrjaudio.fm/ouwrajsk6j4d
-#EXTINF:-1 tvg-id="nostalgieslow80.fr" tvg-name="Nostalgie Slow 80" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieslow80.png" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie Slow 80
-https://streaming.nrjaudio.fm/oufdxmtx4thg
+#EXTINF:-1 tvg-id="nostalgielesplusgrandstubes.fr" tvg-name="Nostalgie Les Plus Grands Tubes" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgietop100.jpeg" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie Les Plus Grands Tubes
+https://streaming.nrjaudio.fm/ourf3jvukkaq
 #EXTINF:-1 tvg-id="frequence3frenchcollector.fr" tvg-name="Fréquence 3+ French Collector" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3plusfrenchcollector.png" tvg-country="FR" group-title="🕺 Années 60-90",Fréquence 3+ French Collector
 https://hls.net-radio.fr/Frequence3Plus-5/Frequence3Plus-5.m3u8
 #EXTINF:-1 tvg-id="voltage90s.fr" tvg-name="Voltage 90's" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286697g.png" tvg-country="FR" group-title="🕺 Années 60-90",Voltage 90's
@@ -2404,8 +2404,6 @@ http://vibration90s.ice.infomaniak.ch/vibration90s.mp3
 https://streaming.nrjaudio.fm/oumvgz8fnozc
 #EXTINF:-1 tvg-id="upextra.fr" tvg-name="Up Extra" tvg-logo="https://ui-avatars.com/api/?name=Up+Extra&size=256&background=random&bold=true" tvg-country="FR" group-title="🕺 Années 60-90",Up Extra
 http://upextra.ovh:8054/up-extra
-#EXTINF:-1 tvg-id="nostalgielesplusgrandstubes.fr" tvg-name="Nostalgie Les Plus Grands Tubes" tvg-logo="https://station-images-prod.radio-assets.com/300/nostalgietop100.jpeg" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie Les Plus Grands Tubes
-https://streaming.nrjaudio.fm/ourf3jvukkaq
 #EXTINF:-1 tvg-id="nostalgieavignon.fr" tvg-name="Nostalgie Avignon" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieavignon.png" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie Avignon
 https://streaming.nrjaudio.fm/ou62vmxp336f
 #EXTINF:-1 tvg-id="sunshineradio.fr" tvg-name="Sunshine Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s118816g.png" tvg-country="FR" group-title="🕺 Années 60-90",Sunshine Radio
@@ -2416,6 +2414,8 @@ https://streaming.nrjaudio.fm/ou87iagk7oiu
 https://streaming.nrjaudio.fm/ou5evgirv93h
 #EXTINF:-1 tvg-id="frequence3collector.fr" tvg-name="Fréquence 3+ Collector" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3pluscollector.png" tvg-country="FR" group-title="🕺 Années 60-90",Fréquence 3+ Collector
 https://hls.net-radio.fr/Frequence3Plus-1/Frequence3Plus-1.m3u8
+#EXTINF:-1 tvg-id="nostalgieslow80.fr" tvg-name="Nostalgie Slow 80" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/nostalgieslow80.png" tvg-country="FR" group-title="🕺 Années 60-90",Nostalgie Slow 80
+https://streaming.nrjaudio.fm/oufdxmtx4thg
 #EXTINF:-1 tvg-id="frequence3scopitone.fr" tvg-name="Fréquence 3+ Scopitone" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3plusscopitone.png" tvg-country="FR" group-title="🕺 Années 60-90",Fréquence 3+ Scopitone
 https://hls.net-radio.fr/Frequence3Plus-21/Frequence3Plus-21.m3u8
 #EXTINF:-1 tvg-id="radiomemorymusic.fr" tvg-name="RadioMemoryMusic" tvg-logo="https://ui-avatars.com/api/?name=RadioMemoryMusic&size=256&background=random&bold=true" tvg-country="FR" group-title="🕺 Années 60-90",RadioMemoryMusic
@@ -2584,12 +2584,12 @@ http://stream.chantefrance.com/cf-nouveautes.aac
 https://streaming.nrjaudio.fm/ou5eecirv93h
 #EXTINF:-1 tvg-id="allzicradionouveautesfrancaises.fr" tvg-name="ALLZIC RADIO NOUVEAUTES FRANCAISES" tvg-logo="https://www.allzicradio.com/media/radios/nouveautes-francaises-by-allzic_69d21446d2116.jpg" tvg-country="FR" group-title="🇫🇷 Chanson française",ALLZIC RADIO NOUVEAUTES FRANCAISES
 https://allzic23.ice.infomaniak.ch/allzic23.mp3
+#EXTINF:-1 tvg-id="rirechansonsstandup.fr" tvg-name="Rire & Chansons Stand Up" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsstandup.png" tvg-country="FR" group-title="🇫🇷 Chanson française",Rire & Chansons Stand Up
+https://streaming.nrjaudio.fm/oua8brw2dqao
 #EXTINF:-1 tvg-id="francebleu100chansonfrancaise.fr" tvg-name="France Bleu 100% chanson française" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="🇫🇷 Chanson française",France Bleu 100% chanson française
 https://icecast.radiofrance.fr/fbchansonfrancaise-midfi.mp3
 #EXTINF:-1 tvg-id="chansonsoublieesoupresque.fr" tvg-name="Chansons oubliees ou presque" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://lasourcedelian.wixsite.com&size=256" tvg-country="FR" group-title="🇫🇷 Chanson française",Chansons oubliees ou presque
 https://manager7.streamradio.fr:2580/stream?1701295921862
-#EXTINF:-1 tvg-id="rirechansonsstandup.fr" tvg-name="Rire & Chansons Stand Up" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/rirechansonsstandup.png" tvg-country="FR" group-title="🇫🇷 Chanson française",Rire & Chansons Stand Up
-https://streaming.nrjaudio.fm/oua8brw2dqao
 #EXTINF:-1 tvg-id="radiovaticanafrancais.fr" tvg-name="Radio Vaticana Francais" tvg-logo="https://raw.githubusercontent.com/gautierbastien-cmyk/radios-fr/main/logos/miroir/radiovaticanafrancais.png" tvg-country="FR" group-title="🇫🇷 Chanson française",Radio Vaticana Francais
 https://radio.vaticannews.va/stream-fr
 #EXTINF:-1 tvg-id="mradiochansonsdamour.fr" tvg-name="M Radio Chansons d'amour" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🇫🇷 Chanson française",M Radio Chansons d'amour
@@ -2702,10 +2702,10 @@ https://streaming.nrjaudio.fm/ou5k6tirv93h
 http://100radio-hit.ice.infomaniak.ch/100radio-hit-128.mp3
 #EXTINF:-1 tvg-id="cheriefm2000.fr" tvg-name="Chérie FM 2000" tvg-logo="https://station-images-prod.radio-assets.com/300/cherie2000.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM 2000
 https://streaming.nrjaudio.fm/ouf2ebtx4thg
-#EXTINF:-1 tvg-id="nrjclermont.fr" tvg-name="NRJ Clermont" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Clermont
-https://streaming.nrjaudio.fm/oumrck8fnozc
 #EXTINF:-1 tvg-id="rfmlaradiocouleur.fr" tvg-name="RFM - La Radio Couleur" tvg-logo="https://cdn-profiles.tunein.com/s309638/images/logog.png" tvg-country="FR" group-title="🎉 Hits & Pop",RFM - La Radio Couleur
 https://stream.rfm.fr/rfm-wr3.aac
+#EXTINF:-1 tvg-id="nrjclermont.fr" tvg-name="NRJ Clermont" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Clermont
+https://streaming.nrjaudio.fm/oumrck8fnozc
 #EXTINF:-1 tvg-id="rfmparty90.fr" tvg-name="RFM PARTY 90" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rfm.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",RFM PARTY 90
 https://rfm.lmn.fm/rfm-wr5.aac
 #EXTINF:-1 tvg-id="nrjrennes.fr" tvg-name="NRJ Rennes" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Rennes
@@ -2720,8 +2720,6 @@ http://stream.rfm.fr/rfm-wr4.mp3
 http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
 #EXTINF:-1 tvg-id="nrjnewhitsfriday.fr" tvg-name="Nrj New Hits Friday" tvg-logo="https://cdn-profiles.tunein.com/s320208/images/logog.jpg" tvg-country="FR" group-title="🎉 Hits & Pop",Nrj New Hits Friday
 https://streaming.nrjaudio.fm/ou8vstgk7oiu?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-New-Hits-Friday
-#EXTINF:-1 tvg-id="nrjrihanna.fr" tvg-name="NRJ Rihanna" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjrihanna.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Rihanna
-https://streaming.nrjaudio.fm/ouh8nqapu6pb
 #EXTINF:-1 tvg-id="pulsradiohits.fr" tvg-name="PulsRadio Hits" tvg-logo="https://www.pulsradio.com/apple-icon-180x180.png" tvg-country="FR" group-title="🎉 Hits & Pop",PulsRadio Hits
 http://193.200.43.23/hitpartyHD.mp3
 #EXTINF:-1 tvg-id="nrjpop.fr" tvg-name="NRJ POP" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjpop.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ POP
@@ -2734,12 +2732,14 @@ https://streaming.brol.tech/jamendolounge
 http://allzic25.ice.infomaniak.ch/allzic25.mp3
 #EXTINF:-1 tvg-id="nrjdavidguetta.fr" tvg-name="NRJ David Guetta" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjdavidguetta.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ David Guetta
 https://streaming.nrjaudio.fm/outdax6ubafg
-#EXTINF:-1 tvg-id="100grossestetes.fr" tvg-name="100% Grosses Têtes" tvg-logo="https://www.rtl.fr/favicon.svg" tvg-country="FR" group-title="🎉 Hits & Pop",100% Grosses Têtes
-https://hls.m6radio.quortex.io/ssairadio/webradio/les-grosses-tetes/short/audio-64000/index.m3u8
-#EXTINF:-1 tvg-id="nrj10000hits.fr" tvg-name="NRJ 10 000 Hits" tvg-logo="https://cdn-profiles.tunein.com/s323800/images/logog.jpg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ 10 000 Hits
-https://streaming.nrjaudio.fm/oumvnn8fnozc
 #EXTINF:-1 tvg-id="virginfrance.fr" tvg-name="VIRGIN FRANCE" tvg-logo="https://station-images-prod.radio-assets.com/300/virginradioitaly.png" tvg-country="FR" group-title="🎉 Hits & Pop",VIRGIN FRANCE
 http://virginradio.ice.infomaniak.ch/virgin-radio.mp3
+#EXTINF:-1 tvg-id="100grossestetes.fr" tvg-name="100% Grosses Têtes" tvg-logo="https://www.rtl.fr/favicon.svg" tvg-country="FR" group-title="🎉 Hits & Pop",100% Grosses Têtes
+https://hls.m6radio.quortex.io/ssairadio/webradio/les-grosses-tetes/short/audio-64000/index.m3u8
+#EXTINF:-1 tvg-id="nrjrihanna.fr" tvg-name="NRJ Rihanna" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjrihanna.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Rihanna
+https://streaming.nrjaudio.fm/ouh8nqapu6pb
+#EXTINF:-1 tvg-id="nrj10000hits.fr" tvg-name="NRJ 10 000 Hits" tvg-logo="https://cdn-profiles.tunein.com/s323800/images/logog.jpg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ 10 000 Hits
+https://streaming.nrjaudio.fm/oumvnn8fnozc
 #EXTINF:-1 tvg-id="nrjbordeaux.fr" tvg-name="NRJ Bordeaux" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Bordeaux
 https://streaming.nrjaudio.fm/ou3i72uizv6i
 #EXTINF:-1 tvg-id="nrjcestmarseillebebe.fr" tvg-name="NRJ C'est Marseille Bébé" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjcestmarseillebebe.png" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ C'est Marseille Bébé
@@ -2774,6 +2774,8 @@ https://streaming.nrjaudio.fm/ouvf45oarp52
 https://streaming.nrjaudio.fm/ou8vhogk7oiu
 #EXTINF:-1 tvg-id="gayradiofr.fr" tvg-name="Gay Radio FR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96482g.png" tvg-country="FR" group-title="🎉 Hits & Pop",Gay Radio FR
 https://srv.webradiomanager.fr:1285/stream?x=1745084131773
+#EXTINF:-1 tvg-id="mradiotubesdugrenierwebradio.fr" tvg-name="M Radio Tubes du Grenier - Webradio" tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" tvg-country="FR" group-title="🎉 Hits & Pop",M Radio Tubes du Grenier - Webradio
+http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3
 #EXTINF:-1 tvg-id="cheriefmtoulon.fr" tvg-name="Chérie FM Toulon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cheriefm.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Toulon
 https://streaming.nrjaudio.fm/ougoabrb92oc
 #EXTINF:-1 tvg-id="tonicradiovillefranche.fr" tvg-name="Tonic Radio Villefranche" tvg-logo="https://cdn-radiotime-logos.tunein.com/s149404g.png" tvg-country="FR" group-title="🎉 Hits & Pop",Tonic Radio Villefranche
@@ -2782,20 +2784,32 @@ http://tonicradiovillefranche.ice.infomaniak.ch/tonicradiovillefranche.mp3
 https://diffusion.lafrap.fr/sun-junior.mp3
 #EXTINF:-1 tvg-id="musicradiokpop.fr" tvg-name="Music Radio K-pop" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+K-pop&size=256&background=random&bold=true" tvg-country="FR" group-title="🎉 Hits & Pop",Music Radio K-pop
 https://radio.musicradio.ai/listen/music_radio_k-pop/radio.mp3
+#EXTINF:-1 tvg-id="nrjdjbens.fr" tvg-name="NRJ DJ Bens" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjdjbens.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ DJ Bens
+https://streaming.nrjaudio.fm/ouhs78apu6pb
+#EXTINF:-1 tvg-id="ondiradio.fr" tvg-name="Ondi Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fhits.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Ondi Radio
+https://str3.openstream.co/1637?aw_0_1st.collectionid%3D5462%26stationId%3D5462%26publisherId%3D1661%26k%3D1792398617
 #EXTINF:-1 tvg-id="nrjacoustichits.fr" tvg-name="NRJ Acoustic Hits" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjacoustichits.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Acoustic Hits
 https://streaming.nrjaudio.fm/ou3iqcuizv6i
 #EXTINF:-1 tvg-id="cheriefmausoleil.fr" tvg-name="Chérie FM Au Soleil" tvg-logo="https://station-images-prod.radio-assets.com/300/cherieausoleil.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Au Soleil
 https://streaming.nrjaudio.fm/ou2j2zpw5hs7
 #EXTINF:-1 tvg-id="cheriefmfeelgoodmusic.fr" tvg-name="Chérie FM Feel Good Music" tvg-logo="https://station-images-prod.radio-assets.com/300/cheriefeelgoodmusic.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Feel Good Music
 https://streaming.nrjaudio.fm/ouhshkapu6pb
+#EXTINF:-1 tvg-id="topmusique.fr" tvg-name="Top Musique" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.topmusic.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Top Musique
+http://sc.creacast.com/topmusic_colmar
 #EXTINF:-1 tvg-id="cheriefmlaplaylistde2006.fr" tvg-name="Chérie FM La Playlist de 2006" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cheriefm.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM La Playlist de 2006
 https://streaming.nrjaudio.fm/ousvnim4z85f
 #EXTINF:-1 tvg-id="nrjhits2010.fr" tvg-name="NRJ Hits 2010'" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjhits2010.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Hits 2010'
 https://streaming.nrjaudio.fm/ouamh3w2dqao
 #EXTINF:-1 tvg-id="nrjtropicalhits.fr" tvg-name="NRJ Tropical Hits" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjtropicalhits.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Tropical Hits
 https://streaming.nrjaudio.fm/ou87zmgk7oiu
+#EXTINF:-1 tvg-id="nrjhits2025.fr" tvg-name="NRJ Hits 2025" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjhits2025.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Hits 2025
+https://streaming.nrjaudio.fm/ouuc385n3nje
 #EXTINF:-1 tvg-id="cheriefmlaplaylist2000.fr" tvg-name="Chérie FM La Playlist 2000" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cheriefm.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM La Playlist 2000
 https://streaming.nrjaudio.fm/ouhmbtapu6pb
+#EXTINF:-1 tvg-id="cheriefmnouveautes.fr" tvg-name="Chérie FM Nouveautés" tvg-logo="https://station-images-prod.radio-assets.com/300/cherienouveautes.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Nouveautés
+https://streaming.nrjaudio.fm/oubyh4j25zuw
+#EXTINF:-1 tvg-id="nrjhitsdumoment.fr" tvg-name="NRJ Hits du Moment" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjhitsdumoment.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Hits du Moment
+https://streaming.nrjaudio.fm/ouqiikyoeo8p
 #EXTINF:-1 tvg-id="radiorwl.fr" tvg-name="Radio RWL" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://radiorwl.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Radio RWL
 https://ecmanager3.pro-fhi.net:1835/stream
 #EXTINF:-1 tvg-id="nrjibiza.fr" tvg-name="NRJ Ibiza" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjibizafr.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Ibiza
@@ -2810,8 +2824,6 @@ https://streaming.nrjaudio.fm/ou6pk3xp336f?origine=fluxradios&aw_0_1st.station=C
 http://178.32.222.164:8002/;stream.mp3
 #EXTINF:-1 tvg-id="nrjlille.fr" tvg-name="NRJ Lille" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Lille
 https://streaming.nrjaudio.fm/oupnmfbgddr9
-#EXTINF:-1 tvg-id="atlanticaradio.fr" tvg-name=".. Atlantica Radio.." tvg-logo="https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-192x192.png" tvg-country="FR" group-title="🎉 Hits & Pop",.. Atlantica Radio..
-http://radios.topymedia.com:8000/stream/;.mp3
 #EXTINF:-1 tvg-id="cheriefmalbi.fr" tvg-name="Chérie FM Albi" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cheriefm.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Albi
 https://streaming.nrjaudio.fm/ou3i2yuizv6i
 #EXTINF:-1 tvg-id="cheriefmannecy.fr" tvg-name="Chérie FM Annecy" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cheriefm.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Annecy
@@ -2848,8 +2860,6 @@ https://streaming.nrjaudio.fm/ou3i48uizv6i
 https://streaming.nrjaudio.fm/oujy7mnxeb5p
 #EXTINF:-1 tvg-id="mixmaxiradio.fr" tvg-name="Mix Maxi Radio" tvg-logo="https://ui-avatars.com/api/?name=Mix+Maxi+Radio&size=256&background=random&bold=true" tvg-country="FR" group-title="🎉 Hits & Pop",Mix Maxi Radio
 https://ecmanager.pro-fhi.net:1455/stream
-#EXTINF:-1 tvg-id="mradiotubesdugrenierwebradio.fr" tvg-name="M Radio Tubes du Grenier - Webradio" tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" tvg-country="FR" group-title="🎉 Hits & Pop",M Radio Tubes du Grenier - Webradio
-http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3
 #EXTINF:-1 tvg-id="cheriefmsablesursarthe.fr" tvg-name="Chérie FM Sablé-sur-Sarthe" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cheriefm.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Sablé-sur-Sarthe
 https://streaming.nrjaudio.fm/ouucja5n3nje
 #EXTINF:-1 tvg-id="europe2paysdelaloire.fr" tvg-name="Europe 2 Pays de la Loire" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.europe2.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Europe 2 Pays de la Loire
@@ -2878,12 +2888,8 @@ https://streaming.nrjaudio.fm/ou8ve8gk7oiu
 https://streaming.nrjaudio.fm/ouoxzr7nfibk
 #EXTINF:-1 tvg-id="nrjdeep.fr" tvg-name="NRJ Deep" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjdeep.png" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Deep
 https://streaming.nrjaudio.fm/ouhseuapu6pb
-#EXTINF:-1 tvg-id="nrjdjbens.fr" tvg-name="NRJ DJ Bens" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjdjbens.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ DJ Bens
-https://streaming.nrjaudio.fm/ouhs78apu6pb
 #EXTINF:-1 tvg-id="nrj10ansdehits.fr" tvg-name="NRJ 10 Ans de Hits" tvg-logo="https://cdn-profiles.tunein.com/s326285/images/logog.jpg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ 10 Ans de Hits
 https://streaming.nrjaudio.fm/ou7xztf3s5gi
-#EXTINF:-1 tvg-id="ondiradio.fr" tvg-name="Ondi Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fhits.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Ondi Radio
-https://str3.openstream.co/1637?aw_0_1st.collectionid%3D5462%26stationId%3D5462%26publisherId%3D1661%26k%3D1792398617
 #EXTINF:-1 tvg-id="frequence3aac64kbps.fr" tvg-name="Frequence 3 AAC+ 64Kbps" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.frequence3.com&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Frequence 3 AAC+ 64Kbps
 https://frequence3.net-radio.fr/frequence3-64.aac
 #EXTINF:-1 tvg-id="rfmcollector.fr" tvg-name="RFM Collector" tvg-logo="https://cdn-profiles.tunein.com/s139135/images/logog.jpg" tvg-country="FR" group-title="🎉 Hits & Pop",RFM Collector
@@ -2902,8 +2908,6 @@ https://streaming.nrjaudio.fm/ouycwb36zcw2?origine=playernrj&aw_0_req.userConsen
 https://streaming.nrjaudio.fm/ou7dirf3s5gi
 #EXTINF:-1 tvg-id="cheriefmcrazyinlove.fr" tvg-name="Chérie FM Crazy In Love" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cheriefm.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Crazy In Love
 https://streaming.nrjaudio.fm/ou767if3s5gi
-#EXTINF:-1 tvg-id="topmusique.fr" tvg-name="Top Musique" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.topmusic.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",Top Musique
-http://sc.creacast.com/topmusic_colmar
 #EXTINF:-1 tvg-id="nrjsupperstars2000.fr" tvg-name="NRJ Supperstars 2000" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjsuperstars2000.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Supperstars 2000
 https://streaming.nrjaudio.fm/ourtndvukkaq
 #EXTINF:-1 tvg-id="cheriefmgeneration2000.fr" tvg-name="Chérie FM Génération 2000" tvg-logo="https://station-images-prod.radio-assets.com/300/cheriegeneration2000.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Génération 2000
@@ -2912,18 +2916,12 @@ https://streaming.nrjaudio.fm/out2zo6ubafg
 https://europe2.lmn.fm/europe2-37000/playlist.m3u8
 #EXTINF:-1 tvg-id="nrjhits2000.fr" tvg-name="NRJ Hits 2000'" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjhits2000.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Hits 2000'
 https://streaming.nrjaudio.fm/ouotn47nfibk
-#EXTINF:-1 tvg-id="nrjhits2025.fr" tvg-name="NRJ Hits 2025" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjhits2025.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Hits 2025
-https://streaming.nrjaudio.fm/ouuc385n3nje
 #EXTINF:-1 tvg-id="nrjhits90.fr" tvg-name="NRJ Hits 90" tvg-logo="https://cdn-profiles.tunein.com/s259316/images/logog.jpg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Hits 90
 https://streaming.nrjaudio.fm/ou627gxp336f
 #EXTINF:-1 tvg-id="cheriefmnorepeat.fr" tvg-name="Chérie FM No Repeat" tvg-logo="https://station-images-prod.radio-assets.com/300/cherienorepeat.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM No Repeat
 https://streaming.nrjaudio.fm/ouy5yr36zcw2
 #EXTINF:-1 tvg-id="nrjhitsafrodelete.fr" tvg-name="NRJ Hits Afro de L'Eté" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjhitsafrodelete.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Hits Afro de L'Eté
 https://streaming.nrjaudio.fm/ouag4vw2dqao
-#EXTINF:-1 tvg-id="cheriefmnouveautes.fr" tvg-name="Chérie FM Nouveautés" tvg-logo="https://station-images-prod.radio-assets.com/300/cherienouveautes.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Nouveautés
-https://streaming.nrjaudio.fm/oubyh4j25zuw
-#EXTINF:-1 tvg-id="nrjhitsdumoment.fr" tvg-name="NRJ Hits du Moment" tvg-logo="https://station-images-prod.radio-assets.com/300/nrjhitsdumoment.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Hits du Moment
-https://streaming.nrjaudio.fm/ouqiikyoeo8p
 #EXTINF:-1 tvg-id="tonicradiobourgoin.fr" tvg-name="Tonic Radio Bourgoin" tvg-logo="https://cdn-radiotime-logos.tunein.com/s149405g.png" tvg-country="FR" group-title="🎉 Hits & Pop",Tonic Radio Bourgoin
 http://tonicradiobourgoin.ice.infomaniak.ch/tonicradiobourgoin.mp3
 #EXTINF:-1 tvg-id="cheriefmsweethome.fr" tvg-name="Chérie FM Sweet Home" tvg-logo="https://station-images-prod.radio-assets.com/300/cheriesweethome.jpeg" tvg-country="FR" group-title="🎉 Hits & Pop",Chérie FM Sweet Home
@@ -2972,8 +2970,8 @@ https://streaming.nrjaudio.fm/ouw8wysk6j4d?origine=fluxradios&aw_0_1st.station=C
 https://streaming.nrjaudio.fm/ou5kahirv93h
 #EXTINF:-1 tvg-id="nrjmortagne.fr" tvg-name="NRJ Mortagne" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Mortagne
 https://streaming.nrjaudio.fm/outds26ubafg
-#EXTINF:-1 tvg-id="lyxiaradio.fr" tvg-name="Lyxia Radio" tvg-logo="https://cdn-profiles.tunein.com/s343097/images/logog.png?t=2" tvg-country="FR" group-title="🎉 Hits & Pop",Lyxia Radio
-https://radio.helyxia.fr/listen/lyxia/radio.mp3?t=1793111228890
+#EXTINF:-1 tvg-id="atlanticaradio.fr" tvg-name=".. Atlantica Radio.." tvg-logo="https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-192x192.png" tvg-country="FR" group-title="🎉 Hits & Pop",.. Atlantica Radio..
+http://radios.topymedia.com:8000/stream/;.mp3
 #EXTINF:-1 tvg-id="nrjnantes.fr" tvg-name="NRJ Nantes" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Nantes
 https://streaming.nrjaudio.fm/ou76apf3s5gi
 #EXTINF:-1 tvg-id="nrjnice.fr" tvg-name="NRJ Nice" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Nice
@@ -3268,6 +3266,8 @@ https://streaming.nrjaudio.fm/ouamq4w2dqao
 http://ecmanager2.pro-fhi.net:1220/;?type=http&nocache=1784537822
 #EXTINF:-1 tvg-id="nrjnancy.fr" tvg-name="NRJ Nancy" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Nancy
 https://streaming.nrjaudio.fm/ouucdz5n3nje
+#EXTINF:-1 tvg-id="lyxiaradio.fr" tvg-name="Lyxia Radio" tvg-logo="https://cdn-profiles.tunein.com/s343097/images/logog.png?t=2" tvg-country="FR" group-title="🎉 Hits & Pop",Lyxia Radio
+https://radio.helyxia.fr/listen/lyxia/radio.mp3?t=1793111228890
 #EXTINF:-1 tvg-id="nrjcompiegne.fr" tvg-name="NRJ Compiègne" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎉 Hits & Pop",NRJ Compiègne
 https://streaming.nrjaudio.fm/ouhs3iapu6pb
 #EXTINF:-1 tvg-id="livenationradio.fr" tvg-name="Live Nation Radio" tvg-logo="https://networksites.livenationinternational.com/networksites/qlnlvvtn/ln-radio-stacked-4.jpg" tvg-country="FR" group-title="🎉 Hits & Pop",Live Nation Radio
@@ -3376,30 +3376,28 @@ https://esperance.streamakaci.com/gregorien.mp3
 http://dreamsiteradiocp4.com:8056/
 #EXTINF:-1 tvg-id="francebleurcfm.fr" tvg-name="France Bleu RCFM" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="✝️ Religieux",France Bleu RCFM
 http://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3
-#EXTINF:-1 tvg-id="jazzradiogospel.fr" tvg-name="Jazz Radio Gospel" tvg-logo="https://cdn-radiotime-logos.tunein.com/s191590g.png" tvg-country="FR" group-title="✝️ Religieux",Jazz Radio Gospel
-http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3
 #EXTINF:-1 tvg-id="radioesperancelouange.fr" tvg-name="Radio Espérance Louange" tvg-logo="https://station-images-prod.radio-assets.com/300/esperancelouange.png" tvg-country="FR" group-title="✝️ Religieux",Radio Espérance Louange
 https://esperance.streamakaci.com/louange.mp3
 #EXTINF:-1 tvg-id="radioesperanceenseignement.fr" tvg-name="Radio Espérance Enseignement" tvg-logo="https://station-images-prod.radio-assets.com/300/esperancereneignement.png" tvg-country="FR" group-title="✝️ Religieux",Radio Espérance Enseignement
 https://esperance.streamakaci.com/enseignement.mp3
 #EXTINF:-1 tvg-id="radioesperanceparolededieu.fr" tvg-name="Radio Espérance Parole de Dieu" tvg-logo="https://cdn-profiles.tunein.com/s225608/images/logog.png" tvg-country="FR" group-title="✝️ Religieux",Radio Espérance Parole de Dieu
 https://esperance.streamakaci.com/parole-de-dieu.mp3
+#EXTINF:-1 tvg-id="jazzradiogospel.fr" tvg-name="Jazz Radio Gospel" tvg-logo="https://cdn-radiotime-logos.tunein.com/s191590g.png" tvg-country="FR" group-title="✝️ Religieux",Jazz Radio Gospel
+http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3
+#EXTINF:-1 tvg-id="swingfm.fr" tvg-name="Swing FM" tvg-logo="https://www.swingfm.asso.fr/wp-content/themes/bsi_swingfm/img/logo_d.png" tvg-country="FR" group-title="✝️ Religieux",Swing FM
+http://swingfm.ice.infomaniak.ch/swingfm-128.mp3
 #EXTINF:-1 tvg-id="radioesperancemusiquesacree.fr" tvg-name="Radio Espérance Musique Sacrée" tvg-logo="https://station-images-prod.radio-assets.com/300/esperancemusiquesacree.png" tvg-country="FR" group-title="✝️ Religieux",Radio Espérance Musique Sacrée
 https://esperance.streamakaci.com/musique.mp3
 #EXTINF:-1 tvg-id="pharefmlouange.fr" tvg-name="Phare FM Louange" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://pharefm.com&size=256" tvg-country="FR" group-title="✝️ Religieux",Phare FM Louange
 http://str0.creacast.com/pharefm_louange
 #EXTINF:-1 tvg-id="pharefmworship.fr" tvg-name="Phare FM Worship" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://pharefm.com&size=256" tvg-country="FR" group-title="✝️ Religieux",Phare FM Worship
 http://str30.creacast.com/pharefm_worship
-#EXTINF:-1 tvg-id="swingfm.fr" tvg-name="Swing FM" tvg-logo="https://www.swingfm.asso.fr/wp-content/themes/bsi_swingfm/img/logo_d.png" tvg-country="FR" group-title="✝️ Religieux",Swing FM
-http://swingfm.ice.infomaniak.ch/swingfm-128.mp3
 #EXTINF:-1 tvg-id="frequence3ultratubesdenoel.fr" tvg-name="Fréquence 3+ Ultra Tubes de Noël" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3plusxmasultratubes.png" tvg-country="FR" group-title="✝️ Religieux",Fréquence 3+ Ultra Tubes de Noël
 https://hls.net-radio.fr/Frequence3Plus-12/Frequence3Plus-12.m3u8
 #EXTINF:-1 tvg-id="radionotredamelowerbitrate.fr" tvg-name="Radio Notre Dame (lower bitrate)" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://radionotredame.net&size=256" tvg-country="FR" group-title="✝️ Religieux",Radio Notre Dame (lower bitrate)
 https://windu.radionotredame.net/RadioNotreDame-Fm.mp3
 #EXTINF:-1 tvg-id="radioesperanceenmarie.fr" tvg-name="Radio Espérance En Marie" tvg-logo="https://cdn-profiles.tunein.com/s225851/images/logog.png" tvg-country="FR" group-title="✝️ Religieux",Radio Espérance En Marie
 https://esperance.streamakaci.com/aufil.mp3
-#EXTINF:-1 tvg-id="adhan92100.fr" tvg-name="Adhan-92100" tvg-logo="https://cdn-profiles.tunein.com/s350855/images/logod.png?t=639027000500000000" tvg-country="FR" group-title="✝️ Religieux",Adhan-92100
-https://azuracast-canada.myautodj.com/listen/adhane_92100/radio.mp3
 #EXTINF:-1 tvg-id="rcfbordeaux.fr" tvg-name="RCF Bordeaux" tvg-logo="https://station-images-prod.radio-assets.com/300/rcfbordeaux.png" tvg-country="FR" group-title="✝️ Religieux",RCF Bordeaux
 http://rcf.streamakaci.com/rcf33.mp3
 #EXTINF:-1 tvg-id="adventradio.fr" tvg-name="AdventRadio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s220481g.png" tvg-country="FR" group-title="✝️ Religieux",AdventRadio
@@ -3408,14 +3406,14 @@ http://51.210.179.55:8000/stream
 http://essentielradioing.streamakaci.com/essentielbible.mp3
 #EXTINF:-1 tvg-id="laradiodenoel.fr" tvg-name="La radio de Noël" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radionoel.fr&size=256" tvg-country="FR" group-title="✝️ Religieux",La radio de Noël
 http://live1.jupinfo.fr:8000/radiodenoel
-#EXTINF:-1 tvg-id="hotmixchristmas.fr" tvg-name="Hotmix Christmas" tvg-logo="https://cdn.hotmixradio.com/hotmix-christmas-en-mp3.jpg" tvg-country="FR" group-title="✝️ Religieux",Hotmix Christmas
-https://streaming.hotmixradio.com/hotmix-christmas-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="radioecclesianimes.fr" tvg-name="Radio Ecclesia Nimes" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://radioecclesia.com&size=256" tvg-country="FR" group-title="✝️ Religieux",Radio Ecclesia Nimes
 https://radioecclesia.ice.infomaniak.ch/radioecclesia-192.mp3
 #EXTINF:-1 tvg-id="rcfhautesavoie.fr" tvg-name="RCF Haute-Savoie" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rcf.fr&size=256" tvg-country="FR" group-title="✝️ Religieux",RCF Haute-Savoie
 http://rcf.streamakaci.com/rcf74.mp3
 #EXTINF:-1 tvg-id="frequence3xmas.fr" tvg-name="Fréquence 3+ Xmas" tvg-logo="https://api.net-radio.fr/static/img/stations/frequence3plusxmas.png" tvg-country="FR" group-title="✝️ Religieux",Fréquence 3+ Xmas
 https://hls.net-radio.fr/Frequence3Plus-19/Frequence3Plus-19.m3u8
+#EXTINF:-1 tvg-id="adhan92100.fr" tvg-name="Adhan-92100" tvg-logo="https://cdn-profiles.tunein.com/s350855/images/logod.png?t=639027000500000000" tvg-country="FR" group-title="✝️ Religieux",Adhan-92100
+https://azuracast-canada.myautodj.com/listen/adhane_92100/radio.mp3
 #EXTINF:-1 tvg-id="wrcfradiofrance.fr" tvg-name="WRCF Radio France" tvg-logo="https://ui-avatars.com/api/?name=WRCF+Radio+France&size=256&background=random&bold=true" tvg-country="FR" group-title="✝️ Religieux",WRCF Radio France
 http://91.121.59.45:8361/stream
 #EXTINF:-1 tvg-id="radiopresencetoulouse.fr" tvg-name="Radio Présence Toulouse" tvg-logo="https://station-images-prod.radio-assets.com/300/radiopresence.png" tvg-country="FR" group-title="✝️ Religieux",Radio Présence Toulouse
@@ -3424,18 +3422,22 @@ https://direct.radiopresence.com/presence
 https://direct.radiopresence.com/radio-presence-lot
 #EXTINF:-1 tvg-id="essentielradio.fr" tvg-name="ESSENTIEL radio" tvg-logo="https://station-images-prod.radio-assets.com/300/essentiel.png" tvg-country="FR" group-title="✝️ Religieux",ESSENTIEL radio
 http://essentielradioing.streamakaci.com/essentielradio.mp3
+#EXTINF:-1 tvg-id="hotmixchristmas.fr" tvg-name="Hotmix Christmas" tvg-logo="https://cdn.hotmixradio.com/hotmix-christmas-en-mp3.jpg" tvg-country="FR" group-title="✝️ Religieux",Hotmix Christmas
+https://streaming.hotmixradio.com/hotmix-christmas-en-mp3?provider=radiobrowser
 #EXTINF:-1 tvg-id="essentielfr.fr" tvg-name="ESSENTIEL.fr" tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ESSENTIEL.fr1200.png" tvg-country="FR" group-title="✝️ Religieux",ESSENTIEL.fr
 http://cdnradio.streamakaci.com/essentielfr.mp3
 #EXTINF:-1 tvg-id="rcfsaintetienne.fr" tvg-name="RCF Saint-Étienne" tvg-logo="https://station-images-prod.radio-assets.com/300/rcfsaintetienne.png" tvg-country="FR" group-title="✝️ Religieux",RCF Saint-Étienne
 http://rcf.streamakaci.com/rcf42.mp3
 #EXTINF:-1 tvg-id="radiopresencefigeac.fr" tvg-name="Radio Presence Figeac" tvg-logo="http://direct.radiopresence.com/presence.png" tvg-country="FR" group-title="✝️ Religieux",Radio Presence Figeac
 http://direct.radiopresence.com/radio-presence-figeac
+#EXTINF:-1 tvg-id="rcfnorddefrance.fr" tvg-name="RCF Nord de France" tvg-logo="https://cdn-radiotime-logos.tunein.com/s130086g.png" tvg-country="FR" group-title="✝️ Religieux",RCF Nord de France
+http://rcf.streamakaci.com/rcf59.mp3
 #EXTINF:-1 tvg-id="christmashits1.fr" tvg-name="Christmas hits 1" tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" tvg-country="FR" group-title="✝️ Religieux",Christmas hits 1
 https://hits1christmas-audiomediaradio.radioca.st/christmas
 #EXTINF:-1 tvg-id="croonerradiochristmas.fr" tvg-name="Crooner Radio Christmas" tvg-logo="https://cdn-profiles.tunein.com/s235761/images/logog.png" tvg-country="FR" group-title="✝️ Religieux",Crooner Radio Christmas
 http://croonerradio_christmas.ice.infomaniak.ch/croonerradio-christmas-midfi.mp3
-#EXTINF:-1 tvg-id="bibleesperance.fr" tvg-name="Bible Esperance" tvg-logo="https://radio-esperance.net/0_ico/apple-touch-icon-120x120.png" tvg-country="FR" group-title="✝️ Religieux",Bible Esperance
-http://esperance.streamakaci.com/parole-de-dieu.mp3
+#EXTINF:-1 tvg-id="rcfnicecotedazur.fr" tvg-name="RCF Nice Côte d'Azur" tvg-logo="https://cdn-radiotime-logos.tunein.com/s129966g.png" tvg-country="FR" group-title="✝️ Religieux",RCF Nice Côte d'Azur
+http://rcf.streamakaci.com/rcf06.mp3
 #EXTINF:-1 tvg-id="radio74.fr" tvg-name="RADIO 74" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radio74.org&size=256" tvg-country="FR" group-title="✝️ Religieux",RADIO 74
 http://radio74.ice.infomaniak.ch/radio74-low.mp3
 #EXTINF:-1 tvg-id="radiolapurdiirratia.fr" tvg-name="Radio LAPURDI Irratia" tvg-logo="http://www.lapurdi.net/favicon.ico" tvg-country="FR" group-title="✝️ Religieux",Radio LAPURDI Irratia
@@ -3472,8 +3474,6 @@ https://d3m456gauclwb5.cloudfront.net/radiogospel_high
 https://rcf.streamakaci.com/rcfoccitanie.mp3
 #EXTINF:-1 tvg-id="radiopresencelourdes.fr" tvg-name="Radio Presence Lourdes" tvg-logo="http://direct.radiopresence.com/presence.png" tvg-country="FR" group-title="✝️ Religieux",Radio Presence Lourdes
 http://direct.radiopresence.com/radio-presence-lourdes
-#EXTINF:-1 tvg-id="rcfnorddefrance.fr" tvg-name="RCF Nord de France" tvg-logo="https://cdn-radiotime-logos.tunein.com/s130086g.png" tvg-country="FR" group-title="✝️ Religieux",RCF Nord de France
-http://rcf.streamakaci.com/rcf59.mp3
 #EXTINF:-1 tvg-id="rcfcorreze.fr" tvg-name="RCF Corrèze" tvg-logo="https://station-images-prod.radio-assets.com/300/rcfcorreze.png" tvg-country="FR" group-title="✝️ Religieux",RCF Corrèze
 http://rcf.streamakaci.com/rcf19.mp3
 #EXTINF:-1 tvg-id="radio74888mhz.fr" tvg-name="Radio74 88.8 MHz" tvg-logo="http://www.radio74.org/p/imgs/favicon.ico" tvg-country="FR" group-title="✝️ Religieux",Radio74 88.8 MHz
@@ -3488,36 +3488,38 @@ http://radiojudaicastrasbourg.ice.infomaniak.ch/radiojudaicastrasbourg-128.mp3
 http://rcf.streamakaci.com/rcf76.mp3
 #EXTINF:-1 tvg-id="radioelyonhits.fr" tvg-name="Radio Elyon Hits" tvg-logo="https://cdn-profiles.tunein.com/s352724/images/logog.png" tvg-country="FR" group-title="✝️ Religieux",Radio Elyon Hits
 http://manager7.streamradio.fr:2240/radio
+#EXTINF:-1 tvg-id="bibleesperance.fr" tvg-name="Bible Esperance" tvg-logo="https://radio-esperance.net/0_ico/apple-touch-icon-120x120.png" tvg-country="FR" group-title="✝️ Religieux",Bible Esperance
+http://esperance.streamakaci.com/parole-de-dieu.mp3
 #EXTINF:-1 tvg-id="radiofidelite.fr" tvg-name="Radio Fidélité" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://radio-fidelite.fr&size=256" tvg-country="FR" group-title="✝️ Religieux",Radio Fidélité
 http://diffusion.lafrap.fr/fidelite.mp3
 #EXTINF:-1 tvg-id="salveregina.fr" tvg-name="Salve Regina" tvg-logo="https://cdn-profiles.tunein.com/s114034/images/logog.png" tvg-country="FR" group-title="✝️ Religieux",Salve Regina
 http://hosting.studioradiomedia.fr:2520/stream
 #EXTINF:-1 tvg-id="pharefm.fr" tvg-name="Phare FM" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://pharefm.com&size=256" tvg-country="FR" group-title="✝️ Religieux",Phare FM
 http://str0.creacast.com/pharefm
-#EXTINF:-1 tvg-id="rcfnicecotedazur.fr" tvg-name="RCF Nice Côte d'Azur" tvg-logo="https://cdn-radiotime-logos.tunein.com/s129966g.png" tvg-country="FR" group-title="✝️ Religieux",RCF Nice Côte d'Azur
-http://rcf.streamakaci.com/rcf06.mp3
 #EXTINF:-1 tvg-id="tropiquesfm.fr" tvg-name="Tropiques FM" tvg-logo="https://station-images-prod.radio-assets.com/300/tropiquesfm.jpeg" tvg-country="FR" group-title="📍 Radios locales",Tropiques FM
 http://listen.radioking.com/radio/8916/stream/19088
 #EXTINF:-1 tvg-id="francebleuprovence.fr" tvg-name="France Bleu Provence" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Provence
 https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=radiofrance
+#EXTINF:-1 tvg-id="kissfmdesainttropezamonaco.fr" tvg-name="Kiss FM (de Saint-Tropez à Monaco)" tvg-logo="https://kissfm.fr/wp-content/uploads/2023/07/cropped-icc-192x192-1.png" tvg-country="FR" group-title="📍 Radios locales",Kiss FM (de Saint-Tropez à Monaco)
+http://kissfm.ice.infomaniak.ch/kissfm-128.mp3
 #EXTINF:-1 tvg-id="beurfm.fr" tvg-name="Beur FM" tvg-logo="https://station-images-prod.radio-assets.com/300/beurfm.png" tvg-country="FR" group-title="📍 Radios locales",Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1 tvg-id="icinord.fr" tvg-name="ICI NORD" tvg-logo="https://www.francebleu.fr/images/logo-ici.jpg" tvg-country="FR" group-title="📍 Radios locales",ICI NORD
 https://stream.radiofrance.fr/fbnord/fbnord_midfi.m3u8
-#EXTINF:-1 tvg-id="kissfmdesainttropezamonaco.fr" tvg-name="Kiss FM (de Saint-Tropez à Monaco)" tvg-logo="https://kissfm.fr/wp-content/uploads/2023/07/cropped-icc-192x192-1.png" tvg-country="FR" group-title="📍 Radios locales",Kiss FM (de Saint-Tropez à Monaco)
-http://kissfm.ice.infomaniak.ch/kissfm-128.mp3
 #EXTINF:-1 tvg-id="radio5050.fr" tvg-name="Radio 50/50" tvg-logo="https://www.radio5050.com/assets/img/favicons/android-chrome-512x512.png" tvg-country="FR" group-title="📍 Radios locales",Radio 50/50
 https://stream.radio5050.com/
 #EXTINF:-1 tvg-id="francebleuparis.fr" tvg-name="France Bleu Paris" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Paris
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
-#EXTINF:-1 tvg-id="galaxiefm9530.fr" tvg-name="Galaxie FM 95.30" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.galaxieradio.fr&size=256" tvg-country="FR" group-title="📍 Radios locales",Galaxie FM 95.30
-https://listen.radioking.com/radio/15684/stream/29075
 #EXTINF:-1 tvg-id="radioscooplyon.fr" tvg-name="Radio SCOOP - Lyon" tvg-logo="https://station-images-prod.radio-assets.com/300/radioscoop.png" tvg-country="FR" group-title="📍 Radios locales",Radio SCOOP - Lyon
 https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-64.aac
 #EXTINF:-1 tvg-id="francebleunord.fr" tvg-name="France Bleu Nord" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Nord
 http://direct.francebleu.fr/live/fbnord-midfi.mp3
 #EXTINF:-1 tvg-id="francebleualsace.fr" tvg-name="France Bleu Alsace" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Alsace
 https://icecast.radiofrance.fr/fbalsace-midfi.mp3
+#EXTINF:-1 tvg-id="galaxiefm9530.fr" tvg-name="Galaxie FM 95.30" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.galaxieradio.fr&size=256" tvg-country="FR" group-title="📍 Radios locales",Galaxie FM 95.30
+https://listen.radioking.com/radio/15684/stream/29075
+#EXTINF:-1 tvg-id="francebleuherault.fr" tvg-name="France Bleu Hérault" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Hérault
+http://direct.francebleu.fr/live/fbherault-midfi.mp3
 #EXTINF:-1 tvg-id="iciloireocean.fr" tvg-name="Ici Loire Océan" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.francebleu.fr&size=256" tvg-country="FR" group-title="📍 Radios locales",Ici Loire Océan
 http://direct.francebleu.fr/live/fbloireocean-midfi.mp3
 #EXTINF:-1 tvg-id="deltafmdunkerque.fr" tvg-name="Delta FM Dunkerque" tvg-logo="https://station-images-prod.radio-assets.com/300/deltafmdunkerque.png" tvg-country="FR" group-title="📍 Radios locales",Delta FM Dunkerque
@@ -3526,8 +3528,6 @@ http://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.mp3
 http://direct.francebleu.fr/live/fbgironde-midfi.mp3
 #EXTINF:-1 tvg-id="madein80.fr" tvg-name="Made in 80" tvg-logo="https://madein80.fr/wp-content/uploads/2026/09/logo-Made-in-80-845x684.png" tvg-country="FR" group-title="📍 Radios locales",Made in 80
 https://stream2.madein80.live/listen/madein80/play.mp3
-#EXTINF:-1 tvg-id="francebleuherault.fr" tvg-name="France Bleu Hérault" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Hérault
-http://direct.francebleu.fr/live/fbherault-midfi.mp3
 #EXTINF:-1 tvg-id="francebleuroussillon.fr" tvg-name="France Bleu Roussillon" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Roussillon
 http://direct.francebleu.fr/live/fbroussillon-midfi.mp3
 #EXTINF:-1 tvg-id="witfm.fr" tvg-name="Wit FM" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/witfm/images/favicon.vnd.microsoft.icon" tvg-country="FR" group-title="📍 Radios locales",Wit FM
@@ -3576,8 +3576,6 @@ https://sc.creacast.com/radio8.mp3
 http://direct.francebleu.fr/live/fbchampagne-midfi.mp3
 #EXTINF:-1 tvg-id="francebleupaysdesavoie.fr" tvg-name="France Bleu Pays de Savoie" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Pays de Savoie
 http://direct.francebleu.fr/live/fbpaysdesavoie-midfi.mp3
-#EXTINF:-1 tvg-id="radiocampusparis.fr" tvg-name="Radio Campus Paris" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radiocampusparis.org&size=256" tvg-country="FR" group-title="📍 Radios locales",Radio Campus Paris
-https://www.radiocampusparis.org/stream/
 #EXTINF:-1 tvg-id="totemcantalhauteloirepuydedome.fr" tvg-name="Totem Cantal Haute-Loire Puy-de-Dôme" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/totem/images/favicon.x-icon" tvg-country="FR" group-title="📍 Radios locales",Totem Cantal Haute-Loire Puy-de-Dôme
 http://aratotem.ice.infomaniak.ch/auvergne.mp3
 #EXTINF:-1 tvg-id="campusfmtoulouse.fr" tvg-name="Campus FM Toulouse" tvg-logo="https://station-images-prod.radio-assets.com/300/campusfmtoulouse.png" tvg-country="FR" group-title="📍 Radios locales",Campus FM Toulouse
@@ -3594,6 +3592,8 @@ http://str0.creacast.com/rec
 http://str0.creacast.com/vosgesfm-remiremont
 #EXTINF:-1 tvg-id="francebleubearn.fr" tvg-name="France Bleu Béarn" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Béarn
 http://direct.francebleu.fr/live/fbbearn-midfi.mp3
+#EXTINF:-1 tvg-id="fusionfm.fr" tvg-name="Fusion FM" tvg-logo="https://cdn-profiles.tunein.com/s300079/images/logog.png" tvg-country="FR" group-title="📍 Radios locales",Fusion FM
+http://fusionfm.ice.infomaniak.ch/fusionfm-192.mp3
 #EXTINF:-1 tvg-id="rcanantes.fr" tvg-name="RCA Nantes" tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/rca/images/favicon.ico" tvg-country="FR" group-title="📍 Radios locales",RCA Nantes
 https://rcanantes.ice.infomaniak.ch/rcanantes-192.mp3
 #EXTINF:-1 tvg-id="oxygenegrenoble.fr" tvg-name="Oxygene Grenoble" tvg-logo="https://radiooxygene.com/wp-content/uploads/2020/06/logo-MOBILE-1.png" tvg-country="FR" group-title="📍 Radios locales",Oxygene Grenoble
@@ -3676,8 +3676,6 @@ http://str0.creacast.com/estfm1
 http://manager8.streamradio.fr:2800/;?type=http&nocache=1703080981
 #EXTINF:-1 tvg-id="francebleuarmorique.fr" tvg-name="France Bleu Armorique" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Armorique
 http://direct.francebleu.fr/live/fbarmorique-midfi.mp3
-#EXTINF:-1 tvg-id="fusionfm.fr" tvg-name="Fusion FM" tvg-logo="https://cdn-profiles.tunein.com/s300079/images/logog.png" tvg-country="FR" group-title="📍 Radios locales",Fusion FM
-http://fusionfm.ice.infomaniak.ch/fusionfm-192.mp3
 #EXTINF:-1 tvg-id="francebleugardlozere.fr" tvg-name="France Bleu Gard Lozère" tvg-logo="https://www.ici.fr/images/logo-512.png" tvg-country="FR" group-title="📍 Radios locales",France Bleu Gard Lozère
 http://direct.francebleu.fr/live/fbgardlozere-midfi.mp3
 #EXTINF:-1 tvg-id="radiosommieres.fr" tvg-name="Radio Sommières" tvg-logo="https://station-images-prod.radio-assets.com/300/sommieres.png" tvg-country="FR" group-title="📍 Radios locales",Radio Sommières
@@ -3788,6 +3786,8 @@ https://live.campusgrenoble.org/rcg112
 http://wit2000.ice.infomaniak.ch/wit2000.mp3
 #EXTINF:-1 tvg-id="leposteparisien.fr" tvg-name="Le poste parisien" tvg-logo="https://static.wixstatic.com/media/8f2aad_f34c5a8400a54644a8d1c5845b03ce35~mv2.png/v1/fill/w_360,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8f2aad_f34c5a8400a54644a8d1c5845b03ce35~mv2.png" tvg-country="FR" group-title="📍 Radios locales",Le poste parisien
 https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio
+#EXTINF:-1 tvg-id="radiocampusparis.fr" tvg-name="Radio Campus Paris" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.radiocampusparis.org&size=256" tvg-country="FR" group-title="📍 Radios locales",Radio Campus Paris
+https://www.radiocampusparis.org/stream/
 #EXTINF:-1 tvg-id="meusefmverdun.fr" tvg-name="Meuse FM Verdun" tvg-logo="https://station-images-prod.radio-assets.com/300/meusefmverdun.png" tvg-country="FR" group-title="📍 Radios locales",Meuse FM Verdun
 http://www.radioking.com/play/meuse-fm-verdun
 #EXTINF:-1 tvg-id="radioparisobscur.fr" tvg-name="Radio Paris Obscur" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.parisobscur.com&size=256" tvg-country="FR" group-title="📍 Radios locales",Radio Paris Obscur
@@ -3972,10 +3972,10 @@ http://stream.chantefrance.com/Chante_France
 http://mfm.ice.infomaniak.ch/mfm-128.mp3
 #EXTINF:-1 tvg-id="alouette.fr" tvg-name="Alouette" tvg-logo="https://station-images-prod.radio-assets.com/300/alouette.png" tvg-country="FR" group-title="🎲 Autres",Alouette
 https://alouette.ice.infomaniak.ch/alouette-high.mp3
-#EXTINF:-1 tvg-id="mradiofrance.fr" tvg-name="MRADIO FRANCE" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🎲 Autres",MRADIO FRANCE
-http://mfm.ice.infomaniak.ch/mfm-64.aac
 #EXTINF:-1 tvg-id="cinemix.fr" tvg-name="CINEMIX" tvg-logo="https://station-images-prod.radio-assets.com/300/cinemix.png" tvg-country="FR" group-title="🎲 Autres",CINEMIX
 https://kathy.torontocast.com:1825/stream
+#EXTINF:-1 tvg-id="mradiofrance.fr" tvg-name="MRADIO FRANCE" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🎲 Autres",MRADIO FRANCE
+http://mfm.ice.infomaniak.ch/mfm-64.aac
 #EXTINF:-1 tvg-id="topmusic.fr" tvg-name="Top music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s16483g.png" tvg-country="FR" group-title="🎲 Autres",Top music
 http://str0.creacast.com/topmusic1
 #EXTINF:-1 tvg-id="radiofranciainternacional.fr" tvg-name="RADIO FRANCIA INTERNACIONAL" tvg-logo="https://www.rfi.fr/apple-touch-icon.png" tvg-country="FR" group-title="🎲 Autres",RADIO FRANCIA INTERNACIONAL
@@ -4006,10 +4006,10 @@ https://l.rootslegacy.fr/;
 https://stream.rcs.revma.com/nvsuedfwcy3vv
 #EXTINF:-1 tvg-id="vibration.fr" tvg-name="Vibration" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" tvg-country="FR" group-title="🎲 Autres",Vibration
 http://vibration.ice.infomaniak.ch/vibration-high.mp3
-#EXTINF:-1 tvg-id="odsradio.fr" tvg-name="ODS Radio" tvg-logo="https://station-images-prod.radio-assets.com/300/ods.png" tvg-country="FR" group-title="🎲 Autres",ODS Radio
-http://ods.ice.infomaniak.ch/ods-high.mp3
 #EXTINF:-1 tvg-id="abcloungr.fr" tvg-name="ABC-Loungr" tvg-logo="https://www.abc-lounge.com/radio/wp-content/uploads/2019/11/cropped-Logo-DEF-600px-2019-192x192.png" tvg-country="FR" group-title="🎲 Autres",ABC-Loungr
 http://streaming.radionomy.com/ABC-Lounge
+#EXTINF:-1 tvg-id="mradio100goldman.fr" tvg-name="M Radio 100% Goldman" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🎲 Autres",M Radio 100% Goldman
+http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3
 #EXTINF:-1 tvg-id="bmjradio.fr" tvg-name="#BMJ_Radio" tvg-logo="http://www.bmj-radio.com/img/BMJ.jpg" tvg-country="FR" group-title="🎲 Autres",#BMJ_Radio
 http://radio1.bmj-radio.com:8006/stream
 #EXTINF:-1 tvg-id="radiovener.fr" tvg-name="Radio vénèr" tvg-logo="https://plaquetournante.micro-ondes.org/assets/img/442782_1791242434.png" tvg-country="FR" group-title="🎲 Autres",Radio vénèr
@@ -4020,16 +4020,14 @@ https://www.radioking.com/play/galaxienewwave
 http://media.radio-libertaire.org:8080/radiolib.mp3
 #EXTINF:-1 tvg-id="noliferadio.fr" tvg-name="NoLife-Radio" tvg-logo="https://station-images-prod.radio-assets.com/300/nolife-radio.png" tvg-country="FR" group-title="🎲 Autres",NoLife-Radio
 https://listen.nolife-radio.com/
-#EXTINF:-1 tvg-id="ktoradio.fr" tvg-name="KTO Radio" tvg-logo="https://www.ktoradio.com/_next/image?url=https%3A%2F%2Fns3200830.ip-141-94-133.eu%2Fradioscreen%2Fdata%2Fprod%2Fe7696813-ef6f-4d8a-b522-ddf327bdd87a%2Fdab-gen%2Fimage.jpg%3Fts%3D1768733601157&w=256&q=75" tvg-country="FR" group-title="🎲 Autres",KTO Radio
-https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/master.m3u8
 #EXTINF:-1 tvg-id="allzicradiochopin.fr" tvg-name="Allzic Radio Chopin" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎲 Autres",Allzic Radio Chopin
 https://allzicradiochopin.ice.infomaniak.ch/allzicradiochopin-128.mp3
 #EXTINF:-1 tvg-id="mradiodisney.fr" tvg-name="MRadio Disney" tvg-logo="https://station-images-prod.radio-assets.com/300/mradiodisney.png" tvg-country="FR" group-title="🎲 Autres",MRadio Disney
 http://mfmwr-002.ice.infomaniak.ch/mfmwr-002.mp3
+#EXTINF:-1 tvg-id="odsradio.fr" tvg-name="ODS Radio" tvg-logo="https://station-images-prod.radio-assets.com/300/ods.png" tvg-country="FR" group-title="🎲 Autres",ODS Radio
+http://ods.ice.infomaniak.ch/ods-high.mp3
 #EXTINF:-1 tvg-id="reccordgarageuk.fr" tvg-name="📻 Reccord Garage UK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_3RdF5cVH6q2LM_ODf6MgxlD4oSISDe8zLTTyN7wQ65ftFxfjOC4FvoW3wEHDeoZPI46pnJcUp0jESGo-NPwN8hwwipe5XXXsvNUsv5qonbUtcnAubEmtqkfNtHohWY6VdQPJUUBDp4XYUCwvlIaxu5ASAFKM49y3XSwlCRUjvYXboeK587WhM6hL/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-12-08_09-36-30.png" tvg-country="FR" group-title="🎲 Autres",📻 Reccord Garage UK
 https://radiorecord.hostingradio.ru/ukgarage96.aacp
-#EXTINF:-1 tvg-id="mradio100goldman.fr" tvg-name="M Radio 100% Goldman" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🎲 Autres",M Radio 100% Goldman
-http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3
 #EXTINF:-1 tvg-id="radyoga.fr" tvg-name="Radyoga" tvg-logo="https://www.radyoga.fr/wp-content/uploads/2025/11/www_radyoga_fr_apple-touch-icon.png" tvg-country="FR" group-title="🎲 Autres",Radyoga
 https://play.radioking.io/radyoga/72311
 #EXTINF:-1 tvg-id="alouettemaineetloire.fr" tvg-name="ALOUETTE MAINE ET LOIRE" tvg-logo="http://www.alouette.fr/favicon.ico" tvg-country="FR" group-title="🎲 Autres",ALOUETTE MAINE ET LOIRE
@@ -4042,6 +4040,8 @@ http://www.radiogalere.org:8080/galere.mp3
 http://collineslaradio.ice.infomaniak.ch/collineslaradio-128.mp3
 #EXTINF:-1 tvg-id="mfmnouvellescene.fr" tvg-name="mfm nouvelle scène" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🎲 Autres",mfm nouvelle scène
 http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
+#EXTINF:-1 tvg-id="ktoradio.fr" tvg-name="KTO Radio" tvg-logo="https://www.ktoradio.com/_next/image?url=https%3A%2F%2Fns3200830.ip-141-94-133.eu%2Fradioscreen%2Fdata%2Fprod%2Fe7696813-ef6f-4d8a-b522-ddf327bdd87a%2Fdab-gen%2Fimage.jpg%3Fts%3D1768733601157&w=256&q=75" tvg-country="FR" group-title="🎲 Autres",KTO Radio
+https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/master.m3u8
 #EXTINF:-1 tvg-id="mradio100celinedion.fr" tvg-name="M Radio 100% Céline Dion" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🎲 Autres",M Radio 100% Céline Dion
 http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
 #EXTINF:-1 tvg-id="voltage2000.fr" tvg-name="Voltage 2000" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/voltage/images/favicon.vnd.microsoft.icon" tvg-country="FR" group-title="🎲 Autres",Voltage 2000
@@ -4072,6 +4072,8 @@ https://allzic52.ice.infomaniak.ch/allzic52.mp3
 http://radio6-boulognesurmer.ice.infomaniak.ch/radio6-boulognesurmer-128.mp3
 #EXTINF:-1 tvg-id="blackboxclassicus.fr" tvg-name="BlackBox classic US" tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/blackbox/images/favicon.ico" tvg-country="FR" group-title="🎲 Autres",BlackBox classic US
 https://blackbox-classic-us.ice.infomaniak.ch/blackbox-classic-us.mp3
+#EXTINF:-1 tvg-id="radiobeton.fr" tvg-name="Radio Béton !" tvg-logo="https://station-images-prod.radio-assets.com/300/radiobeton.png" tvg-country="FR" group-title="🎲 Autres",Radio Béton !
+http://51.254.220.198:8000/stream.mp3
 #EXTINF:-1 tvg-id="madmoizellecom.fr" tvg-name="MadmoiZelle.com" tvg-logo="https://www.madmoizelle.com/wp-content/themes/madmoizelle-theme/assets/images/favicon/icon.svg" tvg-country="FR" group-title="🎲 Autres",MadmoiZelle.com
 http://www.radioking.com/play/madmoizelle
 #EXTINF:-1 tvg-id="frequence7.fr" tvg-name="Fréquence 7" tvg-logo="https://cdn-profiles.tunein.com/s9508/images/logog.jpg" tvg-country="FR" group-title="🎲 Autres",Fréquence 7
@@ -4082,7 +4084,7 @@ https://alouette-tours.ice.infomaniak.ch/alouette-tours-128.mp3
 http://start-forum.ice.infomaniak.ch/start-forum-high.mp3
 #EXTINF:-1 tvg-id="radioprimitive.fr" tvg-name="RADIO PRIMITIVE" tvg-logo="https://station-images-prod.radio-assets.com/300/radioprimitive.png" tvg-country="FR" group-title="🎲 Autres",RADIO PRIMITIVE
 https://streaming.radioprimitive.fr:8443/live.mp3
-#EXTINF:-1 tvg-id="ed92.fr" tvg-name="ED92" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.ed92.org&size=256" tvg-country="FR" group-title="🎲 Autres",ED92
+#EXTINF:-1 tvg-id="ed92.fr" tvg-name="ED92" tvg-logo="https://image.radioking.io/radios/497074/logo/8a111dde-c44f-4c3b-a142-517a57f6fbf8.png" tvg-country="FR" group-title="🎲 Autres",ED92
 https://listen.radioking.com/radio/497074/stream/554176
 #EXTINF:-1 tvg-id="radiomicheline.fr" tvg-name="Radio Micheline" tvg-logo="https://www.radiomicheline.com/style/logo-radio-micheline-fb.jpg" tvg-country="FR" group-title="🎲 Autres",Radio Micheline
 https://hosting.studioradiomedia.fr:2165/stream
@@ -4114,8 +4116,12 @@ https://diffusion.lafrap.fr/sun-nouvo.mp3
 http://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
 #EXTINF:-1 tvg-id="clazzradio.fr" tvg-name="CLAZZ Radio" tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(Nmdqu9nR2l)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/clazz/images/logo_Y0XNpUiBm6.png" tvg-country="FR" group-title="🎲 Autres",CLAZZ Radio
 https://stream.rcs.revma.com/xsycwftnfm3vv
+#EXTINF:-1 tvg-id="radioone.fr" tvg-name="Radio ONE" tvg-logo="https://cdn-profiles.tunein.com/s253666/images/logog.png" tvg-country="FR" group-title="🎲 Autres",Radio ONE
+http://radioone.ice.infomaniak.ch/radioone-96.mp3
 #EXTINF:-1 tvg-id="musicradioacoustic.fr" tvg-name="Music Radio Acoustic" tvg-logo="https://ui-avatars.com/api/?name=Music+Radio+Acoustic&size=256&background=random&bold=true" tvg-country="FR" group-title="🎲 Autres",Music Radio Acoustic
 https://radio.musicradio.ai/listen/music_radio_acoustic/radio.mp3
+#EXTINF:-1 tvg-id="103radio.fr" tvg-name="103 Radio" tvg-logo="https://cdn-profiles.tunein.com/s127524/images/logog.png" tvg-country="FR" group-title="🎲 Autres",103 Radio
+https://streaming.103radio.fr/128
 #EXTINF:-1 tvg-id="radioscoopclermont.fr" tvg-name="Radio Scoop Clermont" tvg-logo="https://station-images-prod.radio-assets.com/300/scoopclermont.jpeg" tvg-country="FR" group-title="🎲 Autres",Radio Scoop Clermont
 http://radioscoopclermont-ferrand.ice.infomaniak.ch/radioscoop-clermont-128.mp3
 #EXTINF:-1 tvg-id="horizon.fr" tvg-name="Horizon" tvg-logo="https://cdn-profiles.tunein.com/s6574/images/logog.jpg" tvg-country="FR" group-title="🎲 Autres",Horizon
@@ -4126,20 +4132,18 @@ http://100radio-perpignan.ice.infomaniak.ch/100radio-perpignan-128.mp3
 https://mp3.magic-radio.net/prox192
 #EXTINF:-1 tvg-id="pleinairpontarlier.fr" tvg-name="Plein Air Pontarlier" tvg-logo="https://pleinair.net/apple-touch-icon.png" tvg-country="FR" group-title="🎲 Autres",Plein Air Pontarlier
 http://stream.pleinair.net:8000/dr_pontarlier.mp3
+#EXTINF:-1 tvg-id="vertigeradio.fr" tvg-name="VertigeRadio" tvg-logo="https://studio10.vestaradio.com/uploads/temp/logos/logo_1_1_1781885955_bffa6b.jpg" tvg-country="FR" group-title="🎲 Autres",VertigeRadio
+https://stream10.vestaradio.com/VertigeRadio
 #EXTINF:-1 tvg-id="radiodeepspace.fr" tvg-name="Radio Deep Space" tvg-logo="https://static.wixstatic.com/media/989c6f_cb7bd49da1ba49e1987ab55d9a20a7ae~mv2.jpg/v1/fill/w_172,h_172,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/256x256-1.jpg" tvg-country="FR" group-title="🎲 Autres",Radio Deep Space
 https://radionetwork.freeboxos.fr/deepspace?type=http&src=direct
-#EXTINF:-1 tvg-id="singsingflac.fr" tvg-name="singsingFlac" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.sing-sing-bis.org&size=256" tvg-country="FR" group-title="🎲 Autres",singsingFlac
-http://stream.sing-sing-bis.org:8000/singsingFlac
+#EXTINF:-1 tvg-id="mradionouveautes.fr" tvg-name="M Radio - Nouveautés" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🎲 Autres",M Radio - Nouveautés
+https://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
 #EXTINF:-1 tvg-id="vertigeradiogold.fr" tvg-name="Vertige Radio Gold" tvg-logo="https://studio10.vestaradio.com/uploads/temp/logos/logo_1_590_1781885979_797ce8.jpg" tvg-country="FR" group-title="🎲 Autres",Vertige Radio Gold
 https://stream10.vestaradio.com/VertigeRadioGold
 #EXTINF:-1 tvg-id="vertigeradiolove.fr" tvg-name="Vertige Radio Love" tvg-logo="https://studio10.vestaradio.com/uploads/temp/logos/logo_1_483_1781885972_15dfc1.jpg" tvg-country="FR" group-title="🎲 Autres",Vertige Radio Love
 https://stream10.vestaradio.com/VertigeRadioLove
-#EXTINF:-1 tvg-id="radiobeton.fr" tvg-name="Radio Béton !" tvg-logo="https://station-images-prod.radio-assets.com/300/radiobeton.png" tvg-country="FR" group-title="🎲 Autres",Radio Béton !
-http://51.254.220.198:8000/stream.mp3
 #EXTINF:-1 tvg-id="lamellotron.fr" tvg-name="LaMellotron" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.lemellotron.com&size=256" tvg-country="FR" group-title="🎲 Autres",LaMellotron
 https://listen.radioking.com/radio/477719/stream/534044
-#EXTINF:-1 tvg-id="radiotroutrou.fr" tvg-name="Radio Troutrou" tvg-logo="https://station-images-prod.radio-assets.com/300/radiotroutrou.jpeg" tvg-country="FR" group-title="🎲 Autres",Radio Troutrou
-https://listen.radioking.com/radio/353374/stream/413698
 #EXTINF:-1 tvg-id="allzicfairelafete.fr" tvg-name="AllZic faire la fête" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎲 Autres",AllZic faire la fête
 http://allzic26.ice.infomaniak.ch/allzic26.mp3
 #EXTINF:-1 tvg-id="loveradioonlylovesongs70s80s90swwwloveradio.fr" tvg-name="LOVE RADIO Only Love Songs 70s80s90s - www.love.radio" tvg-logo="https://love.radio/wp-content/uploads/2020/10/cropped-LOVE.RADIO-only-love-songs_logo-192x192.png" tvg-country="FR" group-title="🎲 Autres",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
@@ -4228,8 +4232,6 @@ https://playlist.ice.infomaniak.ch/playlist-192.mp3
 https://radio.musicradio.ai/listen/music_radio_focus_study/radio.mp3
 #EXTINF:-1 tvg-id="totemlozere.fr" tvg-name="Totem Lozère" tvg-logo="https://station-images-prod.radio-assets.com/300/totemlozere.jpeg" tvg-country="FR" group-title="🎲 Autres",Totem Lozère
 http://aratotem.ice.infomaniak.ch/lozere.mp3
-#EXTINF:-1 tvg-id="radioone.fr" tvg-name="Radio ONE" tvg-logo="https://cdn-profiles.tunein.com/s253666/images/logog.png" tvg-country="FR" group-title="🎲 Autres",Radio ONE
-http://radioone.ice.infomaniak.ch/radioone-96.mp3
 #EXTINF:-1 tvg-id="pulsradiofranca.fr" tvg-name="Pulsrádio - França" tvg-logo="https://www.pulsradio.com/apple-icon-180x180.png" tvg-country="FR" group-title="🎲 Autres",Pulsrádio - França
 http://mp3.magic-radio.net/
 #EXTINF:-1 tvg-id="radiotempsrodez.fr" tvg-name="Radio Temps Rodez" tvg-logo="https://radiotemps.com/wp-content/uploads/2020/12/LOGO.png" tvg-country="FR" group-title="🎲 Autres",Radio Temps Rodez
@@ -4238,8 +4240,6 @@ https://sd-151888.dedibox.fr/proxy/radiotemps/rtr
 http://91.121.62.121:9100/;stream.nsv
 #EXTINF:-1 tvg-id="100radiofoix.fr" tvg-name="100% Radio Foix" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" tvg-country="FR" group-title="🎲 Autres",100% Radio Foix
 http://100radio-foix.ice.infomaniak.ch/100radio-foix-128.mp3
-#EXTINF:-1 tvg-id="103radio.fr" tvg-name="103 Radio" tvg-logo="https://cdn-profiles.tunein.com/s127524/images/logog.png" tvg-country="FR" group-title="🎲 Autres",103 Radio
-https://streaming.103radio.fr/128
 #EXTINF:-1 tvg-id="odysseeradio.fr" tvg-name="Odyssée Radio" tvg-logo="https://ui-avatars.com/api/?name=Odyss%C3%A9e+Radio&size=256&background=random&bold=true" tvg-country="FR" group-title="🎲 Autres",Odyssée Radio
 http://ecmanager.pro-fhi.net:1400/stream
 #EXTINF:-1 tvg-id="radiogege.fr" tvg-name="Radio Gege" tvg-logo="https://ui-avatars.com/api/?name=Radio+Gege&size=256&background=random&bold=true" tvg-country="FR" group-title="🎲 Autres",Radio Gege
@@ -4264,8 +4264,6 @@ https://duuu.out.airtime.pro/duuu_a
 https://listen.radio230.com/
 #EXTINF:-1 tvg-id="laradiodejet.fr" tvg-name="la radio de Jet" tvg-logo="https://www.jetfm.fr/wp-content/uploads/cropped-favicon-jet-192x192.png" tvg-country="FR" group-title="🎲 Autres",la radio de Jet
 https://diffusion.lafrap.fr/jetfm.mp3
-#EXTINF:-1 tvg-id="vertigeradio.fr" tvg-name="VertigeRadio" tvg-logo="https://studio10.vestaradio.com/uploads/temp/logos/logo_1_1_1781885955_bffa6b.jpg" tvg-country="FR" group-title="🎲 Autres",VertigeRadio
-https://stream10.vestaradio.com/VertigeRadio
 #EXTINF:-1 tvg-id="vogueradio.fr" tvg-name="Vogue Radio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.vogueradio.com&size=256" tvg-country="FR" group-title="🎲 Autres",Vogue Radio
 http://vogueradio.ice.infomaniak.ch/vogueradio-high.mp3
 #EXTINF:-1 tvg-id="mauriceradiolibre.fr" tvg-name="Maurice Radio Libre" tvg-logo="https://mauriceradiolibre.com/wp-content/plugins/MRL-Lecteur-Radio/img/image_player-300x300.jpg" tvg-country="FR" group-title="🎲 Autres",Maurice Radio Libre
@@ -4274,16 +4272,18 @@ https://radio13.pro-fhi.net/live/MauriceRadioLibre
 https://frequenceplus71.ice.infomaniak.ch/frequenceplus71-128.mp3
 #EXTINF:-1 tvg-id="radiorencontredunkerque.fr" tvg-name="Radio Rencontre Dunkerque" tvg-logo="https://ui-avatars.com/api/?name=Radio+Rencontre+Dunkerque&size=256&background=random&bold=true" tvg-country="FR" group-title="🎲 Autres",Radio Rencontre Dunkerque
 https://listen.radioking.com/radio/153745/stream/194338
-#EXTINF:-1 tvg-id="mradionouveautes.fr" tvg-name="M Radio - Nouveautés" tvg-logo="https://mradio.fr/favicon-196.png" tvg-country="FR" group-title="🎲 Autres",M Radio - Nouveautés
-https://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
 #EXTINF:-1 tvg-id="doucefrance.fr" tvg-name="Douce France" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://doucefrance.radio&size=256" tvg-country="FR" group-title="🎲 Autres",Douce France
 https://stream.chantefrance.com/Chante_France.aac
+#EXTINF:-1 tvg-id="singsingflac.fr" tvg-name="singsingFlac" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.sing-sing-bis.org&size=256" tvg-country="FR" group-title="🎲 Autres",singsingFlac
+http://stream.sing-sing-bis.org:8000/singsingFlac
 #EXTINF:-1 tvg-id="voltagework.fr" tvg-name="Voltage @Work" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286694g.png" tvg-country="FR" group-title="🎲 Autres",Voltage @Work
 http://voltagework.ice.infomaniak.ch/voltagework-128.mp3
 #EXTINF:-1 tvg-id="radiogatine.fr" tvg-name="Radio Gâtine" tvg-logo="https://radiogatine.fr/upload/design/5d0a55c722f2a8.17678226.png" tvg-country="FR" group-title="🎲 Autres",Radio Gâtine
 https://hosting.radiomedia.fr:1615/stream
 #EXTINF:-1 tvg-id="radiobarbouillots.fr" tvg-name="Radio Barbouillots" tvg-logo="https://station-images-prod.radio-assets.com/300/barbouillots.png" tvg-country="FR" group-title="🎲 Autres",Radio Barbouillots
 https://stream.rcvfm.fr:8000/barbouillots-192k.mp3
+#EXTINF:-1 tvg-id="radiotroutrou.fr" tvg-name="Radio Troutrou" tvg-logo="https://station-images-prod.radio-assets.com/300/radiotroutrou.jpeg" tvg-country="FR" group-title="🎲 Autres",Radio Troutrou
+https://listen.radioking.com/radio/353374/stream/413698
 #EXTINF:-1 tvg-id="voltageaddictiveradio.fr" tvg-name="Voltage Addictive Radio" tvg-logo="https://www.voltage.fr/favicon.ico" tvg-country="FR" group-title="🎲 Autres",Voltage Addictive Radio
 https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3
 #EXTINF:-1 tvg-id="radioisa.fr" tvg-name="Radio ISA" tvg-logo="https://cdn-profiles.tunein.com/s6600/images/logog.png" tvg-country="FR" group-title="🎲 Autres",Radio ISA
@@ -4308,8 +4308,6 @@ https://www.lemellotron.com/stream
 https://s34.myradiostream.com/:12340/listen.mp3
 #EXTINF:-1 tvg-id="totemaveyronheraultlottarn.fr" tvg-name="Totem Aveyron Hérault Lot Tarn" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/totem/images/favicon.x-icon" tvg-country="FR" group-title="🎲 Autres",Totem Aveyron Hérault Lot Tarn
 http://aratotem.ice.infomaniak.ch/aveyron.mp3
-#EXTINF:-1 tvg-id="radiomercure.fr" tvg-name="Radio Mercure" tvg-logo="https://cdn-profiles.tunein.com/s48721/images/logog.png" tvg-country="FR" group-title="🎲 Autres",Radio Mercure
-http://media.radiomercure.net:8000/live
 #EXTINF:-1 tvg-id="radioalligator.fr" tvg-name="Radio Alligator" tvg-logo="https://station-images-prod.radio-assets.com/300/radioalligator.png" tvg-country="FR" group-title="🎲 Autres",Radio Alligator
 http://listen.radioking.com/radio/39962/stream/76445
 #EXTINF:-1 tvg-id="voltagelove.fr" tvg-name="Voltage Love" tvg-logo="https://cdn-radiotime-logos.tunein.com/s286700g.png" tvg-country="FR" group-title="🎲 Autres",Voltage Love
@@ -4328,6 +4326,8 @@ http://allzic38.ice.infomaniak.ch/allzic38.mp3
 https://stream2.radio666.net/remote192.aac
 #EXTINF:-1 tvg-id="size.fr" tvg-name="Size" tvg-logo="https://www.size-radio.com/wp-content/uploads/2020/05/size-flyer-paris-300.png" tvg-country="FR" group-title="🎲 Autres",Size
 http://n01.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABhBPPq2QAgtFa9ZK1B4aqYA
+#EXTINF:-1 tvg-id="lanotepickingradio.fr" tvg-name="La note Picking Radio" tvg-logo="https://la-note-picking-radio-05.webself.net/favicon.ico" tvg-country="FR" group-title="🎲 Autres",La note Picking Radio
+http://www.radioking.com/play/la-note-picking-radio
 #EXTINF:-1 tvg-id="radioaria.fr" tvg-name="Radio Aria" tvg-logo="https://www.wix.com/favicon.ico" tvg-country="FR" group-title="🎲 Autres",Radio Aria
 http://91.121.62.121:9410/
 #EXTINF:-1 tvg-id="vibrationlove.fr" tvg-name="Vibration Love" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" tvg-country="FR" group-title="🎲 Autres",Vibration Love
@@ -4338,6 +4338,8 @@ http://100radio-montauban.ice.infomaniak.ch/100radio-montauban-128.mp3
 https://play.radioking.io/jdf-radio
 #EXTINF:-1 tvg-id="radioaccordeon.fr" tvg-name="Radio_Accordeon" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://radioenlignefrance.com&size=256" tvg-country="FR" group-title="🎲 Autres",Radio_Accordeon
 https://live2.jupinfo.fr:8443/radioaccordeon
+#EXTINF:-1 tvg-id="iaradio.fr" tvg-name="IAradio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://iaradio.eu&size=256" tvg-country="FR" group-title="🎲 Autres",IAradio
+https://iaradio.ice.infomaniak.ch/iaradio-128.mp3
 #EXTINF:-1 tvg-id="radio.fr" tvg-name="ДИКС" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ital.com&size=256" tvg-country="FR" group-title="🎲 Autres",ДИКС
 http://95.154.196.37:30861/
 #EXTINF:-1 tvg-id="radiotempete.fr" tvg-name="Radio Tempête" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://radiotempete.com&size=256" tvg-country="FR" group-title="🎲 Autres",Radio Tempête
@@ -4658,6 +4660,8 @@ http://str0.creacast.com/vfm
 https://allzic59.ice.infomaniak.ch/allzic59.aac
 #EXTINF:-1 tvg-id="100radiotarbes.fr" tvg-name="100% Radio Tarbes" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" tvg-country="FR" group-title="🎲 Autres",100% Radio Tarbes
 http://100radio-tarbes.ice.infomaniak.ch/100radio-tarbes-128.mp3
+#EXTINF:-1 tvg-id="radiomercure.fr" tvg-name="Radio Mercure" tvg-logo="https://cdn-profiles.tunein.com/s48721/images/logog.png" tvg-country="FR" group-title="🎲 Autres",Radio Mercure
+http://media.radiomercure.net:8000/live
 #EXTINF:-1 tvg-id="feelingfloyd.fr" tvg-name="Feeling Floyd" tvg-logo="https://station-images-prod.radio-assets.com/300/feelingfloyd.png" tvg-country="FR" group-title="🎲 Autres",Feeling Floyd
 http://5.39.71.39:8007/stream
 #EXTINF:-1 tvg-id="ringardwillycat.fr" tvg-name="Ringard Willycat" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fr.play.radioking.com&size=256" tvg-country="FR" group-title="🎲 Autres",Ringard Willycat
@@ -4754,8 +4758,6 @@ https://h2oradio.net-radio.fr/h2oradio-256.mp3
 https://manager8.streamradio.fr/corsaire320
 #EXTINF:-1 tvg-id="allzicradio04ans.fr" tvg-name="Allzic Radio 0/4 ans" tvg-logo="https://www.allzicradio.com/icon-hires.png" tvg-country="FR" group-title="🎲 Autres",Allzic Radio 0/4 ans
 http://allzic14.ice.infomaniak.ch/allzic14.mp3
-#EXTINF:-1 tvg-id="lanotepickingradio.fr" tvg-name="La note Picking Radio" tvg-logo="https://la-note-picking-radio-05.webself.net/favicon.ico" tvg-country="FR" group-title="🎲 Autres",La note Picking Radio
-http://www.radioking.com/play/la-note-picking-radio
 #EXTINF:-1 tvg-id="radioarpitania.fr" tvg-name="Radio Arpitania" tvg-logo="https://cdn-profiles.tunein.com/s344710/images/logog.jpg" tvg-country="FR" group-title="🎲 Autres",Radio Arpitania
 https://listen.radioking.com/radio/28783/stream/64720
 #EXTINF:-1 tvg-id="rlmbastia.fr" tvg-name="RLM Bastia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3JFWKxQeV56JN_4An79jMb97xBIFFwaLNPJ4XbH_vw&s=10" tvg-country="FR" group-title="🎲 Autres",RLM Bastia
@@ -4776,8 +4778,6 @@ http://radiovassiviere.ice.infomaniak.ch/radiovassiviere-128.aac
 http://str0.creacast.com/rve
 #EXTINF:-1 tvg-id="rmn.fr" tvg-name="RMN" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zqwhqb3axdeh.png" tvg-country="FR" group-title="🎲 Autres",RMN
 https://bretagnetv.bzh/concarneau
-#EXTINF:-1 tvg-id="iaradio.fr" tvg-name="IAradio" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://iaradio.eu&size=256" tvg-country="FR" group-title="🎲 Autres",IAradio
-https://iaradio.ice.infomaniak.ch/iaradio-128.mp3
 #EXTINF:-1 tvg-id="laradioplus.fr" tvg-name="La radio Plus" tvg-logo="https://cdn-radiotime-logos.tunein.com/s75863g.png" tvg-country="FR" group-title="🎲 Autres",La radio Plus
 http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
 #EXTINF:-1 tvg-id="radioparadis.fr" tvg-name="Radio Paradis" tvg-logo="https://www.radioparadis.live/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FJulienchilhagopian%2Fradioparadis-client%2Fmain%2Fpublic%2Flogo-night.png&w=48&q=75" tvg-country="FR" group-title="🎲 Autres",Radio Paradis
