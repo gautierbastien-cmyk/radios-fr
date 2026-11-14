@@ -130,7 +130,7 @@ http://europe2.lmn.fm/europe2.mp3
 https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3
 #EXTINF:-1 tvg-id="nostalgie.fr" tvg-name="Nostalgie" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" tvg-country="FR" group-title="🎼 Musique",Nostalgie
 https://streaming.nrjaudio.fm/ouwgwqsk6j4d
-#EXTINF:-1 tvg-id="cheriefm.fr" tvg-name="Chérie FM" tvg-logo="https://media.info/l/o/6/6812.1503485369.png" tvg-country="FR" group-title="🎼 Musique",Chérie FM
+#EXTINF:-1 tvg-id="cheriefm.fr" tvg-name="Chérie FM" tvg-logo="https://ui-avatars.com/api/?name=Ch%C3%A9rie+FM&size=256&background=random&bold=true" tvg-country="FR" group-title="🎼 Musique",Chérie FM
 https://cdnradio.streamakaci.com/cheriefm1.mp3
 #EXTINF:-1 tvg-id="rirechansons.fr" tvg-name="Rire & Chansons" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.rireetchansons.fr&size=256" tvg-country="FR" group-title="🎼 Musique",Rire & Chansons
 https://streaming.nrjaudio.fm/oumof78fnozc
