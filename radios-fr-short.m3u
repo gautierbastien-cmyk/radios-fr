@@ -119,15 +119,15 @@ https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
 #EXTINF:-1 tvg-id="bfmbusiness.fr" tvg-name="BFM Business" tvg-logo="https://station-images-prod.radio-assets.com/300/bfm.png" tvg-country="FR" group-title="📰 Info",BFM Business
 https://audio.bfmtv.com/bfmbusiness_128.mp3
 #EXTINF:-1 tvg-id="sudradio.fr" tvg-name="Sud Radio" tvg-logo="https://cdn-profiles.tunein.com/s25241/images/logog.png" tvg-country="FR" group-title="📰 Info",Sud Radio
-https://ice.creacast.com/sudradio_aac
+https://start-sud.ice.infomaniak.ch/start-sud-high.mp3
 #EXTINF:-1 tvg-id="rtl2.fr" tvg-name="RTL2" tvg-logo="https://station-images-prod.radio-assets.com/300/rtl2.png" tvg-country="FR" group-title="🎼 Musique",RTL2
 http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
 #EXTINF:-1 tvg-id="funradio.fr" tvg-name="Fun Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png" tvg-country="FR" group-title="🎼 Musique",Fun Radio
 http://icecast.funradio.fr/fun-1-44-128
 #EXTINF:-1 tvg-id="europe2.fr" tvg-name="Europe 2" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Europe_2_noir_2024.png" tvg-country="FR" group-title="🎼 Musique",Europe 2
 http://europe2.lmn.fm/europe2.mp3
-#EXTINF:-1 tvg-id="nrj.fr" tvg-name="NRJ" tvg-logo="https://ui-avatars.com/api/?name=NRJ&size=256&background=random&bold=true" tvg-country="FR" group-title="🎼 Musique",NRJ
-https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3
+#EXTINF:-1 tvg-id="nrj.fr" tvg-name="NRJ" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nrj.fr&size=256" tvg-country="FR" group-title="🎼 Musique",NRJ
+https://streaming.nrjaudio.fm/ou7xugf3s5gi?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Hits
 #EXTINF:-1 tvg-id="nostalgie.fr" tvg-name="Nostalgie" tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.nostalgie.fr&size=256" tvg-country="FR" group-title="🎼 Musique",Nostalgie
 https://streaming.nrjaudio.fm/ouwgwqsk6j4d
 #EXTINF:-1 tvg-id="cheriefm.fr" tvg-name="Chérie FM" tvg-logo="https://ui-avatars.com/api/?name=Ch%C3%A9rie+FM&size=256&background=random&bold=true" tvg-country="FR" group-title="🎼 Musique",Chérie FM
